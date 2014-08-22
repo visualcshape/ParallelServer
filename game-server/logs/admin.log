@@ -1,0 +1,1 @@
+[2014-08-14 03:06:09.260] [INFO] admin-log - [32m[/Users/Vodalok/Parallelformosa/Parallelformosa_Cocos2dx/server/game-server/node_modules/pomelo/lib/master/master.js] [39m{"action":"execute","moduleId":"__console__","method":"clientHandler","msg":{"signal":"stop","ids":[],"clientId":"pomelo_terminal_1407949569190","username":"admin"}}

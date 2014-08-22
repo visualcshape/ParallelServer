@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="pomelo" type="javaScript">
+    <properties>
+      <option name="frameworkName" value="node_modules" />
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/game-server/node_modules/pomelo" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/game-server/node_modules/pomelo" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
