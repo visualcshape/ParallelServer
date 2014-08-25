@@ -23,7 +23,7 @@ Remote.prototype.dispatchUID = function(uid,cb)//callback:return status , uid
                 cb(err, null);
                 return;
             }
-            cb(null, {code: Code.OK, type:"create", uid: resp.uid});
+            cb(null, {code: Code.OK, type:"create", uid: resp.uid.toString()});
         });
     }
     else
