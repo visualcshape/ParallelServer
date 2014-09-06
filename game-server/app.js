@@ -38,6 +38,17 @@ app.configure('production|development','auth',function()
 {
     //nothing to do here now...
 });
+//connector configure
+app.configure('production|development','connector',function()
+{
+   app.set('connectorConfig',
+       {
+          connector:pomelo.connectors.hybridconnector,
+           heartbeat:30,
+           useProtobuf:true
+       });
+});
+
 //DB configure
 app.configure('development|production',function()
 {

@@ -3,4 +3,5 @@
  */
 
 //to dispatch route..
-//nothing to do now.
+var dispatcher = require('./dispatcher');
+var exp = module.exports;

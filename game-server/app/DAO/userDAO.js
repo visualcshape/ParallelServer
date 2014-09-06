@@ -42,6 +42,11 @@ userDAO.isExistUID = function(uid,cb)
            cb({code:err.number,msg:err.message},null);
        }else
        {
+           if(resp.length==0)
+           {
+               cb(null,{code:Code.OK,result:false});
+               return;
+           }
            cb(null,{code:Code.OK,result:true});
        }
     });

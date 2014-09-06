@@ -35,7 +35,7 @@ Remote.prototype.dispatchUID = function(uid,cb)//callback:return status , uid
                 cb(err,null);
                 return;
             }
-            cb(null,{code:Code.OK,type:"isExist",result:resp.result});
+            cb(null,{code:Code.OK,type:"isExist",result:resp.result.toString()});
         });
     }
 };

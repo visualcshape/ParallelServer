@@ -10,6 +10,11 @@
             [
                 {"id":"auth-server-1","host":"127.0.0.1","port":3200,"args":"--debug=32001"}
             ]
+        ,
+        "connector":
+            [
+                {"id":"connector-server-1","host":"192.168.2.102","port":3300,"clientPort":3350,"frontend":true,"args":"--debug=32003"}
+            ]
     },
     "production":
     {
@@ -20,7 +25,12 @@
         ,
         "auth":
             [
-                {"id":"auth-server-1","host":"127.0.0.1","port":3200,"clientPort":3250}
+                {"id":"auth-server-1","host":"127.0.0.1","port":3200}
+            ]
+        ,
+        "connector":
+            [
+                {"id":"connector-server-1","host":"127.0.0.1","port":3300,"clientPort":3350,"frontend":true}
             ]
     }
 }
