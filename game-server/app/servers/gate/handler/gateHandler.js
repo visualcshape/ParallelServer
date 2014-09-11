@@ -52,9 +52,21 @@ handler.authUIDAndDispatch = function(msg,session,next)
             uid = resp.uid;
         }
         //dispatch connector
-        var resToAppend = dispatcher.dispatchConnector(uid,connector);
-        resp.connectorHost = resToAppend.host;
-        resp.connectorPort = resToAppend.clientPort;
-        next(null,{code:Code.OK,resp:resp});
+        var flag = false;
+        var dispatchConnectorInfo = function() {
+            var resToAppend = dispatcher.dispatchConnector(uid,connector);
+            try {
+                flag = true;
+                resp.connectorHost = resToAppend.host;
+                resp.connectorPort = resToAppend.clientPort;
+            } catch (err) {
+                flag = false;
+                console.log(err);
+                setTimeout(function(){dispatchConnectorInfo()},5000);
+            }
+            if(flag)
+                next(null,{code:Code.OK,resp:resp});
+        };
+        dispatchConnectorInfo();
     });
 };

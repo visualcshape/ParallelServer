@@ -7,7 +7,8 @@ var exp = module.exports;
 
 exp.dispatchConnector = function(uid,connector)
 {
-    //var c = parseInt(crc.crc32(uid));
-    var index = Math.abs(parseInt(crc.crc32(uid)))%connector.length;
+    console.log(crc.crc32(uid));
+    console.log(parseInt(crc.crc32(uid), 16));
+    var index = Math.abs(parseInt(crc.crc32(uid),16))%connector.length;
     return connector[index];
 };
