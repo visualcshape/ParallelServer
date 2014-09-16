@@ -1,0 +1,2139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CoastalWatersForecast xmlns:dc="http://www.gov.tw/schema/dc/govtwsimpledc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wf.xsd">
+    <XmlVersion>
+        <Version>0.25</Version>
+        <Description>Beta</Description>
+</XmlVersion>
+    <BulletinInformation>
+        <BulletinName>海面天氣預報</BulletinName>
+        <TableInformation>
+            <![CDATA[
+CoastalWatersForecast:海面天氣預報        XmlVersion:檔案版本資訊        Version:版本                   Description:此檔案版本描述               BulletinInformation: 公告資訊                   BulletinName: 名稱公告                   TableInformation  :  欄位公告                   IssueTime        :  預報發布時間                       Time          :  時間戳記                   StartValidTime      :  預報起始時間                      Time             :  時間戳記                   EndValidTime          :  預報結束時間                      Time                :  時間戳記                   Lang                  :  語言                   Status               :  此預報狀況(目前未使用)                     CoastalWatersForecastInformation:  海面天氣預報資訊                       AreaForecastData    :  各區域天氣預報資料                      @area        :  區域名稱                      StartValidTime          :  預報起始時間                           Time                  :  時間戳記                      EndValidTime           :  預報終止時間                            Time                 :  時間戳記                      Weather               :  天氣狀況                           Description          :  描述                          Icon              :  圖示                             URL                    :  圖示路徑                      Wind                   :  預報海面風相關資訊                          Dir                    :  預報海面風向                          Level                 :  預報海面風級                      Weave                  :  預報海面波浪相關資訊                          Height               :  預報海面波浪高度                          Unit                 :  浪高單位                          Type               :  預報海面波浪型態]]>
+</TableInformation>
+        <IssueTime>
+            <Time>2014-09-16T22:30:00+08:00</Time>
+</IssueTime>
+        <StartValidTime>
+            <Time>2014-09-17T00:00:00+08:00</Time>
+</StartValidTime>
+        <EndValidTime>
+            <Time>2014-09-20T00:00:00+08:00</Time>
+</EndValidTime>
+        <Lang>zh-TW</Lang>
+        <Status>0</Status>
+</BulletinInformation>
+    <CoastalWatersForecastInformation>
+        <AreaForecastData area="釣魚台海面">
+            <StartValidTime>
+                <Time>2014-09-17T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>東南轉偏南風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>1至2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>小浪至中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="釣魚台海面">
+            <StartValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>陰局部陣雨</Description>
+                <Icon>26</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏南轉偏東風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2轉1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪轉小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="釣魚台海面">
+            <StartValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-20T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲時陰局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏東轉偏北風</Dir>
+                <Speed>4級陣風6級以下下午轉5至6陣風8級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>1轉2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>小浪轉中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="彭佳嶼基隆海面">
+            <StartValidTime>
+                <Time>2014-09-17T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲</Description>
+                <Icon>2</Icon>
+</Weather>
+            <Wind>
+                <Dir>東南轉偏南風</Dir>
+                <Speed>4至5陣風7級下午轉4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>1至2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>小浪至中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="彭佳嶼基隆海面">
+            <StartValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>陰局部陣雨</Description>
+                <Icon>26</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏南轉東南風</Dir>
+                <Speed>4級陣風6級以下下午轉4至5陣風7級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2轉1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪轉小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="彭佳嶼基隆海面">
+            <StartValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-20T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲時陰局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>東南轉偏北風</Dir>
+                <Speed>4至5陣風7級晨轉4級陣風6級以下下午再轉5至6陣風8級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>1轉2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>小浪轉中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="宜蘭蘇澳沿海">
+            <StartValidTime>
+                <Time>2014-09-17T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏南風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>1至2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>小浪至中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="宜蘭蘇澳沿海">
+            <StartValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>陰天</Description>
+                <Icon>3</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏南轉東南風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2轉1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪轉小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="宜蘭蘇澳沿海">
+            <StartValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-20T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>東南轉偏北風</Dir>
+                <Speed>4級陣風6級以下下午轉4至5陣風7級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>約1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="新竹鹿港沿海">
+            <StartValidTime>
+                <Time>2014-09-17T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>西北風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2轉1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪轉小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="新竹鹿港沿海">
+            <StartValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>西北轉偏東風</Dir>
+                <Speed>4級陣風6級以下下午轉4至5陣風7級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>約1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="新竹鹿港沿海">
+            <StartValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-20T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏東轉東北風</Dir>
+                <Speed>4至5陣風7級晨轉4級陣風6級以下下午再轉5至6陣風8級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>1轉2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>小浪轉中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="澎湖海面">
+            <StartValidTime>
+                <Time>2014-09-17T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲時陰局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏北轉西北風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2至3公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪至大浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="澎湖海面">
+            <StartValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲時陰</Description>
+                <Icon>5</Icon>
+</Weather>
+            <Wind>
+                <Dir>西北轉偏北風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>3轉2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>大浪轉中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="澎湖海面">
+            <StartValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-20T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲</Description>
+                <Icon>2</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏北轉偏西風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2轉1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪轉小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="鹿港東石沿海">
+            <StartValidTime>
+                <Time>2014-09-17T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>西北風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>約1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="鹿港東石沿海">
+            <StartValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲</Description>
+                <Icon>2</Icon>
+</Weather>
+            <Wind>
+                <Dir>西北風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>約1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="鹿港東石沿海">
+            <StartValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-20T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲</Description>
+                <Icon>2</Icon>
+</Weather>
+            <Wind>
+                <Dir>西北轉西南風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>約1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="東石安平沿海">
+            <StartValidTime>
+                <Time>2014-09-17T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>西北風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2至3公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪至大浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="東石安平沿海">
+            <StartValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>西北轉偏西風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>3轉2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>大浪轉中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="東石安平沿海">
+            <StartValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-20T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲</Description>
+                <Icon>2</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏西風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2轉1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪轉小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="安平高雄沿海">
+            <StartValidTime>
+                <Time>2014-09-17T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>陰時多雲局部陣雨</Description>
+                <Icon>26</Icon>
+</Weather>
+            <Wind>
+                <Dir>東南轉西北風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2至3公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪至大浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="安平高雄沿海">
+            <StartValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>陰時多雲局部陣雨</Description>
+                <Icon>26</Icon>
+</Weather>
+            <Wind>
+                <Dir>西北風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>3轉2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>大浪轉中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="安平高雄沿海">
+            <StartValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-20T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲</Description>
+                <Icon>2</Icon>
+</Weather>
+            <Wind>
+                <Dir>西北風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2轉1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪轉小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="高雄枋寮沿海">
+            <StartValidTime>
+                <Time>2014-09-17T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>東南轉西北風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2至3公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪至大浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="高雄枋寮沿海">
+            <StartValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>陰時多雲局部陣雨</Description>
+                <Icon>26</Icon>
+</Weather>
+            <Wind>
+                <Dir>西北轉西南風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>3轉2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>大浪轉中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="高雄枋寮沿海">
+            <StartValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-20T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>西南轉西北風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2轉1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪轉小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="枋寮恆春沿海">
+            <StartValidTime>
+                <Time>2014-09-17T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>東南轉西北風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2至3公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪至大浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="枋寮恆春沿海">
+            <StartValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲</Description>
+                <Icon>2</Icon>
+</Weather>
+            <Wind>
+                <Dir>西北轉偏東風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>3轉2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>大浪轉中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="枋寮恆春沿海">
+            <StartValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-20T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏東轉西北風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2轉1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪轉小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="鵝鑾鼻沿海">
+            <StartValidTime>
+                <Time>2014-09-17T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲</Description>
+                <Icon>2</Icon>
+</Weather>
+            <Wind>
+                <Dir>東南轉偏北風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>4轉3公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>大浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="鵝鑾鼻沿海">
+            <StartValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏北轉東北風</Dir>
+                <Speed>4級陣風6級以下晨轉4至5陣風7級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>3轉2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>大浪轉中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="鵝鑾鼻沿海">
+            <StartValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-20T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>東北轉西北風</Dir>
+                <Speed>4至5陣風7級下午轉4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2轉1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪轉小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="成功臺東沿海">
+            <StartValidTime>
+                <Time>2014-09-17T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>晴時多雲</Description>
+                <Icon>8</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏南風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>3轉2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>大浪轉中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="成功臺東沿海">
+            <StartValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏南轉東北風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2轉1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪轉小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="成功臺東沿海">
+            <StartValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-20T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>東北轉偏北風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>約1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="臺東大武沿海">
+            <StartValidTime>
+                <Time>2014-09-17T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲</Description>
+                <Icon>2</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏東轉偏西風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>3轉2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>大浪轉中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="臺東大武沿海">
+            <StartValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏西轉東北風</Dir>
+                <Speed>4級陣風6級以下下午轉4至5陣風7級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>1至2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>小浪至中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="臺東大武沿海">
+            <StartValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-20T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>東北轉西北風</Dir>
+                <Speed>4至5陣風7級下午轉4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2轉1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪轉小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="綠島蘭嶼海面">
+            <StartValidTime>
+                <Time>2014-09-17T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲</Description>
+                <Icon>2</Icon>
+</Weather>
+            <Wind>
+                <Dir>東南轉偏南風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2至3公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪至大浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="綠島蘭嶼海面">
+            <StartValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲時陰局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏南轉東北風</Dir>
+                <Speed>4級陣風6級以下上午轉4至5陣風7級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>3轉2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>大浪轉中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="綠島蘭嶼海面">
+            <StartValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-20T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>東北轉西北風</Dir>
+                <Speed>4至5陣風7級下午轉4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>1至2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>小浪至中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="花蓮沿海">
+            <StartValidTime>
+                <Time>2014-09-17T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>晴時多雲</Description>
+                <Icon>8</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏南風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>3轉2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>大浪轉中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="花蓮沿海">
+            <StartValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>陰時多雲局部陣雨</Description>
+                <Icon>26</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏南轉東北風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2轉1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪轉小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="花蓮沿海">
+            <StartValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-20T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>東北轉偏北風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>約1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="金門海面">
+            <StartValidTime>
+                <Time>2014-09-17T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>東北轉西南風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>1至2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>小浪至中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="金門海面">
+            <StartValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲時陰</Description>
+                <Icon>5</Icon>
+</Weather>
+            <Wind>
+                <Dir>西南轉偏北風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2轉1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪轉小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="金門海面">
+            <StartValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-20T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏北風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>約1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="馬祖海面">
+            <StartValidTime>
+                <Time>2014-09-17T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>東北轉偏北風</Dir>
+                <Speed>4至5陣風7級上午轉4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2轉1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪轉小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="馬祖海面">
+            <StartValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏北轉偏南風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>約1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="馬祖海面">
+            <StartValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-20T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲時陰局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏南轉東北風</Dir>
+                <Speed>4級陣風6級以下下午轉5至6陣風8級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>1轉2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>小浪轉中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="黃海南部海面">
+            <StartValidTime>
+                <Time>2014-09-17T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>陰局部陣雨或雷雨</Description>
+                <Icon>36</Icon>
+</Weather>
+            <Wind>
+                <Dir>東北轉偏北風</Dir>
+                <Speed>4至5陣風7級晨轉4至5雷雨區陣風8級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2轉1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪轉小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="黃海南部海面">
+            <StartValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>陰局部陣雨或雷雨</Description>
+                <Icon>36</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏北轉東北風</Dir>
+                <Speed>4至5雷雨區陣風8級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>約1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="黃海南部海面">
+            <StartValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-20T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>陰時多雲局部陣雨</Description>
+                <Icon>26</Icon>
+</Weather>
+            <Wind>
+                <Dir>東北風</Dir>
+                <Speed>4至5陣風7級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>約1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="花鳥山海面">
+            <StartValidTime>
+                <Time>2014-09-17T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨或雷雨</Description>
+                <Icon>17</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏東風</Dir>
+                <Speed>4至5陣風7級晨轉4至5雷雨區陣風8級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2轉1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪轉小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="花鳥山海面">
+            <StartValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨或雷雨</Description>
+                <Icon>17</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏東風</Dir>
+                <Speed>4至5雷雨區陣風8級晚轉5至6雷雨區陣風9級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>約1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="花鳥山海面">
+            <StartValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-20T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>陰局部陣雨</Description>
+                <Icon>26</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏東轉東北風</Dir>
+                <Speed>5至6陣風8級下午轉4至5陣風7級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>1轉2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>小浪轉中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="浙江海面">
+            <StartValidTime>
+                <Time>2014-09-17T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>東南轉偏東風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>1至2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>小浪至中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="浙江海面">
+            <StartValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨或雷雨</Description>
+                <Icon>17</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏東轉東南風</Dir>
+                <Speed>4級陣風6級以下晨轉4級以下雷雨區陣風8級晚再轉4至5雷雨區陣風8級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2轉1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪轉小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="浙江海面">
+            <StartValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-20T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>東南轉偏北風</Dir>
+                <Speed>4至5陣風7級上午轉6至7陣風9級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>1轉2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>小浪轉中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="東海北部海面">
+            <StartValidTime>
+                <Time>2014-09-17T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨或雷雨</Description>
+                <Icon>17</Icon>
+</Weather>
+            <Wind>
+                <Dir>東北風</Dir>
+                <Speed>4至5陣風7級晨轉4至5雷雨區陣風8級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>1至2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>小浪至中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="東海北部海面">
+            <StartValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲時陰局部陣雨或雷雨</Description>
+                <Icon>17</Icon>
+</Weather>
+            <Wind>
+                <Dir>東北風</Dir>
+                <Speed>4至5雷雨區陣風8級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2轉1再轉2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪轉小浪再轉中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="東海北部海面">
+            <StartValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-20T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>陰局部陣雨</Description>
+                <Icon>26</Icon>
+</Weather>
+            <Wind>
+                <Dir>東北風</Dir>
+                <Speed>4至5陣風7級上午轉5至6陣風8級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>1至2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>小浪至中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="東海南部海面">
+            <StartValidTime>
+                <Time>2014-09-17T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨或雷雨</Description>
+                <Icon>17</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏東風</Dir>
+                <Speed>4級陣風6級以下晨轉4級以下雷雨區陣風8級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>1至2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>小浪至中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="東海南部海面">
+            <StartValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨或雷雨</Description>
+                <Icon>17</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏東風</Dir>
+                <Speed>4級以下雷雨區陣風8級晚轉4至5雷雨區陣風8級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2轉1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪轉小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="東海南部海面">
+            <StartValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-20T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏東轉偏北風</Dir>
+                <Speed>4至5陣風7級上午轉6至7陣風9級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>1轉2再轉3公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>小浪轉中浪再轉大浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="臺灣北部海面">
+            <StartValidTime>
+                <Time>2014-09-17T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏東轉偏南風</Dir>
+                <Speed>4至5陣風7級上午轉4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>1至2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>小浪至中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="臺灣北部海面">
+            <StartValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>陰時多雲局部陣雨</Description>
+                <Icon>26</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏南轉東南風</Dir>
+                <Speed>4級陣風6級以下下午轉4至5陣風7級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2轉1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪轉小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="臺灣北部海面">
+            <StartValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-20T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲時陰局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>東南轉偏北風</Dir>
+                <Speed>4至5陣風7級下午轉5至6陣風8級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>1轉2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>小浪轉中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="臺灣東北部海面">
+            <StartValidTime>
+                <Time>2014-09-17T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲時晴</Description>
+                <Icon>7</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏南風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>3轉2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>大浪轉中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="臺灣東北部海面">
+            <StartValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>陰局部陣雨</Description>
+                <Icon>26</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏南轉偏東風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>1至2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>小浪至中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="臺灣東北部海面">
+            <StartValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-20T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏東轉偏北風</Dir>
+                <Speed>4級陣風6級以下晚轉4至5陣風7級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2轉1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪轉小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="臺灣東南部海面">
+            <StartValidTime>
+                <Time>2014-09-17T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲</Description>
+                <Icon>2</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏南轉東北風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2至3公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪至大浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="臺灣東南部海面">
+            <StartValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲時陰局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>東北風</Dir>
+                <Speed>4級陣風6級以下晨轉4至5陣風7級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>3轉2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>大浪轉中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="臺灣東南部海面">
+            <StartValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-20T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>東北轉偏北風</Dir>
+                <Speed>4至5陣風7級下午轉4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>1至2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>小浪至中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="臺灣海峽北部">
+            <StartValidTime>
+                <Time>2014-09-17T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏東轉西南風</Dir>
+                <Speed>4至5陣風7級下午轉4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2至3公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪至大浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="臺灣海峽北部">
+            <StartValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲時陰</Description>
+                <Icon>5</Icon>
+</Weather>
+            <Wind>
+                <Dir>西南轉偏北風</Dir>
+                <Speed>4級陣風6級以下下午轉4至5陣風7級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>3轉2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>大浪轉中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="臺灣海峽北部">
+            <StartValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-20T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏北轉東北風</Dir>
+                <Speed>4至5陣風7級晨轉4級陣風6級以下晚再轉4至5陣風7級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2轉1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪轉小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="臺灣海峽南部">
+            <StartValidTime>
+                <Time>2014-09-17T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨或雷雨</Description>
+                <Icon>17</Icon>
+</Weather>
+            <Wind>
+                <Dir>東南轉西南風</Dir>
+                <Speed>4至5雷雨區陣風8級下午轉4級以下雷雨區陣風8級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>5轉4公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>大浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="臺灣海峽南部">
+            <StartValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>陰局部陣雨</Description>
+                <Icon>26</Icon>
+</Weather>
+            <Wind>
+                <Dir>西南轉偏北風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>4轉3再轉2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>大浪轉中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="臺灣海峽南部">
+            <StartValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-20T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏北轉偏西風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2轉1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪轉小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="巴士海峽">
+            <StartValidTime>
+                <Time>2014-09-17T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨或雷雨</Description>
+                <Icon>17</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏南轉東北風</Dir>
+                <Speed>4至5雷雨區陣風8級下午轉4級以下雷雨區陣風8級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>4轉3公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>大浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="巴士海峽">
+            <StartValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨或雷雨</Description>
+                <Icon>17</Icon>
+</Weather>
+            <Wind>
+                <Dir>東北風</Dir>
+                <Speed>4級以下雷雨區陣風8級晨轉4至5雷雨區陣風8級下午再轉5至6雷雨區陣風9級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>3轉2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>大浪轉中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="巴士海峽">
+            <StartValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-20T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>東北轉偏西風</Dir>
+                <Speed>5至6陣風8級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>1至2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>小浪至中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="廣東海面">
+            <StartValidTime>
+                <Time>2014-09-17T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨或雷雨</Description>
+                <Icon>17</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏南風</Dir>
+                <Speed>8至9陣風11級下午轉5至6雷雨區陣風9級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>8轉6再轉4公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>猛浪轉巨浪再轉大浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="廣東海面">
+            <StartValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏南轉東南風</Dir>
+                <Speed>5至6陣風8級下午轉4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>4轉3再轉2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>大浪轉中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="廣東海面">
+            <StartValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-20T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>晴時多雲</Description>
+                <Icon>8</Icon>
+</Weather>
+            <Wind>
+                <Dir>東南轉西南風</Dir>
+                <Speed>4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2轉1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪轉小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="東沙島海面">
+            <StartValidTime>
+                <Time>2014-09-17T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨或雷雨</Description>
+                <Icon>17</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏南風</Dir>
+                <Speed>7至8陣風10級晨轉6至7雷雨區陣風10級下午再轉5至6雷雨區陣風9級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>7轉5再轉4公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>猛浪轉大浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="東沙島海面">
+            <StartValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏南轉東北風</Dir>
+                <Speed>5至6陣風8級晨轉4至5陣風7級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>4轉3再轉2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>大浪轉中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="東沙島海面">
+            <StartValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-20T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>東北轉偏西風</Dir>
+                <Speed>4至5陣風7級晨轉4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2轉1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪轉小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="中西沙島海面">
+            <StartValidTime>
+                <Time>2014-09-17T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨或雷雨</Description>
+                <Icon>17</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏南風</Dir>
+                <Speed>7至8陣風10級上午轉6至7雷雨區陣風10級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>6轉5再轉4公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>巨浪轉大浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="中西沙島海面">
+            <StartValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏南轉東北風</Dir>
+                <Speed>6至7陣風9級晨轉5至6陣風8級上午再轉4至5陣風7級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>4轉3再轉2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>大浪轉中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="中西沙島海面">
+            <StartValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-20T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>東北轉西北風</Dir>
+                <Speed>4至5陣風7級上午轉4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2轉1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪轉小浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="南沙島海面">
+            <StartValidTime>
+                <Time>2014-09-17T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨或雷雨</Description>
+                <Icon>17</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏南風</Dir>
+                <Speed>6至7雷雨區陣風10級下午轉5至6雷雨區陣風9級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>5轉4公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>大浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="南沙島海面">
+            <StartValidTime>
+                <Time>2014-09-18T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏南轉偏北風</Dir>
+                <Speed>5至6陣風8級上午轉4至5陣風7級</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>4轉2公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>大浪轉中浪</Type>
+</Wave>
+</AreaForecastData>
+        <AreaForecastData area="南沙島海面">
+            <StartValidTime>
+                <Time>2014-09-19T00:00:00+08:00</Time>
+</StartValidTime>
+            <EndValidTime>
+                <Time>2014-09-20T00:00:00+08:00</Time>
+</EndValidTime>
+            <Weather>
+                <Description>多雲時陰局部陣雨</Description>
+                <Icon>12</Icon>
+</Weather>
+            <Wind>
+                <Dir>偏北轉偏西風</Dir>
+                <Speed>4至5陣風7級晨轉4級陣風6級以下</Speed>
+                <Unit>蒲福風級</Unit>
+</Wind>
+            <Wave>
+                <Height>2轉1公尺</Height>
+                <Unit>公尺</Unit>
+                <Type>中浪轉小浪</Type>
+</Wave>
+</AreaForecastData>
+</CoastalWatersForecastInformation>
+</CoastalWatersForecast>

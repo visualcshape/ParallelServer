@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
+ <identifier>3e08d9c2-5ea1-47e4-898f-c35e66e1ada0</identifier>
+ <sender>weather@cwb.gov.tw</sender>
+ <sent>2014-09-16T17:12:06+08:00</sent>
+ <status>Actual</status>
+ <msgType>Issue</msgType>
+ <dataid>CWB_A0010</dataid>
+ <scope>Public</scope>
+ <dataset>
+  <resource>
+   <resourceDesc>一週農業氣象預報</resourceDesc>
+   <mimeType>text/plain</mimeType>
+   <uri>http://opendata.cwb.gov.tw/opendata/DIV3/F-A0010-001.txt</uri>
+  </resource>
+ </dataset>
+</cwbopendata>

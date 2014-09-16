@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fifowml lang="zh-TW" version="1.1-beta">
+<head><product><title></title><version></version></product><source><copyright>本檔案的內容，包括但不限於所有文本、平面圖像、圖畫、圖片、照片以及數據或其他資料的匯編，均受版權保障。中央氣象局是本檔案內所有版權作品的擁有人，除非預先得到中央氣象局的書面授權，否則嚴禁複製、改編、分發、發布或向公眾提供該等版權作品。</copyright><disclaimer>中央氣象局（包括其僱員及代理人）對於本檔案所載資料的準確性、可用性、完整性或效用，概不作出明確或暗示的保證、聲明或陳述；在法律許可的範圍內，對於提供或使用這些資料而可能直接或間接引致任何損失、損壞或傷害（包括死亡），亦不負任何法律承擔或責任（包括疏忽責任）。</disclaimer><provider>中央氣象局</provider><remarks>歡迎向中央氣象局申請授權發布或向公眾提供本檔案的內容。如有任何查詢，請電郵(webqry@cwb.gov.tw)或傳真(02-23491212)至預報中心。</remarks></source><issue-time>2014-09-16T18:31:05+08:00</issue-time><updated>2014-09-16T18:31:05+08:00</updated></head>
+<data category="WeatherAssistant">
+<cityid>10015</cityid>
+<name>花蓮縣</name>
+<stno>46699</stno>
+<time>2014/9/16 下午 06:34:54</time>
+<memo>明天(17日)晴朗炎熱 注意防曬</memo>
+<memo>今天(16日)花蓮地區為晴朗炎熱的天氣。白天平地高溫大多超過30度，其中光復34.7度、玉里32.9度、花蓮市32.2度、豐濱30.9度。</memo>
+<memo>明天(17日)花蓮地區的天氣型態仍然是晴朗炎熱，午後降雨機率20%。溫度方面，預估平地高溫33至35度、山區高溫29度。</memo>
+<memo>白天陽光相當強烈，紫外線指數容易達到過量級、甚至是危險級，提醒大家外出注意防曬，並且多補充水分以防中暑。</memo>
+</data>
+</fifowml>
