@@ -7,15 +7,15 @@ var http = require('http');
 
 exports.MAX_FILE_NUMBER = 104;
 
-exports.IS_DRAIN = false;
-
 exports.enqueue = function(url,filename)
 {
     var queue = async.queue(function(task,cb){
-        exports.IS_DRAIN = false;
         var file = fs.createWriteStream(__dirname+'/crawled/'+task.filename);
         var req = http.get(task.url,function(resp){
-           resp.pipe(file);
+            resp.pipe(file);
+            resp.on('end',function(){
+                console.log('File:'+task.filename+' Done'.green);
+            });
         });
 
         cb();
@@ -28,7 +28,7 @@ exports.enqueue = function(url,filename)
 
     queue.drain = function()
     {
-        exports.IS_DRAIN = true;
+
     }
 };
 

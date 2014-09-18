@@ -8,59 +8,53 @@ var colors = require('colors');
 var fp = require('./fileProcessor');
 var async = require('async');
 
-var DIR_PATH = __dirname+'/crawled/';
+var DIR_PATH = __dirname + '/crawled/';
 
-var isContinue = true;
-
-var fileList = [];
-
-var enter = true;
+var filenameList = [];
+var crawledPage = [];
+var downloadQueue = [];
 
 var c = new crawler({
-    "maxConnections":10,
-    "skipDuplicates":true,
-    "cache":true,
+    "maxConnections": 10,
     //Called for each crawled page
-    "callback":function(error,result,$){
-        if(typeof $ ==='undefined')
-        {
-            console.log('stop');
-            process.exit(0);
-        }
-        $('a').each(function(index,a){
-            var link = a.href;
-            var split = link.split('/');
-            split = split.map(function(delim){
-                return delim;
+    "callback": function (error, result, $) {
+        try {
+            $('a').each(function (index, a) {
+                var link = a.href;
+                var split = link.split('/');
+                split = split.map(function (delim) {
+                    return delim;
+                });
+                var filename = split[split.length - 1];
+                if (filename.match(/\D-\D\d{4}-\d{3}\.xml/)) {
+                    console.log(link.green);
+                    if (filenameList.indexOf(filename) > -1) {
+                        console.log('Skip'.blue);
+                    } else {
+                        filenameList.push(filename);
+                        downloadQueue.push({link:link,filename:filename});
+                    }
+                } else {
+
+                    if (crawledPage.indexOf(link) > -1) {
+                        console.log(link.blue);
+                    } else {
+                        console.log(link.red);
+                        c.queue(link);
+                    }
+                }
+                crawledPage.push(link);
             });
-            var filename = split[split.length-1];
-            //console.log("href:"+a.href,"index"+index);
-            if(filename.match(/\D-\D\d{4}-\d{3}\.xml/))
-            {
-                console.log(a.href.green , "  "+index);
-                if(fileList.indexOf(filename)>-1)
-                {
-                    console.log('Skip'.blue);
-                }
-                else
-                {
-                    fp.enqueue(a.href,filename);
-                    fileList.push(filename);
-                }
-            }else{
-                console.log(a.href.red, "  "+index);
-            }
-            c.queue(a.href);
-        })
+        } catch (err) {
+            console.log('End of Node'.cyan);
+        }
     },
-    "onDrain":function()
-    {
-        console.log("Crawl completed.");
+    "onDrain": function () {
+        console.log("Crawl completed.".green);
         //deal with files...
-        //null
-        while(fp.IS_DRAIN)
-        {
-            process.exit(0);
+        console.log("Start downloading...");
+        for(var i = 0 ; i < downloadQueue.length ; i++) {
+            fp.enqueue(downloadQueue[i].link, downloadQueue[i].filename);
         }
     }
 });
