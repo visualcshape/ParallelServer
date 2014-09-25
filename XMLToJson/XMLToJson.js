@@ -7,7 +7,6 @@ var fp = require('../Spider/fileProcessor');
 var colors = require('colors');
 var async = require('async');
 var util = require('util');
-var prettyJson = require('prettyjson');
 
 var FROM_PATH = __dirname + '/../crawled/';
 var TO_PATH = __dirname + '/../WeatherJson/';

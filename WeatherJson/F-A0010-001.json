@@ -1,0 +1,45 @@
+{
+    "cwbopendata": {
+        "$": {
+            "xmlns": "urn:cwb:gov:tw:cwbcommon:0.1"
+        },
+        "identifier": [
+            "4c37dd12-7cb1-43c2-81a8-16436d6a145c"
+        ],
+        "sender": [
+            "weather@cwb.gov.tw"
+        ],
+        "sent": [
+            "2014-09-24T17:32:47+08:00"
+        ],
+        "status": [
+            "Actual"
+        ],
+        "msgType": [
+            "Issue"
+        ],
+        "dataid": [
+            "CWB_A0010"
+        ],
+        "scope": [
+            "Public"
+        ],
+        "dataset": [
+            {
+                "resource": [
+                    {
+                        "resourceDesc": [
+                            "一週農業氣象預報"
+                        ],
+                        "mimeType": [
+                            "text/plain"
+                        ],
+                        "uri": [
+                            "http://opendata.cwb.gov.tw/opendata/DIV3/F-A0010-001.txt"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

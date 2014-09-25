@@ -1,0 +1,1399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fifowml version="1.1-beta" lang="zh-TW">
+    <head>
+        <product>
+            <title>三十六小時天氣預報</title>
+            <version>2.0</version>
+</product>
+        <issue-time>2014-09-25T17:00:00+08:00</issue-time>
+        <updated>2014-09-25T17:00:00+08:00</updated>
+</head>
+    <data category="forecasts">
+        <location type="region">
+            <name>臺北市</name>
+            <weather-elements>
+                <Wx>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>多雲</text>
+                        <value>2</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>多雲</text>
+                        <value>2</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>多雲</text>
+                        <value>2</value>
+</time>
+</Wx>
+                <MaxT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">27</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">33</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">29</value>
+</time>
+</MaxT>
+                <MinT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">25</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">25</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">25</value>
+</time>
+</MinT>
+                <CI>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>舒適</text>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+</CI>
+                <PoP>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="%">20</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="%">20</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="%">10</value>
+</time>
+</PoP>
+</weather-elements>
+</location>
+        <location type="region">
+            <name>新北市</name>
+            <weather-elements>
+                <Wx>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>多雲</text>
+                        <value>2</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>多雲</text>
+                        <value>2</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>多雲</text>
+                        <value>2</value>
+</time>
+</Wx>
+                <MaxT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">28</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">33</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">29</value>
+</time>
+</MaxT>
+                <MinT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">25</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">25</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">26</value>
+</time>
+</MinT>
+                <CI>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>舒適</text>
+</time>
+</CI>
+                <PoP>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="%">20</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="%">20</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="%">10</value>
+</time>
+</PoP>
+</weather-elements>
+</location>
+        <location type="region">
+            <name>臺中市</name>
+            <weather-elements>
+                <Wx>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>多雲時晴</text>
+                        <value>7</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>多雲</text>
+                        <value>2</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>多雲</text>
+                        <value>2</value>
+</time>
+</Wx>
+                <MaxT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">29</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">33</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">30</value>
+</time>
+</MaxT>
+                <MinT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">26</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">26</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">26</value>
+</time>
+</MinT>
+                <CI>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+</CI>
+                <PoP>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="%">10</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="%">10</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="%">0</value>
+</time>
+</PoP>
+</weather-elements>
+</location>
+        <location type="region">
+            <name>臺南市</name>
+            <weather-elements>
+                <Wx>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>多雲時晴</text>
+                        <value>7</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>多雲</text>
+                        <value>2</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>多雲時晴</text>
+                        <value>7</value>
+</time>
+</Wx>
+                <MaxT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">29</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">32</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">29</value>
+</time>
+</MaxT>
+                <MinT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">26</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">26</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">26</value>
+</time>
+</MinT>
+                <CI>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+</CI>
+                <PoP>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="%">10</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="%">10</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="%">20</value>
+</time>
+</PoP>
+</weather-elements>
+</location>
+        <location type="region">
+            <name>高雄市</name>
+            <weather-elements>
+                <Wx>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>多雲時晴</text>
+                        <value>7</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>多雲</text>
+                        <value>2</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>多雲時晴</text>
+                        <value>7</value>
+</time>
+</Wx>
+                <MaxT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">29</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">31</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">29</value>
+</time>
+</MaxT>
+                <MinT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">26</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">26</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">26</value>
+</time>
+</MinT>
+                <CI>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+</CI>
+                <PoP>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="%">10</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="%">10</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="%">10</value>
+</time>
+</PoP>
+</weather-elements>
+</location>
+        <location type="region">
+            <name>基隆市</name>
+            <weather-elements>
+                <Wx>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>多雲時陰短暫陣雨</text>
+                        <value>12</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>多雲短暫陣雨</text>
+                        <value>12</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>多雲</text>
+                        <value>2</value>
+</time>
+</Wx>
+                <MaxT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">26</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">31</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">29</value>
+</time>
+</MaxT>
+                <MinT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">25</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">25</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">26</value>
+</time>
+</MinT>
+                <CI>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>舒適</text>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+</CI>
+                <PoP>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="%">40</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="%">40</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="%">20</value>
+</time>
+</PoP>
+</weather-elements>
+</location>
+        <location type="region">
+            <name>桃園縣</name>
+            <weather-elements>
+                <Wx>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>多雲</text>
+                        <value>2</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>多雲時晴</text>
+                        <value>7</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>多雲</text>
+                        <value>2</value>
+</time>
+</Wx>
+                <MaxT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">28</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">33</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">29</value>
+</time>
+</MaxT>
+                <MinT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">25</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">25</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">25</value>
+</time>
+</MinT>
+                <CI>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>舒適</text>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>舒適</text>
+</time>
+</CI>
+                <PoP>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="%">10</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="%">20</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="%">0</value>
+</time>
+</PoP>
+</weather-elements>
+</location>
+        <location type="region">
+            <name>新竹縣</name>
+            <weather-elements>
+                <Wx>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>多雲</text>
+                        <value>2</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>多雲時晴</text>
+                        <value>7</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>多雲</text>
+                        <value>2</value>
+</time>
+</Wx>
+                <MaxT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">29</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">33</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">30</value>
+</time>
+</MaxT>
+                <MinT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">26</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">26</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">26</value>
+</time>
+</MinT>
+                <CI>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+</CI>
+                <PoP>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="%">0</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="%">20</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="%">0</value>
+</time>
+</PoP>
+</weather-elements>
+</location>
+        <location type="region">
+            <name>新竹市</name>
+            <weather-elements>
+                <Wx>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>多雲</text>
+                        <value>2</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>多雲時晴</text>
+                        <value>7</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>多雲</text>
+                        <value>2</value>
+</time>
+</Wx>
+                <MaxT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">29</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">33</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">30</value>
+</time>
+</MaxT>
+                <MinT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">25</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">25</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">25</value>
+</time>
+</MinT>
+                <CI>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+</CI>
+                <PoP>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="%">0</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="%">10</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="%">0</value>
+</time>
+</PoP>
+</weather-elements>
+</location>
+        <location type="region">
+            <name>苗栗縣</name>
+            <weather-elements>
+                <Wx>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>多雲</text>
+                        <value>2</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>多雲</text>
+                        <value>2</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>多雲</text>
+                        <value>2</value>
+</time>
+</Wx>
+                <MaxT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">28</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">32</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">29</value>
+</time>
+</MaxT>
+                <MinT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">24</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">24</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">24</value>
+</time>
+</MinT>
+                <CI>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>舒適</text>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>舒適</text>
+</time>
+</CI>
+                <PoP>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="%">10</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="%">20</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="%">0</value>
+</time>
+</PoP>
+</weather-elements>
+</location>
+        <location type="region">
+            <name>彰化縣</name>
+            <weather-elements>
+                <Wx>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>多雲時晴</text>
+                        <value>7</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>多雲時晴</text>
+                        <value>7</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>多雲</text>
+                        <value>2</value>
+</time>
+</Wx>
+                <MaxT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">29</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">32</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">30</value>
+</time>
+</MaxT>
+                <MinT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">26</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">26</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">26</value>
+</time>
+</MinT>
+                <CI>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+</CI>
+                <PoP>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="%">0</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="%">10</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="%">0</value>
+</time>
+</PoP>
+</weather-elements>
+</location>
+        <location type="region">
+            <name>南投縣</name>
+            <weather-elements>
+                <Wx>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>多雲時晴</text>
+                        <value>7</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>多雲午後短暫雷陣雨</text>
+                        <value>18</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>多雲</text>
+                        <value>2</value>
+</time>
+</Wx>
+                <MaxT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">29</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">32</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">29</value>
+</time>
+</MaxT>
+                <MinT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">25</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">25</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">25</value>
+</time>
+</MinT>
+                <CI>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+</CI>
+                <PoP>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="%">10</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="%">30</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="%">0</value>
+</time>
+</PoP>
+</weather-elements>
+</location>
+        <location type="region">
+            <name>雲林縣</name>
+            <weather-elements>
+                <Wx>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>多雲</text>
+                        <value>2</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>多雲午後短暫雷陣雨</text>
+                        <value>18</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>多雲</text>
+                        <value>2</value>
+</time>
+</Wx>
+                <MaxT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">28</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">32</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">29</value>
+</time>
+</MaxT>
+                <MinT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">25</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">25</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">25</value>
+</time>
+</MinT>
+                <CI>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+</CI>
+                <PoP>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="%">10</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="%">30</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="%">0</value>
+</time>
+</PoP>
+</weather-elements>
+</location>
+        <location type="region">
+            <name>嘉義縣</name>
+            <weather-elements>
+                <Wx>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>多雲</text>
+                        <value>2</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>多雲</text>
+                        <value>2</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>多雲時晴</text>
+                        <value>7</value>
+</time>
+</Wx>
+                <MaxT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">28</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">32</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">29</value>
+</time>
+</MaxT>
+                <MinT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">24</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">24</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">25</value>
+</time>
+</MinT>
+                <CI>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+</CI>
+                <PoP>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="%">10</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="%">20</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="%">0</value>
+</time>
+</PoP>
+</weather-elements>
+</location>
+        <location type="region">
+            <name>嘉義市</name>
+            <weather-elements>
+                <Wx>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>多雲</text>
+                        <value>2</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>多雲午後短暫雷陣雨</text>
+                        <value>18</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>多雲</text>
+                        <value>2</value>
+</time>
+</Wx>
+                <MaxT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">28</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">31</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">28</value>
+</time>
+</MaxT>
+                <MinT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">24</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">24</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">25</value>
+</time>
+</MinT>
+                <CI>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>舒適</text>
+</time>
+</CI>
+                <PoP>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="%">10</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="%">30</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="%">10</value>
+</time>
+</PoP>
+</weather-elements>
+</location>
+        <location type="region">
+            <name>屏東縣</name>
+            <weather-elements>
+                <Wx>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>多雲</text>
+                        <value>2</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>多雲午後短暫雷陣雨</text>
+                        <value>18</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>多雲時晴</text>
+                        <value>7</value>
+</time>
+</Wx>
+                <MaxT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">30</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">33</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">29</value>
+</time>
+</MaxT>
+                <MinT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">25</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">25</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">25</value>
+</time>
+</MinT>
+                <CI>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>舒適至易中暑</text>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+</CI>
+                <PoP>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="%">20</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="%">40</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="%">10</value>
+</time>
+</PoP>
+</weather-elements>
+</location>
+        <location type="region">
+            <name>宜蘭縣</name>
+            <weather-elements>
+                <Wx>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>多雲時陰短暫陣雨</text>
+                        <value>12</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>多雲短暫陣雨</text>
+                        <value>12</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>多雲短暫陣雨</text>
+                        <value>12</value>
+</time>
+</Wx>
+                <MaxT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">25</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">31</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">28</value>
+</time>
+</MaxT>
+                <MinT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">24</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">24</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">24</value>
+</time>
+</MinT>
+                <CI>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>舒適</text>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+</CI>
+                <PoP>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="%">40</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="%">50</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="%">30</value>
+</time>
+</PoP>
+</weather-elements>
+</location>
+        <location type="region">
+            <name>花蓮縣</name>
+            <weather-elements>
+                <Wx>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>多雲</text>
+                        <value>2</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>多雲</text>
+                        <value>2</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>多雲</text>
+                        <value>2</value>
+</time>
+</Wx>
+                <MaxT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">28</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">32</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">28</value>
+</time>
+</MaxT>
+                <MinT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">25</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">25</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">24</value>
+</time>
+</MinT>
+                <CI>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+</CI>
+                <PoP>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="%">20</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="%">20</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="%">20</value>
+</time>
+</PoP>
+</weather-elements>
+</location>
+        <location type="region">
+            <name>臺東縣</name>
+            <weather-elements>
+                <Wx>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>多雲</text>
+                        <value>2</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>多雲</text>
+                        <value>2</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>多雲時晴</text>
+                        <value>7</value>
+</time>
+</Wx>
+                <MaxT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">28</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">32</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">29</value>
+</time>
+</MaxT>
+                <MinT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">25</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">25</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">26</value>
+</time>
+</MinT>
+                <CI>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+</CI>
+                <PoP>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="%">10</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="%">10</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="%">10</value>
+</time>
+</PoP>
+</weather-elements>
+</location>
+        <location type="region">
+            <name>澎湖縣</name>
+            <weather-elements>
+                <Wx>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>多雲時晴</text>
+                        <value>7</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>多雲時晴</text>
+                        <value>7</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>多雲時晴</text>
+                        <value>7</value>
+</time>
+</Wx>
+                <MaxT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">28</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">31</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">28</value>
+</time>
+</MaxT>
+                <MinT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">26</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">26</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">26</value>
+</time>
+</MinT>
+                <CI>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>舒適</text>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>舒適</text>
+</time>
+</CI>
+                <PoP>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="%">10</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="%">10</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="%">0</value>
+</time>
+</PoP>
+</weather-elements>
+</location>
+        <location type="region">
+            <name>金門縣</name>
+            <weather-elements>
+                <Wx>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>多雲短暫陣雨</text>
+                        <value>12</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>多雲時晴</text>
+                        <value>7</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>多雲時晴</text>
+                        <value>7</value>
+</time>
+</Wx>
+                <MaxT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">27</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">32</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">28</value>
+</time>
+</MaxT>
+                <MinT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">25</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">25</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">26</value>
+</time>
+</MinT>
+                <CI>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>舒適</text>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>舒適至悶熱</text>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>舒適</text>
+</time>
+</CI>
+                <PoP>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="%">30</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="%">0</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="%">0</value>
+</time>
+</PoP>
+</weather-elements>
+</location>
+        <location type="region">
+            <name>連江縣</name>
+            <weather-elements>
+                <Wx>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>多雲短暫陣雨</text>
+                        <value>12</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>多雲短暫陣雨</text>
+                        <value>12</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>多雲</text>
+                        <value>2</value>
+</time>
+</Wx>
+                <MaxT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">25</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">29</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">26</value>
+</time>
+</MaxT>
+                <MinT>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="C">24</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="C">24</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="C">24</value>
+</time>
+</MinT>
+                <CI>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <text>舒適</text>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <text>舒適</text>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <text>舒適</text>
+</time>
+</CI>
+                <PoP>
+                    <time start="2014-09-25T18:00:00+08:00" end="2014-09-26T06:00:00+08:00">
+                        <value units="%">30</value>
+</time>
+                    <time start="2014-09-26T06:00:00+08:00" end="2014-09-26T18:00:00+08:00">
+                        <value units="%">30</value>
+</time>
+                    <time start="2014-09-26T18:00:00+08:00" end="2014-09-27T06:00:00+08:00">
+                        <value units="%">10</value>
+</time>
+</PoP>
+</weather-elements>
+</location>
+</data>
+</fifowml>

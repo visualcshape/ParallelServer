@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
+ <identifier>5a293fdf-5d22-43a4-bc56-a45f570cc829</identifier>
+ <sender>weather@cwb.gov.tw</sender>
+ <sent>2014-09-25T17:01:09+08:00</sent>
+ <status>Actual</status>
+ <msgType>Issue</msgType>
+ <scope>Public</scope>
+ <dataid>B0028-002</dataid>
+ <source>Meteorological Satellite Center</source>
+
+ <dataset>
+  <datasetInfo>
+   <datasetDescription>地理資訊</datasetDescription>
+   <parameterSet>
+<parameter>
+     <parameterName>經度範圍</parameterName>
+     <parameterValue>104.1190 - 153.3814</parameterValue>
+  </parameter>
+<parameter>
+     <parameterName>緯度範圍</parameterName>
+     <parameterValue>5.119949 - 44.09481</parameterValue>
+  </parameter>
+   </parameterSet>
+  </datasetInfo>
+  <resource>
+   <resourceDesc>東亞紅外線彩色衛星雲圖</resourceDesc>
+   <mimeType>image/jpeg</mimeType>
+   <uri>http://opendata.cwb.gov.tw/opendata/MSC/O-B0028-002.jpg</uri>
+  </resource>
+  <time>
+   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+  </time>
+ </dataset>
+</cwbopendata>

@@ -13,6 +13,7 @@ var DIR_PATH = __dirname + '/crawled/';
 var filenameList = [];
 var crawledPage = [];
 var downloadQueue = [];
+var ignore_folder = ['MMC'];
 
 var c = new crawler({
     "maxConnections": 10,
@@ -26,11 +27,12 @@ var c = new crawler({
                     return delim;
                 });
                 var filename = split[split.length - 1];
+                var folder = split[split.length-2];
                 var today = new Date();
                 today = today.toLocaleTimeString();
                 if (filename.match(/\D-\D\d{4}-\d{3}\.xml/)) {
-                    console.log('['+today+']'+link.green);
-                    if (filenameList.indexOf(filename) > -1) {
+                    console.log('[%s]'+link.green,today.toString());
+                    if (filenameList.indexOf(filename) > -1 || ignore_folder.indexOf(folder) > -1) {
                         console.log('[%s]'+'Skip'.blue,today.toString());
                     } else {
                         filenameList.push(filename);
@@ -56,8 +58,30 @@ var c = new crawler({
         console.log("Crawl completed.".green);
         //deal with files...
         console.log("Start downloading...");
-        for(var i = 0 ; i < downloadQueue.length ; i++) {
-            fp.enqueue(downloadQueue[i].link, downloadQueue[i].filename);
+
+        var queue = async.queue(function(task,cb){
+            var file = fs.createWriteStream(__dirname+'/../crawled/'+task.filename);
+            var req = http.get(task.url,function(resp){
+                console.log('Getting file from:'+task.url);
+                console.log('Status Code : '+ resp.statusCode.toString().blue);
+                console.log('Writing File: '.green+task.filename);
+                resp.pipe(file);
+                resp.on('end',function(){
+                    console.log('File:'+task.filename+' Done'.green);
+                    cb();
+                }).on('error',function(e){
+                    console.error(e);
+                });
+            });
+        },1);
+        for(var i=0; i<downloadQueue.length;i++){
+            queue.push({
+                url:downloadQueue[i].link,
+                filename:downloadQueue[i].filename
+            });
+        }
+        queue.drain = function(){
+
         }
     }
 });

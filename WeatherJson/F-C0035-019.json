@@ -1,0 +1,42 @@
+{
+    "cwbopendata": {
+        "$": {
+            "xmlns": "urn:cwb:gov:tw:cwbcommon:0.1"
+        },
+        "identifier": [
+            "daa5a0a0-93fc-6e66-798e-55f04aef773a"
+        ],
+        "sender": [
+            "weather@cwb.gov.tw"
+        ],
+        "sent": [
+            "2014-09-25T11:28:48+08:00"
+        ],
+        "status": [
+            "Actual"
+        ],
+        "msgType": [
+            "Issue"
+        ],
+        "dataid": [
+            "CWB_MFC_14"
+        ],
+        "dataset": [
+            {
+                "resource": [
+                    {
+                        "resourceDesc": [
+                            "波浪分析圖"
+                        ],
+                        "mimeType": [
+                            "image/x-pcx"
+                        ],
+                        "uri": [
+                            "http://opendata.cwb.gov.tw/opendata/MFC/F-C0035-019.pcx"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

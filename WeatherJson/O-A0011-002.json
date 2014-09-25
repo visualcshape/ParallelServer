@@ -1,0 +1,77 @@
+{
+    "cwbopendata": {
+        "$": {
+            "xmlns": "urn:cwb:gov:tw:cwbcommon:0.1"
+        },
+        "identifier": [
+            "66036e38-4493-11e4-8367-2c44fd83e9f8"
+        ],
+        "sender": [
+            "weather@cwb.gov.tw"
+        ],
+        "sent": [
+            "2014-09-25T17:07:39+08:00"
+        ],
+        "status": [
+            "Actual"
+        ],
+        "msgType": [
+            "Issue"
+        ],
+        "scope": [
+            "Public"
+        ],
+        "source": [
+            "Telecommunications and Radar Division"
+        ],
+        "dataset": [
+            {
+                "datasetinfo": [
+                    {
+                        "datasetDescription": [
+                            "地理資訊"
+                        ],
+                        "parameterset": [
+                            {
+                                "parameterName": [
+                                    "經度範圍"
+                                ],
+                                "parameterValue": [
+                                    "120.0 - 121.998"
+                                ]
+                            },
+                            {
+                                "parameterName": [
+                                    "緯度範圍"
+                                ],
+                                "parameterValue": [
+                                    "23.474 - 25.47"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "time": [
+                    {
+                        "obsTime": [
+                            "2014-09-25T17:00:00+08:00"
+                        ]
+                    }
+                ],
+                "resource": [
+                    {
+                        "resourceDesc": [
+                            "雷達回波圖"
+                        ],
+                        "mimeType": [
+                            "image/jpeg"
+                        ],
+                        "uri": [
+                            "http://opendata.cwb.gov.tw/opendata/DIV4/O-A0011-002.jpg"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

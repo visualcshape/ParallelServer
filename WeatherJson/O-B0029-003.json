@@ -1,0 +1,84 @@
+{
+    "cwbopendata": {
+        "$": {
+            "xmlns": "urn:cwb:gov:tw:cwbcommon:0.1"
+        },
+        "identifier": [
+            "10e440ee-314b-41a7-a3d1-3ccede8e41da"
+        ],
+        "sender": [
+            "weather@cwb.gov.tw"
+        ],
+        "sent": [
+            "2014-09-25T17:01:10+08:00"
+        ],
+        "status": [
+            "Actual"
+        ],
+        "msgType": [
+            "Issue"
+        ],
+        "scope": [
+            "Public"
+        ],
+        "dataid": [
+            "B0029-003"
+        ],
+        "source": [
+            "Meteorological Satellite Center"
+        ],
+        "dataset": [
+            {
+                "datasetInfo": [
+                    {
+                        "datasetDescription": [
+                            "地理資訊"
+                        ],
+                        "parameterSet": [
+                            {
+                                "parameter": [
+                                    {
+                                        "parameterName": [
+                                            "經度範圍"
+                                        ],
+                                        "parameterValue": [
+                                            "115.976888855 - 126.02300114"
+                                        ]
+                                    },
+                                    {
+                                        "parameterName": [
+                                            "緯度範圍"
+                                        ],
+                                        "parameterValue": [
+                                            "19.100625745- 28.29937425"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "resource": [
+                    {
+                        "resourceDesc": [
+                            "台灣紅外線黑白衛星雲圖"
+                        ],
+                        "mimeType": [
+                            "image/jpeg"
+                        ],
+                        "uri": [
+                            "http://opendata.cwb.gov.tw/opendata/MSC/O-B0029-003.jpg"
+                        ]
+                    }
+                ],
+                "time": [
+                    {
+                        "obsTime": [
+                            "2014-09-25T17:00:00+08:00"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

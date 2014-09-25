@@ -1,0 +1,3774 @@
+{
+    "cwbopendata": {
+        "$": {
+            "xmlns": "urn:cwb:gov:tw:cwbcommon:0.1"
+        },
+        "identifier": [
+            "3506afcc-c7a9-41b6-a889-83d990167c66"
+        ],
+        "sender": [
+            "weather@cwb.gov.tw"
+        ],
+        "sent": [
+            "2014-09-19T11:23:10+08:00"
+        ],
+        "status": [
+            "Actual"
+        ],
+        "msgType": [
+            "Issue"
+        ],
+        "dataid": [
+            "CWB_A0008"
+        ],
+        "scope": [
+            "Public"
+        ],
+        "dataset": [
+            {
+                "location": [
+                    {
+                        "stationId": [
+                            "72C44"
+                        ],
+                        "time": [
+                            {
+                                "dataTime": [
+                                    "103 8_2"
+                                ]
+                            }
+                        ],
+                        "weatherElement": [
+                            {
+                                "elementName": [
+                                    "平均氣溫"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "29.0"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "絕對最高氣溫"
+                                ],
+                                "time": [
+                                    {
+                                        "obsTime": [
+                                            "103-08-11"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "33.9"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "絕對最低氣溫"
+                                ],
+                                "time": [
+                                    {
+                                        "obsTime": [
+                                            "103-08-18"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "24.1"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均相對濕度%"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "78.6"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總降雨量mm"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "28.5"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均風速m/s"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "3.0"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "最多風向"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "SW"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總日照時數hrs"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "58.0"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總日射量MJ/m2"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "199.94"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總蒸發量mm(120cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "41.3"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(5cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "28.9"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(10cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "28.9"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(20cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "28.9"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(30cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "29.9"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(50cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "29.7"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(100cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "29.1"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "stationId": [
+                            "82C16"
+                        ],
+                        "time": [
+                            {
+                                "dataTime": [
+                                    "103 8_2"
+                                ]
+                            }
+                        ],
+                        "weatherElement": [
+                            {
+                                "elementName": [
+                                    "平均氣溫"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "28.1"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "絕對最高氣溫"
+                                ],
+                                "time": [
+                                    {
+                                        "obsTime": [
+                                            "103-08-17"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "34.6"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "絕對最低氣溫"
+                                ],
+                                "time": [
+                                    {
+                                        "obsTime": [
+                                            "103-08-18"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "22.3"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均相對濕度%"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "78.8"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總降雨量mm"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "59.0"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均風速m/s"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "1.9"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "最多風向"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "WSW"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總日照時數hrs"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "63.6"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總日射量MJ/m2"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "159.88"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總蒸發量mm(120cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "33.9"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(5cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "30.3"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(10cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "30.2"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(20cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "30.1"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(30cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "30.0"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(50cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "29.5"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(100cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "28.1"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "stationId": [
+                            "72D08"
+                        ],
+                        "time": [
+                            {
+                                "dataTime": [
+                                    "103 8_2"
+                                ]
+                            }
+                        ],
+                        "weatherElement": [
+                            {
+                                "elementName": [
+                                    "平均氣溫"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "22.1"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "絕對最高氣溫"
+                                ],
+                                "time": [
+                                    {
+                                        "obsTime": [
+                                            "103-08-14"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "29.1"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "絕對最低氣溫"
+                                ],
+                                "time": [
+                                    {
+                                        "obsTime": [
+                                            "103-08-18"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "18.1"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均相對濕度%"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "90.5"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總降雨量mm"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "62.5"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均風速m/s"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "0.3"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "最多風向"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "SE"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總日照時數hrs"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "21.0"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總日射量MJ/m2"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "62.62"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總蒸發量mm(120cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "9.8"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(5cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "25.2"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(10cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "25.0"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(20cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "25.0"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(30cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "24.8"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(50cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "24.4"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(100cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "23.7"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "stationId": [
+                            "K2E36"
+                        ],
+                        "time": [
+                            {
+                                "dataTime": [
+                                    "103 8_2"
+                                ]
+                            }
+                        ],
+                        "weatherElement": [
+                            {
+                                "elementName": [
+                                    "平均氣溫"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "28.7"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "絕對最高氣溫"
+                                ],
+                                "time": [
+                                    {
+                                        "obsTime": [
+                                            "103-08-16"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "35.3"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "絕對最低氣溫"
+                                ],
+                                "time": [
+                                    {
+                                        "obsTime": [
+                                            "103-08-18"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "23.2"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均相對濕度%"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "75.7"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總降雨量mm"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "123.0"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均風速m/s"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "2.3"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "最多風向"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "SSW"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總日照時數hrs"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "57.0"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總日射量MJ/m2"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "166.05"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總蒸發量mm(120cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "42.3"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(5cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "29.4"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(10cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "29.4"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(20cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "29.4"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(30cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "29.4"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(50cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "29.1"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(100cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "28.4"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "stationId": [
+                            "G2F82"
+                        ],
+                        "time": [
+                            {
+                                "dataTime": [
+                                    "103 8_2"
+                                ]
+                            }
+                        ],
+                        "weatherElement": [
+                            {
+                                "elementName": [
+                                    "平均氣溫"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "*28.6"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "絕對最高氣溫"
+                                ],
+                                "time": [
+                                    {
+                                        "obsTime": [
+                                            "103-08-16"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "*34.3"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "絕對最低氣溫"
+                                ],
+                                "time": [
+                                    {
+                                        "obsTime": [
+                                            "103-08-19"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "*24.3"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均相對濕度%"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "*82.4"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總降雨量mm"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "*13.5"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均風速m/s"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "*2.5"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "最多風向"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "*SSE"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總日照時數hrs"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "*43.9"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總日射量MJ/m2"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "*127.21"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總蒸發量mm(120cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "*28.8"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(5cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "*30.1"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(10cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "*29.9"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(20cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "*29.9"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(30cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "*29.6"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(50cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(100cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "*29.4"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "stationId": [
+                            "72G60"
+                        ],
+                        "time": [
+                            {
+                                "dataTime": [
+                                    "103 8_2"
+                                ]
+                            }
+                        ],
+                        "weatherElement": [
+                            {
+                                "elementName": [
+                                    "平均氣溫"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "28.7"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "絕對最高氣溫"
+                                ],
+                                "time": [
+                                    {
+                                        "obsTime": [
+                                            "103-08-16"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "34.5"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "絕對最低氣溫"
+                                ],
+                                "time": [
+                                    {
+                                        "obsTime": [
+                                            "103-08-18"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "23.3"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均相對濕度%"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "81.7"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總降雨量mm"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "18.0"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均風速m/s"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "1.4"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "最多風向"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "SW"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總日照時數hrs"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "55.7"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總日射量MJ/m2"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "113.14"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總蒸發量mm(120cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "36.7"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(5cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "30.6"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(10cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "30.6"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(20cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "30.5"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(30cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "30.5"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(50cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "30.4"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(100cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "30.0"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "stationId": [
+                            "U2H48"
+                        ],
+                        "time": [
+                            {
+                                "dataTime": [
+                                    "103 8_2"
+                                ]
+                            }
+                        ],
+                        "weatherElement": [
+                            {
+                                "elementName": [
+                                    "平均氣溫"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "絕對最高氣溫"
+                                ],
+                                "time": [
+                                    {
+                                        "obsTime": [
+                                            "XXX"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "XXX"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "絕對最低氣溫"
+                                ],
+                                "time": [
+                                    {
+                                        "obsTime": [
+                                            "XXX"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "XXX"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均相對濕度%"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總降雨量mm"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均風速m/s"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "最多風向"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總日照時數hrs"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總日射量MJ/m2"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總蒸發量mm(120cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(5cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(10cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(20cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(30cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(50cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(100cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "stationId": [
+                            "A2K36"
+                        ],
+                        "time": [
+                            {
+                                "dataTime": [
+                                    "103 8_2"
+                                ]
+                            }
+                        ],
+                        "weatherElement": [
+                            {
+                                "elementName": [
+                                    "平均氣溫"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "絕對最高氣溫"
+                                ],
+                                "time": [
+                                    {
+                                        "obsTime": [
+                                            "XXX"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "XXX"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "絕對最低氣溫"
+                                ],
+                                "time": [
+                                    {
+                                        "obsTime": [
+                                            "XXX"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "XXX"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均相對濕度%"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總降雨量mm"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均風速m/s"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "最多風向"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總日照時數hrs"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "-"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總日射量MJ/m2"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總蒸發量mm(120cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(5cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(10cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(20cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(30cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(50cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(100cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "stationId": [
+                            "72K22"
+                        ],
+                        "time": [
+                            {
+                                "dataTime": [
+                                    "103 8_2"
+                                ]
+                            }
+                        ],
+                        "weatherElement": [
+                            {
+                                "elementName": [
+                                    "平均氣溫"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "28.5"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "絕對最高氣溫"
+                                ],
+                                "time": [
+                                    {
+                                        "obsTime": [
+                                            "103-08-16"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "35.0"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "絕對最低氣溫"
+                                ],
+                                "time": [
+                                    {
+                                        "obsTime": [
+                                            "103-08-18"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "23.1"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均相對濕度%"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "81.2"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總降雨量mm"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "152.0"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均風速m/s"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "2.0"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "最多風向"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "S"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總日照時數hrs"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "65.8"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總日射量MJ/m2"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "133.66"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總蒸發量mm(120cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "26.7"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(5cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "31.4"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(10cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "31.2"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(20cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "31.2"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(30cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "31.0"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(50cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "30.9"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(100cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "30.6"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "stationId": [
+                            "72M36"
+                        ],
+                        "time": [
+                            {
+                                "dataTime": [
+                                    "103 8_2"
+                                ]
+                            }
+                        ],
+                        "weatherElement": [
+                            {
+                                "elementName": [
+                                    "平均氣溫"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "27.9"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "絕對最高氣溫"
+                                ],
+                                "time": [
+                                    {
+                                        "obsTime": [
+                                            "103-08-19"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "33.6"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "絕對最低氣溫"
+                                ],
+                                "time": [
+                                    {
+                                        "obsTime": [
+                                            "103-08-20"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "23.7"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均相對濕度%"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "86.1"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總降雨量mm"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "147.0"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均風速m/s"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "2.6"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "最多風向"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "S"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總日照時數hrs"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "64.7"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總日射量MJ/m2"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "182.51"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總蒸發量mm(120cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "26.5"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(5cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "29.2"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(10cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "29.2"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(20cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "29.1"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(30cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "29.2"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(50cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "29.0"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(100cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "29.1"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "stationId": [
+                            "B2N89"
+                        ],
+                        "time": [
+                            {
+                                "dataTime": [
+                                    "103 8_2"
+                                ]
+                            }
+                        ],
+                        "weatherElement": [
+                            {
+                                "elementName": [
+                                    "平均氣溫"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "27.5"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "絕對最高氣溫"
+                                ],
+                                "time": [
+                                    {
+                                        "obsTime": [
+                                            "103-08-19"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "34.3"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "絕對最低氣溫"
+                                ],
+                                "time": [
+                                    {
+                                        "obsTime": [
+                                            "103-08-11"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "23.4"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均相對濕度%"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總降雨量mm"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "317.0"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均風速m/s"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "1.4"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "最多風向"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "SSE"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總日照時數hrs"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "64.4"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總日射量MJ/m2"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "142.3"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總蒸發量mm(120cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "48.1"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(5cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "28.8"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(10cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "29.0"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(20cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "29.0"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(30cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "29.0"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(50cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "29.1"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(100cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "29.0"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "stationId": [
+                            "72Q01"
+                        ],
+                        "time": [
+                            {
+                                "dataTime": [
+                                    "103 8_2"
+                                ]
+                            }
+                        ],
+                        "weatherElement": [
+                            {
+                                "elementName": [
+                                    "平均氣溫"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "27.8"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "絕對最高氣溫"
+                                ],
+                                "time": [
+                                    {
+                                        "obsTime": [
+                                            "103-08-17"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "35.2"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "絕對最低氣溫"
+                                ],
+                                "time": [
+                                    {
+                                        "obsTime": [
+                                            "103-08-19"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "23.6"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均相對濕度%"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "83.8"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總降雨量mm"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "238.5"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均風速m/s"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "1.4"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "最多風向"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "S"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總日照時數hrs"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "64.4"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總日射量MJ/m2"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "92.03"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總蒸發量mm(120cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "34.8"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(5cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "29.2"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(10cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "29.0"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(20cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "29.0"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(30cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "29.1"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(50cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "28.8"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(100cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "29.1"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "stationId": [
+                            "A2Q95"
+                        ],
+                        "time": [
+                            {
+                                "dataTime": [
+                                    "103 8_2"
+                                ]
+                            }
+                        ],
+                        "weatherElement": [
+                            {
+                                "elementName": [
+                                    "平均氣溫"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "絕對最高氣溫"
+                                ],
+                                "time": [
+                                    {
+                                        "obsTime": [
+                                            "XXX"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "XXX"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "絕對最低氣溫"
+                                ],
+                                "time": [
+                                    {
+                                        "obsTime": [
+                                            "XXX"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "XXX"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均相對濕度%"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總降雨量mm"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均風速m/s"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "最多風向"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總日照時數hrs"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總日射量MJ/m2"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總蒸發量mm(120cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(5cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(10cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(20cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(30cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(50cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(100cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "stationId": [
+                            "B2Q81"
+                        ],
+                        "time": [
+                            {
+                                "dataTime": [
+                                    "103 8_2"
+                                ]
+                            }
+                        ],
+                        "weatherElement": [
+                            {
+                                "elementName": [
+                                    "平均氣溫"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "27.8"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "絕對最高氣溫"
+                                ],
+                                "time": [
+                                    {
+                                        "obsTime": [
+                                            "103-08-16"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "34.4"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "絕對最低氣溫"
+                                ],
+                                "time": [
+                                    {
+                                        "obsTime": [
+                                            "103-08-19"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "24.4"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均相對濕度%"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "86.8"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總降雨量mm"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "210.5"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均風速m/s"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "3.0"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "最多風向"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "WNW"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總日照時數hrs"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "38.7"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總日射量MJ/m2"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "150.98"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總蒸發量mm(120cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "97.0"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(5cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "28.4"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(10cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "28.6"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(20cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "28.5"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(30cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "28.9"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(50cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "28.6"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(100cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "28.7"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "stationId": [
+                            "72U48"
+                        ],
+                        "time": [
+                            {
+                                "dataTime": [
+                                    "103 8_2"
+                                ]
+                            }
+                        ],
+                        "weatherElement": [
+                            {
+                                "elementName": [
+                                    "平均氣溫"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "28.2"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "絕對最高氣溫"
+                                ],
+                                "time": [
+                                    {
+                                        "obsTime": [
+                                            "103-08-11"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "33.9"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "絕對最低氣溫"
+                                ],
+                                "time": [
+                                    {
+                                        "obsTime": [
+                                            "103-08-14"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "24.5"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均相對濕度%"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "83.7"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總降雨量mm"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "68.5"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均風速m/s"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "1.1"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "最多風向"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "W"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總日照時數hrs"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "56.0"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總日射量MJ/m2"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "167.61"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總蒸發量mm(120cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "XXX"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(5cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "30.1"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(10cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "30.0"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(20cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "29.8"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(30cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "29.7"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(50cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "29.5"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(100cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "28.8"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "stationId": [
+                            "72T25"
+                        ],
+                        "time": [
+                            {
+                                "dataTime": [
+                                    "103 8_2"
+                                ]
+                            }
+                        ],
+                        "weatherElement": [
+                            {
+                                "elementName": [
+                                    "平均氣溫"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "28.2"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "絕對最高氣溫"
+                                ],
+                                "time": [
+                                    {
+                                        "obsTime": [
+                                            "103-08-15"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "34.4"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "絕對最低氣溫"
+                                ],
+                                "time": [
+                                    {
+                                        "obsTime": [
+                                            "103-08-17"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "24.1"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均相對濕度%"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "83.5"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總降雨量mm"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "98.5"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均風速m/s"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "1.1"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "最多風向"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "NW"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總日照時數hrs"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "66.7"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總日射量MJ/m2"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "167.25"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總蒸發量mm(120cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "47.2"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(5cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "30.5"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(10cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "30.7"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(20cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "30.7"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(30cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "30.5"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(50cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "30.4"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(100cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "29.0"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "stationId": [
+                            "72S20"
+                        ],
+                        "time": [
+                            {
+                                "dataTime": [
+                                    "103 8_2"
+                                ]
+                            }
+                        ],
+                        "weatherElement": [
+                            {
+                                "elementName": [
+                                    "平均氣溫"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "27.0"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "絕對最高氣溫"
+                                ],
+                                "time": [
+                                    {
+                                        "obsTime": [
+                                            "103-08-14"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "35.6"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "絕對最低氣溫"
+                                ],
+                                "time": [
+                                    {
+                                        "obsTime": [
+                                            "103-08-20"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "22.0"
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均相對濕度%"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "*83.0"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總降雨量mm"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "102.5"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均風速m/s"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "1.2"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "最多風向"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "WSW"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總日照時數hrs"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "26.4"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總日射量MJ/m2"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "56.99"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "總蒸發量mm(120cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "35.4"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(5cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "28.9"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(10cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "28.9"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(20cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "28.8"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(30cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "28.8"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(50cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "28.6"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "elementName": [
+                                    "平均地溫(100cm)"
+                                ],
+                                "elementValue": [
+                                    {
+                                        "value": [
+                                            "28.2"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

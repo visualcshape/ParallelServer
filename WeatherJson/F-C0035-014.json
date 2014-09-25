@@ -1,0 +1,42 @@
+{
+    "cwbopendata": {
+        "$": {
+            "xmlns": "urn:cwb:gov:tw:cwbcommon:0.1"
+        },
+        "identifier": [
+            "5643acf8-68d3-8d01-974e-20c47b4279df"
+        ],
+        "sender": [
+            "weather@cwb.gov.tw"
+        ],
+        "sent": [
+            "2014-09-25T15:19:49+08:00"
+        ],
+        "status": [
+            "Actual"
+        ],
+        "msgType": [
+            "Issue"
+        ],
+        "dataid": [
+            "CWB_MFC_09"
+        ],
+        "dataset": [
+            {
+                "resource": [
+                    {
+                        "resourceDesc": [
+                            "黑白一週預測天氣圖"
+                        ],
+                        "mimeType": [
+                            "image/x-pcx"
+                        ],
+                        "uri": [
+                            "http://opendata.cwb.gov.tw/opendata/MFC/F-C0035-014.pcx"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

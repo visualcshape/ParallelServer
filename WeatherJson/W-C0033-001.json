@@ -1,0 +1,1818 @@
+{
+    "fifowml": {
+        "$": {
+            "version": "1.1"
+        },
+        "head": [
+            {
+                "updated": [
+                    "2014-09-25T15:20:45+08:00"
+                ]
+            }
+        ],
+        "data": [
+            {
+                "$": {
+                    "category": "alert-bulletins",
+                    "structure": "location-series"
+                },
+                "location": [
+                    {
+                        "$": {
+                            "id": "10017",
+                            "type": "region"
+                        },
+                        "name": [
+                            {
+                                "_": "基隆市",
+                                "$": {
+                                    "lang": "zh-TW"
+                                }
+                            },
+                            {
+                                "_": "Keelung City",
+                                "$": {
+                                    "lang": "en"
+                                }
+                            }
+                        ],
+                        "hazard-conditions": [
+                            {
+                                "hazard": [
+                                    {
+                                        "phenomena": [
+                                            {
+                                                "_": "Heavy Rain",
+                                                "$": {
+                                                    "lang": "en"
+                                                }
+                                            },
+                                            {
+                                                "_": "大雨",
+                                                "$": {
+                                                    "lang": "zh-TW"
+                                                }
+                                            }
+                                        ],
+                                        "significance": [
+                                            {
+                                                "_": "advisory",
+                                                "$": {
+                                                    "lang": "en"
+                                                }
+                                            },
+                                            {
+                                                "_": "特報",
+                                                "$": {
+                                                    "lang": "zh-TW"
+                                                }
+                                            }
+                                        ],
+                                        "status": [
+                                            "new"
+                                        ],
+                                        "valid-time": [
+                                            {
+                                                "$": {
+                                                    "start": "2014-09-25T15:12:00+08:00",
+                                                    "end": "2014-09-25T21:00:00+08:00"
+                                                }
+                                            }
+                                        ],
+                                        "hazard-conditions": [
+                                            {
+                                                "hazard": [
+                                                    {
+                                                        "phenomena": [
+                                                            {
+                                                                "_": "Heavy Rain",
+                                                                "$": {
+                                                                    "lang": "en"
+                                                                }
+                                                            },
+                                                            {
+                                                                "_": "大雨",
+                                                                "$": {
+                                                                    "lang": "zh-TW"
+                                                                }
+                                                            }
+                                                        ],
+                                                        "affected-areas": [
+                                                            {
+                                                                "location": [
+                                                                    {
+                                                                        "$": {
+                                                                            "type": "area"
+                                                                        },
+                                                                        "name": [
+                                                                            {
+                                                                                "_": "基隆北海岸",
+                                                                                "$": {
+                                                                                    "lang": "zh-TW"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Keelung North Coast",
+                                                                                "$": {
+                                                                                    "lang": "en"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "63000",
+                            "type": "region"
+                        },
+                        "name": [
+                            {
+                                "_": "臺北市",
+                                "$": {
+                                    "lang": "zh-TW"
+                                }
+                            },
+                            {
+                                "_": "Taipei City",
+                                "$": {
+                                    "lang": "en"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "65000",
+                            "type": "region"
+                        },
+                        "name": [
+                            {
+                                "_": "新北市",
+                                "$": {
+                                    "lang": "zh-TW"
+                                }
+                            },
+                            {
+                                "_": "New Taipei City",
+                                "$": {
+                                    "lang": "en"
+                                }
+                            }
+                        ],
+                        "hazard-conditions": [
+                            {
+                                "hazard": [
+                                    {
+                                        "phenomena": [
+                                            {
+                                                "_": "Heavy Rain",
+                                                "$": {
+                                                    "lang": "en"
+                                                }
+                                            },
+                                            {
+                                                "_": "大雨",
+                                                "$": {
+                                                    "lang": "zh-TW"
+                                                }
+                                            }
+                                        ],
+                                        "significance": [
+                                            {
+                                                "_": "advisory",
+                                                "$": {
+                                                    "lang": "en"
+                                                }
+                                            },
+                                            {
+                                                "_": "特報",
+                                                "$": {
+                                                    "lang": "zh-TW"
+                                                }
+                                            }
+                                        ],
+                                        "status": [
+                                            "new"
+                                        ],
+                                        "valid-time": [
+                                            {
+                                                "$": {
+                                                    "start": "2014-09-25T15:12:00+08:00",
+                                                    "end": "2014-09-25T21:00:00+08:00"
+                                                }
+                                            }
+                                        ],
+                                        "hazard-conditions": [
+                                            {
+                                                "hazard": [
+                                                    {
+                                                        "phenomena": [
+                                                            {
+                                                                "_": "Heavy Rain",
+                                                                "$": {
+                                                                    "lang": "en"
+                                                                }
+                                                            },
+                                                            {
+                                                                "_": "大雨",
+                                                                "$": {
+                                                                    "lang": "zh-TW"
+                                                                }
+                                                            }
+                                                        ],
+                                                        "affected-areas": [
+                                                            {
+                                                                "location": [
+                                                                    {
+                                                                        "$": {
+                                                                            "type": "area"
+                                                                        },
+                                                                        "name": [
+                                                                            {
+                                                                                "_": "山區",
+                                                                                "$": {
+                                                                                    "lang": "zh-TW"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Mountain Area",
+                                                                                "$": {
+                                                                                    "lang": "en"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "type": "area"
+                                                                        },
+                                                                        "name": [
+                                                                            {
+                                                                                "_": "基隆北海岸",
+                                                                                "$": {
+                                                                                    "lang": "zh-TW"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Keelung North Coast",
+                                                                                "$": {
+                                                                                    "lang": "en"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "10003",
+                            "type": "region"
+                        },
+                        "name": [
+                            {
+                                "_": "桃園縣",
+                                "$": {
+                                    "lang": "zh-TW"
+                                }
+                            },
+                            {
+                                "_": "Taoyuan County",
+                                "$": {
+                                    "lang": "en"
+                                }
+                            }
+                        ],
+                        "hazard-conditions": [
+                            {
+                                "hazard": [
+                                    {
+                                        "phenomena": [
+                                            {
+                                                "_": "Heavy Rain",
+                                                "$": {
+                                                    "lang": "en"
+                                                }
+                                            },
+                                            {
+                                                "_": "大雨",
+                                                "$": {
+                                                    "lang": "zh-TW"
+                                                }
+                                            }
+                                        ],
+                                        "significance": [
+                                            {
+                                                "_": "advisory",
+                                                "$": {
+                                                    "lang": "en"
+                                                }
+                                            },
+                                            {
+                                                "_": "特報",
+                                                "$": {
+                                                    "lang": "zh-TW"
+                                                }
+                                            }
+                                        ],
+                                        "status": [
+                                            "new"
+                                        ],
+                                        "valid-time": [
+                                            {
+                                                "$": {
+                                                    "start": "2014-09-25T15:12:00+08:00",
+                                                    "end": "2014-09-25T21:00:00+08:00"
+                                                }
+                                            }
+                                        ],
+                                        "hazard-conditions": [
+                                            {
+                                                "hazard": [
+                                                    {
+                                                        "phenomena": [
+                                                            {
+                                                                "_": "Heavy Rain",
+                                                                "$": {
+                                                                    "lang": "en"
+                                                                }
+                                                            },
+                                                            {
+                                                                "_": "大雨",
+                                                                "$": {
+                                                                    "lang": "zh-TW"
+                                                                }
+                                                            }
+                                                        ],
+                                                        "affected-areas": [
+                                                            {
+                                                                "location": [
+                                                                    {
+                                                                        "$": {
+                                                                            "type": "area"
+                                                                        },
+                                                                        "name": [
+                                                                            {
+                                                                                "_": "山區",
+                                                                                "$": {
+                                                                                    "lang": "zh-TW"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Mountain Area",
+                                                                                "$": {
+                                                                                    "lang": "en"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "10018",
+                            "type": "region"
+                        },
+                        "name": [
+                            {
+                                "_": "新竹市",
+                                "$": {
+                                    "lang": "zh-TW"
+                                }
+                            },
+                            {
+                                "_": "Hsinchu City",
+                                "$": {
+                                    "lang": "en"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "10004",
+                            "type": "region"
+                        },
+                        "name": [
+                            {
+                                "_": "新竹縣",
+                                "$": {
+                                    "lang": "zh-TW"
+                                }
+                            },
+                            {
+                                "_": "Hsinchu County",
+                                "$": {
+                                    "lang": "en"
+                                }
+                            }
+                        ],
+                        "hazard-conditions": [
+                            {
+                                "hazard": [
+                                    {
+                                        "phenomena": [
+                                            {
+                                                "_": "Heavy Rain",
+                                                "$": {
+                                                    "lang": "en"
+                                                }
+                                            },
+                                            {
+                                                "_": "大雨",
+                                                "$": {
+                                                    "lang": "zh-TW"
+                                                }
+                                            }
+                                        ],
+                                        "significance": [
+                                            {
+                                                "_": "advisory",
+                                                "$": {
+                                                    "lang": "en"
+                                                }
+                                            },
+                                            {
+                                                "_": "特報",
+                                                "$": {
+                                                    "lang": "zh-TW"
+                                                }
+                                            }
+                                        ],
+                                        "status": [
+                                            "new"
+                                        ],
+                                        "valid-time": [
+                                            {
+                                                "$": {
+                                                    "start": "2014-09-25T15:12:00+08:00",
+                                                    "end": "2014-09-25T21:00:00+08:00"
+                                                }
+                                            }
+                                        ],
+                                        "hazard-conditions": [
+                                            {
+                                                "hazard": [
+                                                    {
+                                                        "phenomena": [
+                                                            {
+                                                                "_": "Heavy Rain",
+                                                                "$": {
+                                                                    "lang": "en"
+                                                                }
+                                                            },
+                                                            {
+                                                                "_": "大雨",
+                                                                "$": {
+                                                                    "lang": "zh-TW"
+                                                                }
+                                                            }
+                                                        ],
+                                                        "affected-areas": [
+                                                            {
+                                                                "location": [
+                                                                    {
+                                                                        "$": {
+                                                                            "type": "area"
+                                                                        },
+                                                                        "name": [
+                                                                            {
+                                                                                "_": "山區",
+                                                                                "$": {
+                                                                                    "lang": "zh-TW"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Mountain Area",
+                                                                                "$": {
+                                                                                    "lang": "en"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "10005",
+                            "type": "region"
+                        },
+                        "name": [
+                            {
+                                "_": "苗栗縣",
+                                "$": {
+                                    "lang": "zh-TW"
+                                }
+                            },
+                            {
+                                "_": "Miaoli County",
+                                "$": {
+                                    "lang": "en"
+                                }
+                            }
+                        ],
+                        "hazard-conditions": [
+                            {
+                                "hazard": [
+                                    {
+                                        "phenomena": [
+                                            {
+                                                "_": "Heavy Rain",
+                                                "$": {
+                                                    "lang": "en"
+                                                }
+                                            },
+                                            {
+                                                "_": "大雨",
+                                                "$": {
+                                                    "lang": "zh-TW"
+                                                }
+                                            }
+                                        ],
+                                        "significance": [
+                                            {
+                                                "_": "advisory",
+                                                "$": {
+                                                    "lang": "en"
+                                                }
+                                            },
+                                            {
+                                                "_": "特報",
+                                                "$": {
+                                                    "lang": "zh-TW"
+                                                }
+                                            }
+                                        ],
+                                        "status": [
+                                            "new"
+                                        ],
+                                        "valid-time": [
+                                            {
+                                                "$": {
+                                                    "start": "2014-09-25T15:12:00+08:00",
+                                                    "end": "2014-09-25T21:00:00+08:00"
+                                                }
+                                            }
+                                        ],
+                                        "hazard-conditions": [
+                                            {
+                                                "hazard": [
+                                                    {
+                                                        "phenomena": [
+                                                            {
+                                                                "_": "Heavy Rain",
+                                                                "$": {
+                                                                    "lang": "en"
+                                                                }
+                                                            },
+                                                            {
+                                                                "_": "大雨",
+                                                                "$": {
+                                                                    "lang": "zh-TW"
+                                                                }
+                                                            }
+                                                        ],
+                                                        "affected-areas": [
+                                                            {
+                                                                "location": [
+                                                                    {
+                                                                        "$": {
+                                                                            "type": "area"
+                                                                        },
+                                                                        "name": [
+                                                                            {
+                                                                                "_": "山區",
+                                                                                "$": {
+                                                                                    "lang": "zh-TW"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Mountain Area",
+                                                                                "$": {
+                                                                                    "lang": "en"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "66000",
+                            "type": "region"
+                        },
+                        "name": [
+                            {
+                                "_": "臺中市",
+                                "$": {
+                                    "lang": "zh-TW"
+                                }
+                            },
+                            {
+                                "_": "Taichung City",
+                                "$": {
+                                    "lang": "en"
+                                }
+                            }
+                        ],
+                        "hazard-conditions": [
+                            {
+                                "hazard": [
+                                    {
+                                        "phenomena": [
+                                            {
+                                                "_": "Heavy Rain",
+                                                "$": {
+                                                    "lang": "en"
+                                                }
+                                            },
+                                            {
+                                                "_": "大雨",
+                                                "$": {
+                                                    "lang": "zh-TW"
+                                                }
+                                            }
+                                        ],
+                                        "significance": [
+                                            {
+                                                "_": "advisory",
+                                                "$": {
+                                                    "lang": "en"
+                                                }
+                                            },
+                                            {
+                                                "_": "特報",
+                                                "$": {
+                                                    "lang": "zh-TW"
+                                                }
+                                            }
+                                        ],
+                                        "status": [
+                                            "new"
+                                        ],
+                                        "valid-time": [
+                                            {
+                                                "$": {
+                                                    "start": "2014-09-25T15:12:00+08:00",
+                                                    "end": "2014-09-25T21:00:00+08:00"
+                                                }
+                                            }
+                                        ],
+                                        "hazard-conditions": [
+                                            {
+                                                "hazard": [
+                                                    {
+                                                        "phenomena": [
+                                                            {
+                                                                "_": "Heavy Rain",
+                                                                "$": {
+                                                                    "lang": "en"
+                                                                }
+                                                            },
+                                                            {
+                                                                "_": "大雨",
+                                                                "$": {
+                                                                    "lang": "zh-TW"
+                                                                }
+                                                            }
+                                                        ],
+                                                        "affected-areas": [
+                                                            {
+                                                                "location": [
+                                                                    {
+                                                                        "$": {
+                                                                            "type": "area"
+                                                                        },
+                                                                        "name": [
+                                                                            {
+                                                                                "_": "山區",
+                                                                                "$": {
+                                                                                    "lang": "zh-TW"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Mountain Area",
+                                                                                "$": {
+                                                                                    "lang": "en"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "10007",
+                            "type": "region"
+                        },
+                        "name": [
+                            {
+                                "_": "彰化縣",
+                                "$": {
+                                    "lang": "zh-TW"
+                                }
+                            },
+                            {
+                                "_": "Changhua County",
+                                "$": {
+                                    "lang": "en"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "10009",
+                            "type": "region"
+                        },
+                        "name": [
+                            {
+                                "_": "雲林縣",
+                                "$": {
+                                    "lang": "zh-TW"
+                                }
+                            },
+                            {
+                                "_": "Yunlin County",
+                                "$": {
+                                    "lang": "en"
+                                }
+                            }
+                        ],
+                        "hazard-conditions": [
+                            {
+                                "hazard": [
+                                    {
+                                        "phenomena": [
+                                            {
+                                                "_": "Heavy Rain",
+                                                "$": {
+                                                    "lang": "en"
+                                                }
+                                            },
+                                            {
+                                                "_": "大雨",
+                                                "$": {
+                                                    "lang": "zh-TW"
+                                                }
+                                            }
+                                        ],
+                                        "significance": [
+                                            {
+                                                "_": "advisory",
+                                                "$": {
+                                                    "lang": "en"
+                                                }
+                                            },
+                                            {
+                                                "_": "特報",
+                                                "$": {
+                                                    "lang": "zh-TW"
+                                                }
+                                            }
+                                        ],
+                                        "status": [
+                                            "new"
+                                        ],
+                                        "valid-time": [
+                                            {
+                                                "$": {
+                                                    "start": "2014-09-25T15:12:00+08:00",
+                                                    "end": "2014-09-25T21:00:00+08:00"
+                                                }
+                                            }
+                                        ],
+                                        "hazard-conditions": [
+                                            {
+                                                "hazard": [
+                                                    {
+                                                        "phenomena": [
+                                                            {
+                                                                "_": "Heavy Rain",
+                                                                "$": {
+                                                                    "lang": "en"
+                                                                }
+                                                            },
+                                                            {
+                                                                "_": "大雨",
+                                                                "$": {
+                                                                    "lang": "zh-TW"
+                                                                }
+                                                            }
+                                                        ],
+                                                        "affected-areas": [
+                                                            {
+                                                                "location": [
+                                                                    {
+                                                                        "$": {
+                                                                            "type": "area"
+                                                                        },
+                                                                        "name": [
+                                                                            {
+                                                                                "_": "山區",
+                                                                                "$": {
+                                                                                    "lang": "zh-TW"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Mountain Area",
+                                                                                "$": {
+                                                                                    "lang": "en"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "10008",
+                            "type": "region"
+                        },
+                        "name": [
+                            {
+                                "_": "南投縣",
+                                "$": {
+                                    "lang": "zh-TW"
+                                }
+                            },
+                            {
+                                "_": "Nantou County",
+                                "$": {
+                                    "lang": "en"
+                                }
+                            }
+                        ],
+                        "hazard-conditions": [
+                            {
+                                "hazard": [
+                                    {
+                                        "phenomena": [
+                                            {
+                                                "_": "Heavy Rain",
+                                                "$": {
+                                                    "lang": "en"
+                                                }
+                                            },
+                                            {
+                                                "_": "大雨",
+                                                "$": {
+                                                    "lang": "zh-TW"
+                                                }
+                                            }
+                                        ],
+                                        "significance": [
+                                            {
+                                                "_": "advisory",
+                                                "$": {
+                                                    "lang": "en"
+                                                }
+                                            },
+                                            {
+                                                "_": "特報",
+                                                "$": {
+                                                    "lang": "zh-TW"
+                                                }
+                                            }
+                                        ],
+                                        "status": [
+                                            "new"
+                                        ],
+                                        "valid-time": [
+                                            {
+                                                "$": {
+                                                    "start": "2014-09-25T15:12:00+08:00",
+                                                    "end": "2014-09-25T21:00:00+08:00"
+                                                }
+                                            }
+                                        ],
+                                        "hazard-conditions": [
+                                            {
+                                                "hazard": [
+                                                    {
+                                                        "phenomena": [
+                                                            {
+                                                                "_": "Heavy Rain",
+                                                                "$": {
+                                                                    "lang": "en"
+                                                                }
+                                                            },
+                                                            {
+                                                                "_": "大雨",
+                                                                "$": {
+                                                                    "lang": "zh-TW"
+                                                                }
+                                                            }
+                                                        ],
+                                                        "affected-areas": [
+                                                            {
+                                                                "location": [
+                                                                    {
+                                                                        "$": {
+                                                                            "type": "area"
+                                                                        },
+                                                                        "name": [
+                                                                            {
+                                                                                "_": "山區",
+                                                                                "$": {
+                                                                                    "lang": "zh-TW"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Mountain Area",
+                                                                                "$": {
+                                                                                    "lang": "en"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "10010",
+                            "type": "region"
+                        },
+                        "name": [
+                            {
+                                "_": "嘉義縣",
+                                "$": {
+                                    "lang": "zh-TW"
+                                }
+                            },
+                            {
+                                "_": "Chiayi County",
+                                "$": {
+                                    "lang": "en"
+                                }
+                            }
+                        ],
+                        "hazard-conditions": [
+                            {
+                                "hazard": [
+                                    {
+                                        "phenomena": [
+                                            {
+                                                "_": "Heavy Rain",
+                                                "$": {
+                                                    "lang": "en"
+                                                }
+                                            },
+                                            {
+                                                "_": "大雨",
+                                                "$": {
+                                                    "lang": "zh-TW"
+                                                }
+                                            }
+                                        ],
+                                        "significance": [
+                                            {
+                                                "_": "advisory",
+                                                "$": {
+                                                    "lang": "en"
+                                                }
+                                            },
+                                            {
+                                                "_": "特報",
+                                                "$": {
+                                                    "lang": "zh-TW"
+                                                }
+                                            }
+                                        ],
+                                        "status": [
+                                            "new"
+                                        ],
+                                        "valid-time": [
+                                            {
+                                                "$": {
+                                                    "start": "2014-09-25T15:12:00+08:00",
+                                                    "end": "2014-09-25T21:00:00+08:00"
+                                                }
+                                            }
+                                        ],
+                                        "hazard-conditions": [
+                                            {
+                                                "hazard": [
+                                                    {
+                                                        "phenomena": [
+                                                            {
+                                                                "_": "Heavy Rain",
+                                                                "$": {
+                                                                    "lang": "en"
+                                                                }
+                                                            },
+                                                            {
+                                                                "_": "大雨",
+                                                                "$": {
+                                                                    "lang": "zh-TW"
+                                                                }
+                                                            }
+                                                        ],
+                                                        "affected-areas": [
+                                                            {
+                                                                "location": [
+                                                                    {
+                                                                        "$": {
+                                                                            "type": "area"
+                                                                        },
+                                                                        "name": [
+                                                                            {
+                                                                                "_": "山區",
+                                                                                "$": {
+                                                                                    "lang": "zh-TW"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Mountain Area",
+                                                                                "$": {
+                                                                                    "lang": "en"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "10020",
+                            "type": "region"
+                        },
+                        "name": [
+                            {
+                                "_": "嘉義市",
+                                "$": {
+                                    "lang": "zh-TW"
+                                }
+                            },
+                            {
+                                "_": "Chiayi City",
+                                "$": {
+                                    "lang": "en"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "67000",
+                            "type": "region"
+                        },
+                        "name": [
+                            {
+                                "_": "臺南市",
+                                "$": {
+                                    "lang": "zh-TW"
+                                }
+                            },
+                            {
+                                "_": "Tainan City",
+                                "$": {
+                                    "lang": "en"
+                                }
+                            }
+                        ],
+                        "hazard-conditions": [
+                            {
+                                "hazard": [
+                                    {
+                                        "phenomena": [
+                                            {
+                                                "_": "Heavy Rain",
+                                                "$": {
+                                                    "lang": "en"
+                                                }
+                                            },
+                                            {
+                                                "_": "大雨",
+                                                "$": {
+                                                    "lang": "zh-TW"
+                                                }
+                                            }
+                                        ],
+                                        "significance": [
+                                            {
+                                                "_": "advisory",
+                                                "$": {
+                                                    "lang": "en"
+                                                }
+                                            },
+                                            {
+                                                "_": "特報",
+                                                "$": {
+                                                    "lang": "zh-TW"
+                                                }
+                                            }
+                                        ],
+                                        "status": [
+                                            "new"
+                                        ],
+                                        "valid-time": [
+                                            {
+                                                "$": {
+                                                    "start": "2014-09-25T15:12:00+08:00",
+                                                    "end": "2014-09-25T21:00:00+08:00"
+                                                }
+                                            }
+                                        ],
+                                        "hazard-conditions": [
+                                            {
+                                                "hazard": [
+                                                    {
+                                                        "phenomena": [
+                                                            {
+                                                                "_": "Heavy Rain",
+                                                                "$": {
+                                                                    "lang": "en"
+                                                                }
+                                                            },
+                                                            {
+                                                                "_": "大雨",
+                                                                "$": {
+                                                                    "lang": "zh-TW"
+                                                                }
+                                                            }
+                                                        ],
+                                                        "affected-areas": [
+                                                            {
+                                                                "location": [
+                                                                    {
+                                                                        "$": {
+                                                                            "type": "area"
+                                                                        },
+                                                                        "name": [
+                                                                            {
+                                                                                "_": "山區",
+                                                                                "$": {
+                                                                                    "lang": "zh-TW"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Mountain Area",
+                                                                                "$": {
+                                                                                    "lang": "en"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "64000",
+                            "type": "region"
+                        },
+                        "name": [
+                            {
+                                "_": "高雄市",
+                                "$": {
+                                    "lang": "zh-TW"
+                                }
+                            },
+                            {
+                                "_": "Kaohsiung City",
+                                "$": {
+                                    "lang": "en"
+                                }
+                            }
+                        ],
+                        "hazard-conditions": [
+                            {
+                                "hazard": [
+                                    {
+                                        "phenomena": [
+                                            {
+                                                "_": "Heavy Rain",
+                                                "$": {
+                                                    "lang": "en"
+                                                }
+                                            },
+                                            {
+                                                "_": "大雨",
+                                                "$": {
+                                                    "lang": "zh-TW"
+                                                }
+                                            }
+                                        ],
+                                        "significance": [
+                                            {
+                                                "_": "advisory",
+                                                "$": {
+                                                    "lang": "en"
+                                                }
+                                            },
+                                            {
+                                                "_": "特報",
+                                                "$": {
+                                                    "lang": "zh-TW"
+                                                }
+                                            }
+                                        ],
+                                        "status": [
+                                            "new"
+                                        ],
+                                        "valid-time": [
+                                            {
+                                                "$": {
+                                                    "start": "2014-09-25T15:12:00+08:00",
+                                                    "end": "2014-09-25T21:00:00+08:00"
+                                                }
+                                            }
+                                        ],
+                                        "hazard-conditions": [
+                                            {
+                                                "hazard": [
+                                                    {
+                                                        "phenomena": [
+                                                            {
+                                                                "_": "Heavy Rain",
+                                                                "$": {
+                                                                    "lang": "en"
+                                                                }
+                                                            },
+                                                            {
+                                                                "_": "大雨",
+                                                                "$": {
+                                                                    "lang": "zh-TW"
+                                                                }
+                                                            }
+                                                        ],
+                                                        "affected-areas": [
+                                                            {
+                                                                "location": [
+                                                                    {
+                                                                        "$": {
+                                                                            "type": "area"
+                                                                        },
+                                                                        "name": [
+                                                                            {
+                                                                                "_": "山區",
+                                                                                "$": {
+                                                                                    "lang": "zh-TW"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Mountain Area",
+                                                                                "$": {
+                                                                                    "lang": "en"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "10013",
+                            "type": "region"
+                        },
+                        "name": [
+                            {
+                                "_": "屏東縣",
+                                "$": {
+                                    "lang": "zh-TW"
+                                }
+                            },
+                            {
+                                "_": "Pingtung County",
+                                "$": {
+                                    "lang": "en"
+                                }
+                            }
+                        ],
+                        "hazard-conditions": [
+                            {
+                                "hazard": [
+                                    {
+                                        "phenomena": [
+                                            {
+                                                "_": "Heavy Rain",
+                                                "$": {
+                                                    "lang": "en"
+                                                }
+                                            },
+                                            {
+                                                "_": "大雨",
+                                                "$": {
+                                                    "lang": "zh-TW"
+                                                }
+                                            }
+                                        ],
+                                        "significance": [
+                                            {
+                                                "_": "advisory",
+                                                "$": {
+                                                    "lang": "en"
+                                                }
+                                            },
+                                            {
+                                                "_": "特報",
+                                                "$": {
+                                                    "lang": "zh-TW"
+                                                }
+                                            }
+                                        ],
+                                        "status": [
+                                            "new"
+                                        ],
+                                        "valid-time": [
+                                            {
+                                                "$": {
+                                                    "start": "2014-09-25T15:12:00+08:00",
+                                                    "end": "2014-09-25T21:00:00+08:00"
+                                                }
+                                            }
+                                        ],
+                                        "hazard-conditions": [
+                                            {
+                                                "hazard": [
+                                                    {
+                                                        "phenomena": [
+                                                            {
+                                                                "_": "Heavy Rain",
+                                                                "$": {
+                                                                    "lang": "en"
+                                                                }
+                                                            },
+                                                            {
+                                                                "_": "大雨",
+                                                                "$": {
+                                                                    "lang": "zh-TW"
+                                                                }
+                                                            }
+                                                        ],
+                                                        "affected-areas": [
+                                                            {
+                                                                "location": [
+                                                                    {
+                                                                        "$": {
+                                                                            "type": "area"
+                                                                        },
+                                                                        "name": [
+                                                                            {
+                                                                                "_": "山區",
+                                                                                "$": {
+                                                                                    "lang": "zh-TW"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Mountain Area",
+                                                                                "$": {
+                                                                                    "lang": "en"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "10002",
+                            "type": "region"
+                        },
+                        "name": [
+                            {
+                                "_": "宜蘭縣",
+                                "$": {
+                                    "lang": "zh-TW"
+                                }
+                            },
+                            {
+                                "_": "Yilan County",
+                                "$": {
+                                    "lang": "en"
+                                }
+                            }
+                        ],
+                        "hazard-conditions": [
+                            {
+                                "hazard": [
+                                    {
+                                        "phenomena": [
+                                            {
+                                                "_": "Heavy Rain",
+                                                "$": {
+                                                    "lang": "en"
+                                                }
+                                            },
+                                            {
+                                                "_": "大雨",
+                                                "$": {
+                                                    "lang": "zh-TW"
+                                                }
+                                            }
+                                        ],
+                                        "significance": [
+                                            {
+                                                "_": "advisory",
+                                                "$": {
+                                                    "lang": "en"
+                                                }
+                                            },
+                                            {
+                                                "_": "特報",
+                                                "$": {
+                                                    "lang": "zh-TW"
+                                                }
+                                            }
+                                        ],
+                                        "status": [
+                                            "new"
+                                        ],
+                                        "valid-time": [
+                                            {
+                                                "$": {
+                                                    "start": "2014-09-25T15:12:00+08:00",
+                                                    "end": "2014-09-25T21:00:00+08:00"
+                                                }
+                                            }
+                                        ],
+                                        "hazard-conditions": [
+                                            {
+                                                "hazard": [
+                                                    {
+                                                        "phenomena": [
+                                                            {
+                                                                "_": "Heavy Rain",
+                                                                "$": {
+                                                                    "lang": "en"
+                                                                }
+                                                            },
+                                                            {
+                                                                "_": "大雨",
+                                                                "$": {
+                                                                    "lang": "zh-TW"
+                                                                }
+                                                            }
+                                                        ],
+                                                        "affected-areas": [
+                                                            {
+                                                                "location": [
+                                                                    {
+                                                                        "$": {
+                                                                            "type": "area"
+                                                                        },
+                                                                        "name": [
+                                                                            {
+                                                                                "_": "山區",
+                                                                                "$": {
+                                                                                    "lang": "zh-TW"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Mountain Area",
+                                                                                "$": {
+                                                                                    "lang": "en"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "$": {
+                                                                            "type": "area"
+                                                                        },
+                                                                        "name": [
+                                                                            {
+                                                                                "_": "平地",
+                                                                                "$": {
+                                                                                    "lang": "zh-TW"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Flat Ground",
+                                                                                "$": {
+                                                                                    "lang": "en"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "10015",
+                            "type": "region"
+                        },
+                        "name": [
+                            {
+                                "_": "花蓮縣",
+                                "$": {
+                                    "lang": "zh-TW"
+                                }
+                            },
+                            {
+                                "_": "Hualien County",
+                                "$": {
+                                    "lang": "en"
+                                }
+                            }
+                        ],
+                        "hazard-conditions": [
+                            {
+                                "hazard": [
+                                    {
+                                        "phenomena": [
+                                            {
+                                                "_": "Heavy Rain",
+                                                "$": {
+                                                    "lang": "en"
+                                                }
+                                            },
+                                            {
+                                                "_": "大雨",
+                                                "$": {
+                                                    "lang": "zh-TW"
+                                                }
+                                            }
+                                        ],
+                                        "significance": [
+                                            {
+                                                "_": "advisory",
+                                                "$": {
+                                                    "lang": "en"
+                                                }
+                                            },
+                                            {
+                                                "_": "特報",
+                                                "$": {
+                                                    "lang": "zh-TW"
+                                                }
+                                            }
+                                        ],
+                                        "status": [
+                                            "new"
+                                        ],
+                                        "valid-time": [
+                                            {
+                                                "$": {
+                                                    "start": "2014-09-25T15:12:00+08:00",
+                                                    "end": "2014-09-25T21:00:00+08:00"
+                                                }
+                                            }
+                                        ],
+                                        "hazard-conditions": [
+                                            {
+                                                "hazard": [
+                                                    {
+                                                        "phenomena": [
+                                                            {
+                                                                "_": "Heavy Rain",
+                                                                "$": {
+                                                                    "lang": "en"
+                                                                }
+                                                            },
+                                                            {
+                                                                "_": "大雨",
+                                                                "$": {
+                                                                    "lang": "zh-TW"
+                                                                }
+                                                            }
+                                                        ],
+                                                        "affected-areas": [
+                                                            {
+                                                                "location": [
+                                                                    {
+                                                                        "$": {
+                                                                            "type": "area"
+                                                                        },
+                                                                        "name": [
+                                                                            {
+                                                                                "_": "山區",
+                                                                                "$": {
+                                                                                    "lang": "zh-TW"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "_": "Mountain Area",
+                                                                                "$": {
+                                                                                    "lang": "en"
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "10014",
+                            "type": "region"
+                        },
+                        "name": [
+                            {
+                                "_": "臺東縣",
+                                "$": {
+                                    "lang": "zh-TW"
+                                }
+                            },
+                            {
+                                "_": "Taitung County",
+                                "$": {
+                                    "lang": "en"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "10016",
+                            "type": "region"
+                        },
+                        "name": [
+                            {
+                                "_": "澎湖縣",
+                                "$": {
+                                    "lang": "zh-TW"
+                                }
+                            },
+                            {
+                                "_": "Penghu County",
+                                "$": {
+                                    "lang": "en"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "9020",
+                            "type": "region"
+                        },
+                        "name": [
+                            {
+                                "_": "金門縣",
+                                "$": {
+                                    "lang": "zh-TW"
+                                }
+                            },
+                            {
+                                "_": "Kinmen County",
+                                "$": {
+                                    "lang": "en"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "$": {
+                            "id": "9007",
+                            "type": "region"
+                        },
+                        "name": [
+                            {
+                                "_": "連江縣",
+                                "$": {
+                                    "lang": "zh-TW"
+                                }
+                            },
+                            {
+                                "_": "Lienchiang County",
+                                "$": {
+                                    "lang": "en"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

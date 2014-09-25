@@ -1,0 +1,208 @@
+{
+    "cwbopendata": {
+        "$": {
+            "xmlns": "urn:cwb:gov:tw:cwbcommon:0.1"
+        },
+        "identifier": [
+            "2e733b5f-125f-4a9f-ab52-34aa222b2f27"
+        ],
+        "sender": [
+            "weather@cwb.gov.tw"
+        ],
+        "sent": [
+            "2014-09-25T14:30:01+08:00"
+        ],
+        "status": [
+            "Actual"
+        ],
+        "msgType": [
+            "Issue"
+        ],
+        "dataid": [
+            "CWB_A0005"
+        ],
+        "scope": [
+            "Public"
+        ],
+        "dataset": [
+            {
+                "weatherElement": [
+                    {
+                        "elementName": [
+                            "氣象站每日紫外線指數最大值"
+                        ],
+                        "time": [
+                            {
+                                "dataTime": [
+                                    "2014/09/25"
+                                ]
+                            }
+                        ],
+                        "location": [
+                            {
+                                "locationCode": [
+                                    "467440"
+                                ],
+                                "value": [
+                                    "7.3815"
+                                ]
+                            },
+                            {
+                                "locationCode": [
+                                    "467550"
+                                ],
+                                "value": [
+                                    "8.4899"
+                                ]
+                            },
+                            {
+                                "locationCode": [
+                                    "467570"
+                                ],
+                                "value": [
+                                    "6.5338"
+                                ]
+                            },
+                            {
+                                "locationCode": [
+                                    "467080"
+                                ],
+                                "value": [
+                                    "8.9309"
+                                ]
+                            },
+                            {
+                                "locationCode": [
+                                    "466990"
+                                ],
+                                "value": [
+                                    "9.5364"
+                                ]
+                            },
+                            {
+                                "locationCode": [
+                                    "467050"
+                                ],
+                                "value": [
+                                    "8.6426"
+                                ]
+                            },
+                            {
+                                "locationCode": [
+                                    "467990"
+                                ],
+                                "value": [
+                                    "3.0606"
+                                ]
+                            },
+                            {
+                                "locationCode": [
+                                    "467610"
+                                ],
+                                "value": [
+                                    "8.5763"
+                                ]
+                            },
+                            {
+                                "locationCode": [
+                                    "466920"
+                                ],
+                                "value": [
+                                    "8.1793"
+                                ]
+                            },
+                            {
+                                "locationCode": [
+                                    "467650"
+                                ],
+                                "value": [
+                                    "6.3552"
+                                ]
+                            },
+                            {
+                                "locationCode": [
+                                    "467350"
+                                ],
+                                "value": [
+                                    "8.0528"
+                                ]
+                            },
+                            {
+                                "locationCode": [
+                                    "467410"
+                                ],
+                                "value": [
+                                    "7.6791"
+                                ]
+                            },
+                            {
+                                "locationCode": [
+                                    "467110"
+                                ],
+                                "value": [
+                                    "6.9142"
+                                ]
+                            },
+                            {
+                                "locationCode": [
+                                    "466910"
+                                ],
+                                "value": [
+                                    "3.8931"
+                                ]
+                            },
+                            {
+                                "locationCode": [
+                                    "467620"
+                                ],
+                                "value": [
+                                    "10.8620"
+                                ]
+                            },
+                            {
+                                "locationCode": [
+                                    "467660"
+                                ],
+                                "value": [
+                                    "9.9045"
+                                ]
+                            },
+                            {
+                                "locationCode": [
+                                    "467590"
+                                ],
+                                "value": [
+                                    "8.3355"
+                                ]
+                            },
+                            {
+                                "locationCode": [
+                                    "466940"
+                                ],
+                                "value": [
+                                    "8.9274"
+                                ]
+                            },
+                            {
+                                "locationCode": [
+                                    "467490"
+                                ],
+                                "value": [
+                                    "6.2103"
+                                ]
+                            },
+                            {
+                                "locationCode": [
+                                    "467480"
+                                ],
+                                "value": [
+                                    "9.7449"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

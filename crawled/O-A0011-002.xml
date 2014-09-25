@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1"> 
+ <identifier>66036e38-4493-11e4-8367-2c44fd83e9f8</identifier> 
+ <sender>weather@cwb.gov.tw</sender> 
+ <sent>2014-09-25T17:07:39+08:00</sent> 
+ <status>Actual</status> 
+ <msgType>Issue</msgType> 
+ <scope>Public</scope> 
+ <source>Telecommunications and Radar Division</source> 
+ 
+ <dataset> 
+ <datasetinfo> 
+   <datasetDescription>地理資訊</datasetDescription> 
+   <parameterset> 
+     <parameterName>經度範圍</parameterName> 
+     <parameterValue>120.0 - 121.998</parameterValue> 
+   </parameterset> 
+   <parameterset> 
+     <parameterName>緯度範圍</parameterName> 
+     <parameterValue>23.474 - 25.47</parameterValue> 
+   </parameterset> 
+ </datasetinfo> 
+ <time> 
+ <obsTime>2014-09-25T17:00:00+08:00</obsTime> 
+ </time> 
+  <resource> 
+   <resourceDesc>雷達回波圖</resourceDesc> 
+   <mimeType>image/jpeg</mimeType> 
+   <uri>http://opendata.cwb.gov.tw/opendata/DIV4/O-A0011-002.jpg</uri> 
+  </resource> 
+ </dataset> 
+</cwbopendata>
