@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
- <identifier>4e462f63-e1e3-4517-97db-d3fad7afd0f0</identifier>
+ <identifier>d0de5c68-5fb4-45dd-ab28-c51f19ec70ff</identifier>
  <sender>weather@cwb.gov.tw</sender>
- <sent>2014-09-05T01:25:29+08:00</sent>
+ <sent>2014-10-08T09:09:41+08:00</sent>
  <status>Actual</status>
  <msgType>Issue</msgType>
  <dataid>CWB_A0006</dataid>
@@ -1649,6 +1649,24 @@
       <value>285</value>
      </elementValue>
     </time>
+    <time>
+     <dataTime>2014-07</dataTime>
+     <elementValue>
+      <value>278</value>
+     </elementValue>
+    </time>
+    <time>
+     <dataTime>2014-08</dataTime>
+     <elementValue>
+      <value>278</value>
+     </elementValue>
+    </time>
+    <time>
+     <dataTime>2014-09</dataTime>
+     <elementValue>
+      <value>276</value>
+     </elementValue>
+    </time>
    </weatherElement>
    <weatherElement>
     <elementName>累年臭氧全量累年平均值</elementName>
@@ -1832,7 +1850,7 @@
     <time>
      <dataTime>07</dataTime>
      <elementValue>
-      <value>283</value>
+      <value>282</value>
      </elementValue>
     </time>
     <time>

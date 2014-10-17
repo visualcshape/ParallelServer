@@ -4,13 +4,13 @@
             "xmlns": "urn:cwb:gov:tw:cwbcommon:0.1"
         },
         "identifier": [
-            "4e462f63-e1e3-4517-97db-d3fad7afd0f0"
+            "d0de5c68-5fb4-45dd-ab28-c51f19ec70ff"
         ],
         "sender": [
             "weather@cwb.gov.tw"
         ],
         "sent": [
-            "2014-09-05T01:25:29+08:00"
+            "2014-10-08T09:09:41+08:00"
         ],
         "status": [
             "Actual"
@@ -3312,6 +3312,42 @@
                                                 ]
                                             }
                                         ]
+                                    },
+                                    {
+                                        "dataTime": [
+                                            "2014-07"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "278"
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "dataTime": [
+                                            "2014-08"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "278"
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "dataTime": [
+                                            "2014-09"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "276"
+                                                ]
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -3682,7 +3718,7 @@
                                         "elementValue": [
                                             {
                                                 "value": [
-                                                    "283"
+                                                    "282"
                                                 ]
                                             }
                                         ]

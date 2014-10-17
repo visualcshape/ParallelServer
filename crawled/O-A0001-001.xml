@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
- <identifier>a35f4213-aec6-4a60-83b9-5cb80ae5e5bd</identifier>
+ <identifier>2d289b91-ac7e-480c-a3fc-6940c1e871e1</identifier>
  <sender>weather@cwb.gov.tw</sender>
- <sent>2014-09-25T17:05:43+08:00</sent>
+ <sent>2014-10-18T02:05:43+08:00</sent>
  <status>Actual</status>
  <msgType>Issue</msgType>
  <dataid>CWB_A0001</dataid>
@@ -13,7 +13,7 @@
   <locationName>竹南</locationName>
   <stationId>C0E420</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -24,31 +24,31 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>16.0</value>
+    <value>140.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>2.2</value>
+    <value>0.3</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>29.3</value>
+    <value>20.2</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>HUMD</elementName>
    <elementValue>
-    <value>0.77</value>
+    <value>0.92</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>1007.4</value>
+    <value>1011.7</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -66,19 +66,19 @@
   <weatherElement>
    <elementName>WS15M</elementName>
    <elementValue>
-    <value>4.4</value>
+    <value>0.6</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WD15M</elementName>
    <elementValue>
-    <value>33</value>
+    <value>143</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15T</elementName>
    <elementValue>
-    <value>1659</value>
+    <value>0200</value>
    </elementValue>
   </weatherElement>
   <parameter>
@@ -104,7 +104,7 @@
   <locationName>南庄</locationName>
   <stationId>C0E430</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -115,31 +115,31 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>161.0</value>
+    <value>28.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>0.4</value>
+    <value>1.8</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>25.0</value>
+    <value>18.4</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>HUMD</elementName>
    <elementValue>
-    <value>0.98</value>
+    <value>0.91</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>986.5</value>
+    <value>990.2</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -151,25 +151,25 @@
   <weatherElement>
    <elementName>H_24R</elementName>
    <elementValue>
-    <value>18.5</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15M</elementName>
    <elementValue>
-    <value>0.9</value>
+    <value>3.6</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WD15M</elementName>
    <elementValue>
-    <value>175</value>
+    <value>27</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15T</elementName>
    <elementValue>
-    <value>1658</value>
+    <value>0159</value>
    </elementValue>
   </weatherElement>
   <parameter>
@@ -195,7 +195,7 @@
   <locationName>三義</locationName>
   <stationId>C0E530</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -206,31 +206,31 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>18.0</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>0.9</value>
+    <value>0.2</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>26.7</value>
+    <value>18.2</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>HUMD</elementName>
    <elementValue>
-    <value>0.85</value>
+    <value>0.97</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>973.7</value>
+    <value>976.7</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -248,19 +248,19 @@
   <weatherElement>
    <elementName>WS15M</elementName>
    <elementValue>
-    <value>2.7</value>
+    <value>0.7</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WD15M</elementName>
    <elementValue>
-    <value>39</value>
+    <value>220</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15T</elementName>
    <elementValue>
-    <value>1652</value>
+    <value>0148</value>
    </elementValue>
   </weatherElement>
   <parameter>
@@ -286,7 +286,7 @@
   <locationName>梨山</locationName>
   <stationId>C0F860</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -297,31 +297,31 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>218.0</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>1.0</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>17.2</value>
+    <value>9.9</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>HUMD</elementName>
    <elementValue>
-    <value>0.96</value>
+    <value>0.99</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>783.4</value>
+    <value>783.2</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -339,19 +339,19 @@
   <weatherElement>
    <elementName>WS15M</elementName>
    <elementValue>
-    <value>1.7</value>
+    <value>0.4</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WD15M</elementName>
    <elementValue>
-    <value>202</value>
+    <value>129</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15T</elementName>
    <elementValue>
-    <value>1657</value>
+    <value>0151</value>
    </elementValue>
   </weatherElement>
   <parameter>
@@ -377,7 +377,7 @@
   <locationName>合歡山</locationName>
   <stationId>C0H9C0</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -388,31 +388,31 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>288.0</value>
+    <value>197.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>0.8</value>
+    <value>1.5</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>9.3</value>
+    <value>4.4</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>HUMD</elementName>
    <elementValue>
-    <value>0.96</value>
+    <value>0.99</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>680.0</value>
+    <value>678.7</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -468,7 +468,7 @@
   <locationName>馬頭山</locationName>
   <stationId>C0M410</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -479,31 +479,31 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>347.0</value>
+    <value>341.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>2.0</value>
+    <value>1.3</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>25.4</value>
+    <value>18.4</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>HUMD</elementName>
    <elementValue>
-    <value>0.81</value>
+    <value>0.91</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>978.9</value>
+    <value>983.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -515,7 +515,7 @@
   <weatherElement>
    <elementName>H_24R</elementName>
    <elementValue>
-    <value>0.5</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -559,7 +559,7 @@
   <locationName>善化</locationName>
   <stationId>C0O900</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -570,31 +570,31 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>318.0</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>3.3</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>29.9</value>
+    <value>20.2</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>HUMD</elementName>
    <elementValue>
-    <value>0.71</value>
+    <value>0.95</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>1010.0</value>
+    <value>1014.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -612,19 +612,19 @@
   <weatherElement>
    <elementName>WS15M</elementName>
    <elementValue>
-    <value>5.1</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WD15M</elementName>
    <elementValue>
-    <value>316</value>
+    <value>0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15T</elementName>
    <elementValue>
-    <value>1654</value>
+    <value>0155</value>
    </elementValue>
   </weatherElement>
   <parameter>
@@ -650,7 +650,7 @@
   <locationName>玉井</locationName>
   <stationId>C0O930</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -661,31 +661,31 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>314.0</value>
+    <value>61.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>1.0</value>
+    <value>0.4</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>29.5</value>
+    <value>19.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>HUMD</elementName>
    <elementValue>
-    <value>0.74</value>
+    <value>0.92</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>1003.5</value>
+    <value>1007.8</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -703,19 +703,19 @@
   <weatherElement>
    <elementName>WS15M</elementName>
    <elementValue>
-    <value>3.1</value>
+    <value>1.1</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WD15M</elementName>
    <elementValue>
-    <value>305</value>
+    <value>57</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15T</elementName>
    <elementValue>
-    <value>1654</value>
+    <value>0159</value>
    </elementValue>
   </weatherElement>
   <parameter>
@@ -741,7 +741,7 @@
   <locationName>古亭坑</locationName>
   <stationId>C0V370</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -752,31 +752,31 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>255.0</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>0.9</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>30.3</value>
+    <value>18.5</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>HUMD</elementName>
    <elementValue>
-    <value>0.73</value>
+    <value>0.97</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>1003.1</value>
+    <value>1007.3</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -794,19 +794,19 @@
   <weatherElement>
    <elementName>WS15M</elementName>
    <elementValue>
-    <value>2.1</value>
+    <value>0.3</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WD15M</elementName>
    <elementValue>
-    <value>295</value>
+    <value>114</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15T</elementName>
    <elementValue>
-    <value>1700</value>
+    <value>0152</value>
    </elementValue>
   </weatherElement>
   <parameter>
@@ -832,7 +832,7 @@
   <locationName>美濃</locationName>
   <stationId>C0V310</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -843,31 +843,31 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>219.0</value>
+    <value>303.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>1.3</value>
+    <value>0.4</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>30.7</value>
+    <value>19.7</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>HUMD</elementName>
    <elementValue>
-    <value>0.70</value>
+    <value>0.95</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>1005.4</value>
+    <value>1009.6</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -885,19 +885,19 @@
   <weatherElement>
    <elementName>WS15M</elementName>
    <elementValue>
-    <value>5.3</value>
+    <value>0.8</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WD15M</elementName>
    <elementValue>
-    <value>220</value>
+    <value>305</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15T</elementName>
    <elementValue>
-    <value>1651</value>
+    <value>0155</value>
    </elementValue>
   </weatherElement>
   <parameter>
@@ -923,7 +923,7 @@
   <locationName>三地門</locationName>
   <stationId>C0R150</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -934,31 +934,31 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>145.0</value>
+    <value>114.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>0.5</value>
+    <value>2.6</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>25.3</value>
+    <value>21.7</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>HUMD</elementName>
    <elementValue>
-    <value>0.90</value>
+    <value>0.72</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>998.5</value>
+    <value>1002.1</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -970,25 +970,25 @@
   <weatherElement>
    <elementName>H_24R</elementName>
    <elementValue>
-    <value>33.0</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15M</elementName>
    <elementValue>
-    <value>2.2</value>
+    <value>6.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WD15M</elementName>
    <elementValue>
-    <value>110</value>
+    <value>121</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15T</elementName>
    <elementValue>
-    <value>1651</value>
+    <value>0158</value>
    </elementValue>
   </weatherElement>
   <parameter>
@@ -1014,7 +1014,7 @@
   <locationName>甲仙</locationName>
   <stationId>C0V250</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -1025,31 +1025,31 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>169.0</value>
+    <value>23.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>1.6</value>
+    <value>0.6</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>26.8</value>
+    <value>17.3</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>HUMD</elementName>
    <elementValue>
-    <value>0.84</value>
+    <value>0.93</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>977.6</value>
+    <value>981.9</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -1067,19 +1067,19 @@
   <weatherElement>
    <elementName>WS15M</elementName>
    <elementValue>
-    <value>2.7</value>
+    <value>1.3</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WD15M</elementName>
    <elementValue>
-    <value>151</value>
+    <value>47</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15T</elementName>
    <elementValue>
-    <value>1657</value>
+    <value>0155</value>
    </elementValue>
   </weatherElement>
   <parameter>
@@ -1105,7 +1105,7 @@
   <locationName>潮州</locationName>
   <stationId>C0R220</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -1116,31 +1116,31 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>217.0</value>
+    <value>31.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>1.1</value>
+    <value>0.8</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>28.7</value>
+    <value>22.1</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>HUMD</elementName>
    <elementValue>
-    <value>0.84</value>
+    <value>0.80</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>1008.5</value>
+    <value>1012.2</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -1158,19 +1158,19 @@
   <weatherElement>
    <elementName>WS15M</elementName>
    <elementValue>
-    <value>2.6</value>
+    <value>1.1</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WD15M</elementName>
    <elementValue>
-    <value>216</value>
+    <value>29</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15T</elementName>
    <elementValue>
-    <value>1658</value>
+    <value>0153</value>
    </elementValue>
   </weatherElement>
   <parameter>
@@ -1196,7 +1196,7 @@
   <locationName>竹山</locationName>
   <stationId>C0I110</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -1207,19 +1207,19 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>39.0</value>
+    <value>169.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>0.9</value>
+    <value>0.5</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>25.8</value>
+    <value>20.1</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -1231,7 +1231,7 @@
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>993.0</value>
+    <value>996.4</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -1243,7 +1243,7 @@
   <weatherElement>
    <elementName>H_24R</elementName>
    <elementValue>
-    <value>11.0</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -1282,103 +1282,12 @@
   </parameter>
  </location>
  <location>
-  <lat>23.5956</lat>
-  <lon>120.6933</lon>
-  <locationName>草嶺</locationName>
-  <stationId>C0K240</stationId>
-  <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
-  </time>
-  <weatherElement>
-   <elementName>ELEV</elementName>
-   <elementValue>
-    <value>1132.0</value>
-   </elementValue>
-  </weatherElement>
-  <weatherElement>
-   <elementName>WDIR</elementName>
-   <elementValue>
-    <value>322.0</value>
-   </elementValue>
-  </weatherElement>
-  <weatherElement>
-   <elementName>WDSD</elementName>
-   <elementValue>
-    <value>1.2</value>
-   </elementValue>
-  </weatherElement>
-  <weatherElement>
-   <elementName>TEMP</elementName>
-   <elementValue>
-    <value>21.6</value>
-   </elementValue>
-  </weatherElement>
-  <weatherElement>
-   <elementName>HUMD</elementName>
-   <elementValue>
-    <value>1.00</value>
-   </elementValue>
-  </weatherElement>
-  <weatherElement>
-   <elementName>PRES</elementName>
-   <elementValue>
-    <value>888.3</value>
-   </elementValue>
-  </weatherElement>
-  <weatherElement>
-   <elementName>SUN</elementName>
-   <elementValue>
-    <value>-99.0</value>
-   </elementValue>
-  </weatherElement>
-  <weatherElement>
-   <elementName>H_24R</elementName>
-   <elementValue>
-    <value>0.0</value>
-   </elementValue>
-  </weatherElement>
-  <weatherElement>
-   <elementName>WS15M</elementName>
-   <elementValue>
-    <value>-9.9</value>
-   </elementValue>
-  </weatherElement>
-  <weatherElement>
-   <elementName>WD15M</elementName>
-   <elementValue>
-    <value>-99</value>
-   </elementValue>
-  </weatherElement>
-  <weatherElement>
-   <elementName>WS15T</elementName>
-   <elementValue>
-    <value>-999</value>
-   </elementValue>
-  </weatherElement>
-  <parameter>
-   <parameterName>CITY</parameterName>
-   <parameterValue>雲林縣</parameterValue>
-  </parameter>
-  <parameter>
-   <parameterName>CITY_SN</parameterName>
-   <parameterValue>16</parameterValue>
-  </parameter>
-  <parameter>
-   <parameterName>TOWN</parameterName>
-   <parameterValue>古坑鄉</parameterValue>
-  </parameter>
-  <parameter>
-   <parameterName>TOWN_SN</parameterName>
-   <parameterValue>196</parameterValue>
-  </parameter>
- </location>
- <location>
   <lat>23.8506</lat>
   <lon>120.2719</lon>
   <locationName>臺西</locationName>
   <stationId>C0G710</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -1389,19 +1298,19 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>360.0</value>
+    <value>40.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>4.8</value>
+    <value>0.7</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>28.8</value>
+    <value>21.2</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -1469,7 +1378,7 @@
   <locationName>鹿港</locationName>
   <stationId>C0G640</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -1480,31 +1389,31 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>20.0</value>
+    <value>28.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>3.0</value>
+    <value>1.8</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>29.9</value>
+    <value>21.4</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>HUMD</elementName>
    <elementValue>
-    <value>0.93</value>
+    <value>1.00</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>1011.3</value>
+    <value>1014.6</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -1522,19 +1431,19 @@
   <weatherElement>
    <elementName>WS15M</elementName>
    <elementValue>
-    <value>5.6</value>
+    <value>3.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WD15M</elementName>
    <elementValue>
-    <value>38</value>
+    <value>24</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15T</elementName>
    <elementValue>
-    <value>1648</value>
+    <value>0156</value>
    </elementValue>
   </weatherElement>
   <parameter>
@@ -1560,7 +1469,7 @@
   <locationName>員林</locationName>
   <stationId>C0G650</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -1571,31 +1480,31 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>340.0</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>1.3</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>30.4</value>
+    <value>20.5</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>HUMD</elementName>
    <elementValue>
-    <value>0.66</value>
+    <value>0.90</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>1007.2</value>
+    <value>1011.4</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -1613,19 +1522,19 @@
   <weatherElement>
    <elementName>WS15M</elementName>
    <elementValue>
-    <value>3.8</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WD15M</elementName>
    <elementValue>
-    <value>14</value>
+    <value>0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15T</elementName>
    <elementValue>
-    <value>1646</value>
+    <value>0155</value>
    </elementValue>
   </weatherElement>
   <parameter>
@@ -1651,7 +1560,7 @@
   <locationName>廬山</locationName>
   <stationId>C0I010</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -1668,13 +1577,13 @@
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>0.2</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>-97.0</value>
+    <value>13.5</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -1742,7 +1651,7 @@
   <locationName>關子嶺</locationName>
   <stationId>C0X020</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -1765,7 +1674,7 @@
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>23.2</value>
+    <value>17.8</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -1789,7 +1698,7 @@
   <weatherElement>
    <elementName>H_24R</elementName>
    <elementValue>
-    <value>44.0</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -1833,7 +1742,7 @@
   <locationName>虎尾</locationName>
   <stationId>C0K330</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -1844,19 +1753,19 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>330.0</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>3.2</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>30.6</value>
+    <value>21.2</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -1924,7 +1833,7 @@
   <locationName>四湖</locationName>
   <stationId>C0K280</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -1941,13 +1850,13 @@
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>0.2</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>30.2</value>
+    <value>20.3</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -2015,7 +1924,7 @@
   <locationName>宜梧</locationName>
   <stationId>C0K290</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -2026,19 +1935,19 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>330.0</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>4.1</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>29.6</value>
+    <value>21.5</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -2106,7 +2015,7 @@
   <locationName>佳里</locationName>
   <stationId>C0X080</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -2117,19 +2026,19 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>320.0</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>2.9</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>30.8</value>
+    <value>20.2</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -2197,7 +2106,7 @@
   <locationName>新營</locationName>
   <stationId>C0O910</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -2220,7 +2129,7 @@
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>29.7</value>
+    <value>19.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -2232,7 +2141,7 @@
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>1010.2</value>
+    <value>1014.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -2288,7 +2197,7 @@
   <locationName>三貂角</locationName>
   <stationId>C0A970</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -2299,19 +2208,19 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>237.0</value>
+    <value>94.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>4.6</value>
+    <value>0.9</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>26.0</value>
+    <value>23.1</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -2323,7 +2232,7 @@
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>1003.2</value>
+    <value>1008.1</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -2379,7 +2288,7 @@
   <locationName>礁溪</locationName>
   <stationId>C0U600</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -2390,19 +2299,19 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>49.0</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>0.3</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>25.3</value>
+    <value>20.8</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -2414,7 +2323,7 @@
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>1011.8</value>
+    <value>1015.6</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -2426,7 +2335,7 @@
   <weatherElement>
    <elementName>H_24R</elementName>
    <elementValue>
-    <value>67.0</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -2470,7 +2379,7 @@
   <locationName>太平山</locationName>
   <stationId>C0U710</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -2487,13 +2396,13 @@
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>0.0</value>
+    <value>0.1</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>16.8</value>
+    <value>11.5</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -2505,7 +2414,7 @@
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>811.0</value>
+    <value>811.1</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -2517,7 +2426,7 @@
   <weatherElement>
    <elementName>H_24R</elementName>
    <elementValue>
-    <value>1.0</value>
+    <value>2.5</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -2561,7 +2470,7 @@
   <locationName>天祥</locationName>
   <stationId>C0T820</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -2572,19 +2481,19 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>138.0</value>
+    <value>158.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>1.4</value>
+    <value>0.3</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>25.1</value>
+    <value>18.7</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -2596,7 +2505,7 @@
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>953.9</value>
+    <value>958.2</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -2652,7 +2561,7 @@
   <locationName>鯉魚潭</locationName>
   <stationId>C0T870</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -2663,19 +2572,19 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>60.0</value>
+    <value>335.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>0.6</value>
+    <value>0.4</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>26.9</value>
+    <value>20.5</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -2687,7 +2596,7 @@
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>997.7</value>
+    <value>1003.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -2699,7 +2608,7 @@
   <weatherElement>
    <elementName>H_24R</elementName>
    <elementValue>
-    <value>0.0</value>
+    <value>5.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -2743,7 +2652,7 @@
   <locationName>光復</locationName>
   <stationId>C0T960</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -2754,19 +2663,19 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>237.0</value>
+    <value>19.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>0.3</value>
+    <value>1.1</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>26.6</value>
+    <value>20.7</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -2778,7 +2687,7 @@
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>998.8</value>
+    <value>1003.9</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -2790,7 +2699,7 @@
   <weatherElement>
    <elementName>H_24R</elementName>
    <elementValue>
-    <value>0.5</value>
+    <value>1.5</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -2834,7 +2743,7 @@
   <locationName>綠島</locationName>
   <stationId>C0S730</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -2845,19 +2754,19 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>4.0</value>
+    <value>309.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>2.0</value>
+    <value>2.7</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>27.3</value>
+    <value>21.4</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -2869,7 +2778,7 @@
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>1001.0</value>
+    <value>1003.4</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -2881,7 +2790,7 @@
   <weatherElement>
    <elementName>H_24R</elementName>
    <elementValue>
-    <value>0.0</value>
+    <value>4.5</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -2925,7 +2834,7 @@
   <locationName>池上</locationName>
   <stationId>C0S740</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -2936,19 +2845,19 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>55.0</value>
+    <value>20.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>1.3</value>
+    <value>1.6</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>25.5</value>
+    <value>20.6</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -2960,7 +2869,7 @@
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>981.3</value>
+    <value>985.4</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -2972,7 +2881,7 @@
   <weatherElement>
    <elementName>H_24R</elementName>
    <elementValue>
-    <value>6.0</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -3011,103 +2920,12 @@
   </parameter>
  </location>
  <location>
-  <lat>23.2500</lat>
-  <lon>120.9781</lon>
-  <locationName>向陽</locationName>
-  <stationId>C0S750</stationId>
-  <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
-  </time>
-  <weatherElement>
-   <elementName>ELEV</elementName>
-   <elementValue>
-    <value>2280.0</value>
-   </elementValue>
-  </weatherElement>
-  <weatherElement>
-   <elementName>WDIR</elementName>
-   <elementValue>
-    <value>0.0</value>
-   </elementValue>
-  </weatherElement>
-  <weatherElement>
-   <elementName>WDSD</elementName>
-   <elementValue>
-    <value>0.0</value>
-   </elementValue>
-  </weatherElement>
-  <weatherElement>
-   <elementName>TEMP</elementName>
-   <elementValue>
-    <value>15.0</value>
-   </elementValue>
-  </weatherElement>
-  <weatherElement>
-   <elementName>HUMD</elementName>
-   <elementValue>
-    <value>-0.99</value>
-   </elementValue>
-  </weatherElement>
-  <weatherElement>
-   <elementName>PRES</elementName>
-   <elementValue>
-    <value>776.4</value>
-   </elementValue>
-  </weatherElement>
-  <weatherElement>
-   <elementName>SUN</elementName>
-   <elementValue>
-    <value>-99.0</value>
-   </elementValue>
-  </weatherElement>
-  <weatherElement>
-   <elementName>H_24R</elementName>
-   <elementValue>
-    <value>0.5</value>
-   </elementValue>
-  </weatherElement>
-  <weatherElement>
-   <elementName>WS15M</elementName>
-   <elementValue>
-    <value>-9.9</value>
-   </elementValue>
-  </weatherElement>
-  <weatherElement>
-   <elementName>WD15M</elementName>
-   <elementValue>
-    <value>-99</value>
-   </elementValue>
-  </weatherElement>
-  <weatherElement>
-   <elementName>WS15T</elementName>
-   <elementValue>
-    <value>-999</value>
-   </elementValue>
-  </weatherElement>
-  <parameter>
-   <parameterName>CITY</parameterName>
-   <parameterValue>臺東縣</parameterValue>
-  </parameter>
-  <parameter>
-   <parameterName>CITY_SN</parameterName>
-   <parameterValue>22</parameterValue>
-  </parameter>
-  <parameter>
-   <parameterName>TOWN</parameterName>
-   <parameterValue>海端鄉</parameterValue>
-  </parameter>
-  <parameter>
-   <parameterName>TOWN_SN</parameterName>
-   <parameterValue>240</parameterValue>
-  </parameter>
- </location>
- <location>
   <lat>23.3233</lat>
   <lon>121.3316</lon>
   <locationName>玉里</locationName>
   <stationId>C0Z060</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -3118,19 +2936,19 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>357.0</value>
+    <value>333.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>0.5</value>
+    <value>0.7</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>26.1</value>
+    <value>20.9</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -3142,7 +2960,7 @@
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>996.3</value>
+    <value>1001.2</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -3154,7 +2972,7 @@
   <weatherElement>
    <elementName>H_24R</elementName>
    <elementValue>
-    <value>6.5</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -3198,7 +3016,7 @@
   <locationName>琉球嶼</locationName>
   <stationId>C0R270</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -3209,7 +3027,7 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>219.0</value>
+    <value>271.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -3221,19 +3039,19 @@
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>28.8</value>
+    <value>22.4</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>HUMD</elementName>
    <elementValue>
-    <value>0.80</value>
+    <value>0.82</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>1004.2</value>
+    <value>1007.6</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -3251,19 +3069,19 @@
   <weatherElement>
    <elementName>WS15M</elementName>
    <elementValue>
-    <value>2.2</value>
+    <value>1.8</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WD15M</elementName>
    <elementValue>
-    <value>204</value>
+    <value>253</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15T</elementName>
    <elementValue>
-    <value>1656</value>
+    <value>0151</value>
    </elementValue>
   </weatherElement>
   <parameter>
@@ -3289,7 +3107,7 @@
   <locationName>枋寮</locationName>
   <stationId>C0R380</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -3300,19 +3118,19 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>211.0</value>
+    <value>89.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>0.9</value>
+    <value>0.3</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>28.6</value>
+    <value>22.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -3324,7 +3142,7 @@
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>1010.9</value>
+    <value>1014.1</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -3380,7 +3198,7 @@
   <locationName>楓港</locationName>
   <stationId>C0R400</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -3391,19 +3209,19 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>0.0</value>
+    <value>42.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>0.0</value>
+    <value>2.6</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>28.0</value>
+    <value>23.4</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -3415,7 +3233,7 @@
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>1009.9</value>
+    <value>1013.1</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -3471,7 +3289,7 @@
   <locationName>坪林</locationName>
   <stationId>C0A530</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -3482,31 +3300,31 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>55.0</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>1.0</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>25.0</value>
+    <value>20.2</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>HUMD</elementName>
    <elementValue>
-    <value>0.96</value>
+    <value>0.91</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>979.3</value>
+    <value>983.9</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -3518,25 +3336,25 @@
   <weatherElement>
    <elementName>H_24R</elementName>
    <elementValue>
-    <value>3.5</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15M</elementName>
    <elementValue>
-    <value>2.4</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WD15M</elementName>
    <elementValue>
-    <value>57</value>
+    <value>0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15T</elementName>
    <elementValue>
-    <value>1651</value>
+    <value>0155</value>
    </elementValue>
   </weatherElement>
   <parameter>
@@ -3562,7 +3380,7 @@
   <locationName>豐濱</locationName>
   <stationId>C0T9I0</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -3573,19 +3391,19 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>61.0</value>
+    <value>28.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>1.1</value>
+    <value>1.6</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>26.6</value>
+    <value>21.5</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -3597,7 +3415,7 @@
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>996.2</value>
+    <value>1000.1</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -3653,7 +3471,7 @@
   <locationName>南澳</locationName>
   <stationId>C0U770</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -3664,19 +3482,19 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>343.0</value>
+    <value>347.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>3.0</value>
+    <value>2.9</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>26.2</value>
+    <value>21.2</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -3688,7 +3506,7 @@
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>1011.6</value>
+    <value>1017.2</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -3700,7 +3518,7 @@
   <weatherElement>
    <elementName>H_24R</elementName>
    <elementValue>
-    <value>0.5</value>
+    <value>1.5</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -3744,7 +3562,7 @@
   <locationName>雪霸</locationName>
   <stationId>C0D550</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -3761,25 +3579,25 @@
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>0.1</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>17.1</value>
+    <value>10.9</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>HUMD</elementName>
    <elementValue>
-    <value>0.99</value>
+    <value>0.90</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>813.4</value>
+    <value>814.1</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -3797,19 +3615,19 @@
   <weatherElement>
    <elementName>WS15M</elementName>
    <elementValue>
-    <value>0.8</value>
+    <value>0.1</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WD15M</elementName>
    <elementValue>
-    <value>122</value>
+    <value>0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15T</elementName>
    <elementValue>
-    <value>1700</value>
+    <value>0159</value>
    </elementValue>
   </weatherElement>
   <parameter>
@@ -3835,7 +3653,7 @@
   <locationName>中壢</locationName>
   <stationId>C0C520</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -3846,31 +3664,31 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>25.0</value>
+    <value>78.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>1.5</value>
+    <value>2.8</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>29.0</value>
+    <value>22.6</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>HUMD</elementName>
    <elementValue>
-    <value>0.69</value>
+    <value>0.75</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>997.2</value>
+    <value>1001.4</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -3888,19 +3706,19 @@
   <weatherElement>
    <elementName>WS15M</elementName>
    <elementValue>
-    <value>2.9</value>
+    <value>6.1</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WD15M</elementName>
    <elementValue>
-    <value>38</value>
+    <value>73</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15T</elementName>
    <elementValue>
-    <value>1654</value>
+    <value>0156</value>
    </elementValue>
   </weatherElement>
   <parameter>
@@ -3926,7 +3744,7 @@
   <locationName>香山</locationName>
   <stationId>C0D570</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -3937,31 +3755,31 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>2.0</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>1.3</value>
+    <value>0.1</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>29.6</value>
+    <value>19.5</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>HUMD</elementName>
    <elementValue>
-    <value>0.73</value>
+    <value>0.96</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>1009.8</value>
+    <value>1014.2</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -3979,19 +3797,19 @@
   <weatherElement>
    <elementName>WS15M</elementName>
    <elementValue>
-    <value>2.9</value>
+    <value>1.3</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WD15M</elementName>
    <elementValue>
-    <value>336</value>
+    <value>177</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15T</elementName>
    <elementValue>
-    <value>1653</value>
+    <value>0200</value>
    </elementValue>
   </weatherElement>
   <parameter>
@@ -4017,7 +3835,7 @@
   <locationName>大溪</locationName>
   <stationId>C0C630</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -4028,31 +3846,31 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>85.0</value>
+    <value>57.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>1.0</value>
+    <value>2.6</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>26.9</value>
+    <value>21.5</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>HUMD</elementName>
    <elementValue>
-    <value>0.80</value>
+    <value>0.74</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>988.5</value>
+    <value>992.5</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -4064,25 +3882,25 @@
   <weatherElement>
    <elementName>H_24R</elementName>
    <elementValue>
-    <value>0.5</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15M</elementName>
    <elementValue>
-    <value>2.1</value>
+    <value>6.4</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WD15M</elementName>
    <elementValue>
-    <value>87</value>
+    <value>40</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15T</elementName>
    <elementValue>
-    <value>1651</value>
+    <value>0200</value>
    </elementValue>
   </weatherElement>
   <parameter>
@@ -4108,7 +3926,7 @@
   <locationName>桃園</locationName>
   <stationId>C0C480</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -4119,31 +3937,31 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>306.0</value>
+    <value>277.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>0.7</value>
+    <value>1.4</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>28.6</value>
+    <value>23.2</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>HUMD</elementName>
    <elementValue>
-    <value>0.80</value>
+    <value>0.74</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>1000.6</value>
+    <value>1005.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -4155,25 +3973,25 @@
   <weatherElement>
    <elementName>H_24R</elementName>
    <elementValue>
-    <value>0.5</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15M</elementName>
    <elementValue>
-    <value>2.7</value>
+    <value>5.9</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WD15M</elementName>
    <elementValue>
-    <value>296</value>
+    <value>307</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15T</elementName>
    <elementValue>
-    <value>1652</value>
+    <value>0156</value>
    </elementValue>
   </weatherElement>
   <parameter>
@@ -4199,7 +4017,7 @@
   <locationName>關西</locationName>
   <stationId>C0D390</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -4216,25 +4034,25 @@
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>0.0</value>
+    <value>0.1</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>25.3</value>
+    <value>19.6</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>HUMD</elementName>
    <elementValue>
-    <value>1.00</value>
+    <value>0.90</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>994.4</value>
+    <value>998.2</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -4246,25 +4064,25 @@
   <weatherElement>
    <elementName>H_24R</elementName>
    <elementValue>
-    <value>35.5</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15M</elementName>
    <elementValue>
-    <value>0.0</value>
+    <value>1.3</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WD15M</elementName>
    <elementValue>
-    <value>0</value>
+    <value>150</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15T</elementName>
    <elementValue>
-    <value>1653</value>
+    <value>0155</value>
    </elementValue>
   </weatherElement>
   <parameter>
@@ -4290,7 +4108,7 @@
   <locationName>竹東</locationName>
   <stationId>C0D560</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -4301,31 +4119,31 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>110.0</value>
+    <value>79.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>1.5</value>
+    <value>1.3</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>26.8</value>
+    <value>20.3</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>HUMD</elementName>
    <elementValue>
-    <value>0.79</value>
+    <value>0.81</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>996.2</value>
+    <value>1000.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -4343,19 +4161,19 @@
   <weatherElement>
    <elementName>WS15M</elementName>
    <elementValue>
-    <value>3.1</value>
+    <value>3.8</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WD15M</elementName>
    <elementValue>
-    <value>111</value>
+    <value>75</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15T</elementName>
    <elementValue>
-    <value>1658</value>
+    <value>0151</value>
    </elementValue>
   </weatherElement>
   <parameter>
@@ -4381,7 +4199,7 @@
   <locationName>橫山</locationName>
   <stationId>C0F990</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -4392,31 +4210,31 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>8.0</value>
+    <value>290.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>0.8</value>
+    <value>0.9</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>30.3</value>
+    <value>20.4</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>HUMD</elementName>
    <elementValue>
-    <value>0.74</value>
+    <value>0.93</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>983.8</value>
+    <value>986.7</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -4428,25 +4246,25 @@
   <weatherElement>
    <elementName>H_24R</elementName>
    <elementValue>
-    <value>0.5</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15M</elementName>
    <elementValue>
-    <value>2.2</value>
+    <value>1.9</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WD15M</elementName>
    <elementValue>
-    <value>328</value>
+    <value>281</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15T</elementName>
    <elementValue>
-    <value>1658</value>
+    <value>0147</value>
    </elementValue>
   </weatherElement>
   <parameter>
@@ -4472,7 +4290,7 @@
   <locationName>東港</locationName>
   <stationId>C0R430</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -4483,31 +4301,31 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>245.0</value>
+    <value>42.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>2.0</value>
+    <value>1.6</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>29.1</value>
+    <value>23.3</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>HUMD</elementName>
    <elementValue>
-    <value>0.79</value>
+    <value>0.77</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>1007.5</value>
+    <value>1011.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -4525,19 +4343,19 @@
   <weatherElement>
    <elementName>WS15M</elementName>
    <elementValue>
-    <value>3.4</value>
+    <value>3.2</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WD15M</elementName>
    <elementValue>
-    <value>252</value>
+    <value>54</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15T</elementName>
    <elementValue>
-    <value>1654</value>
+    <value>0156</value>
    </elementValue>
   </weatherElement>
   <parameter>
@@ -4563,7 +4381,7 @@
   <locationName>三芝</locationName>
   <stationId>C0AD00</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -4574,31 +4392,31 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>84.0</value>
+    <value>86.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>1.7</value>
+    <value>1.9</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>27.8</value>
+    <value>23.6</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>HUMD</elementName>
    <elementValue>
-    <value>0.83</value>
+    <value>0.69</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>1002.7</value>
+    <value>1007.6</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -4616,19 +4434,19 @@
   <weatherElement>
    <elementName>WS15M</elementName>
    <elementValue>
-    <value>7.1</value>
+    <value>6.9</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WD15M</elementName>
    <elementValue>
-    <value>92</value>
+    <value>67</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15T</elementName>
    <elementValue>
-    <value>1646</value>
+    <value>0151</value>
    </elementValue>
   </weatherElement>
   <parameter>
@@ -4654,7 +4472,7 @@
   <locationName>新興</locationName>
   <stationId>C0V490</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -4665,31 +4483,31 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>232.0</value>
+    <value>129.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>1.8</value>
+    <value>0.6</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>29.8</value>
+    <value>24.3</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>HUMD</elementName>
    <elementValue>
-    <value>0.71</value>
+    <value>0.68</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>1008.7</value>
+    <value>1012.5</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -4707,19 +4525,19 @@
   <weatherElement>
    <elementName>WS15M</elementName>
    <elementValue>
-    <value>3.7</value>
+    <value>1.2</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WD15M</elementName>
    <elementValue>
-    <value>229</value>
+    <value>130</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15T</elementName>
    <elementValue>
-    <value>1657</value>
+    <value>0151</value>
    </elementValue>
   </weatherElement>
   <parameter>
@@ -4745,7 +4563,7 @@
   <locationName>大甲</locationName>
   <stationId>C0F930</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -4756,31 +4574,31 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>346.0</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>0.7</value>
+    <value>0.2</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>28.8</value>
+    <value>19.4</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>HUMD</elementName>
    <elementValue>
-    <value>0.92</value>
+    <value>1.00</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>999.5</value>
+    <value>1003.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -4798,19 +4616,19 @@
   <weatherElement>
    <elementName>WS15M</elementName>
    <elementValue>
-    <value>2.9</value>
+    <value>1.1</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WD15M</elementName>
    <elementValue>
-    <value>331</value>
+    <value>114</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15T</elementName>
    <elementValue>
-    <value>1700</value>
+    <value>0200</value>
    </elementValue>
   </weatherElement>
   <parameter>
@@ -4836,7 +4654,7 @@
   <locationName>東勢</locationName>
   <stationId>C0F850</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -4847,31 +4665,31 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>9.0</value>
+    <value>127.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>0.7</value>
+    <value>0.3</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>27.5</value>
+    <value>20.1</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>HUMD</elementName>
    <elementValue>
-    <value>0.82</value>
+    <value>0.94</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>968.5</value>
+    <value>972.3</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -4883,25 +4701,25 @@
   <weatherElement>
    <elementName>H_24R</elementName>
    <elementValue>
-    <value>1.0</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15M</elementName>
    <elementValue>
-    <value>2.5</value>
+    <value>1.1</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WD15M</elementName>
    <elementValue>
-    <value>1</value>
+    <value>124</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15T</elementName>
    <elementValue>
-    <value>1647</value>
+    <value>0150</value>
    </elementValue>
   </weatherElement>
   <parameter>
@@ -4927,7 +4745,7 @@
   <locationName>草屯</locationName>
   <stationId>C0H960</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -4938,31 +4756,31 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>93.0</value>
+    <value>166.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>0.8</value>
+    <value>1.7</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>30.5</value>
+    <value>22.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>HUMD</elementName>
    <elementValue>
-    <value>0.68</value>
+    <value>0.77</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>995.2</value>
+    <value>998.8</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -4974,7 +4792,7 @@
   <weatherElement>
    <elementName>H_24R</elementName>
    <elementValue>
-    <value>0.5</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -5018,7 +4836,7 @@
   <locationName>溪湖</locationName>
   <stationId>C0G660</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -5029,31 +4847,31 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>351.0</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>0.7</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>28.7</value>
+    <value>20.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>HUMD</elementName>
    <elementValue>
-    <value>0.79</value>
+    <value>0.91</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>1008.7</value>
+    <value>1012.1</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -5071,19 +4889,19 @@
   <weatherElement>
    <elementName>WS15M</elementName>
    <elementValue>
-    <value>3.9</value>
+    <value>0.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WD15M</elementName>
    <elementValue>
-    <value>349</value>
+    <value>0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15T</elementName>
    <elementValue>
-    <value>1647</value>
+    <value>0153</value>
    </elementValue>
   </weatherElement>
   <parameter>
@@ -5109,7 +4927,7 @@
   <locationName>苑裡</locationName>
   <stationId>C0E830</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -5120,31 +4938,31 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>349.0</value>
+    <value>93.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>2.8</value>
+    <value>0.8</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>29.5</value>
+    <value>21.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>HUMD</elementName>
    <elementValue>
-    <value>0.74</value>
+    <value>0.83</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>1006.5</value>
+    <value>1010.9</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -5162,19 +4980,19 @@
   <weatherElement>
    <elementName>WS15M</elementName>
    <elementValue>
-    <value>5.6</value>
+    <value>1.7</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WD15M</elementName>
    <elementValue>
-    <value>102</value>
+    <value>68</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15T</elementName>
    <elementValue>
-    <value>1652</value>
+    <value>0146</value>
    </elementValue>
   </weatherElement>
   <parameter>
@@ -5200,7 +5018,7 @@
   <locationName>苗栗</locationName>
   <stationId>C0E750</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
@@ -5211,31 +5029,31 @@
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>27.0</value>
+    <value>132.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>2.5</value>
+    <value>0.6</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>29.0</value>
+    <value>20.5</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>HUMD</elementName>
    <elementValue>
-    <value>0.70</value>
+    <value>0.87</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>1003.6</value>
+    <value>1007.3</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -5253,19 +5071,19 @@
   <weatherElement>
    <elementName>WS15M</elementName>
    <elementValue>
-    <value>5.3</value>
+    <value>1.5</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WD15M</elementName>
    <elementValue>
-    <value>14</value>
+    <value>116</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WS15T</elementName>
    <elementValue>
-    <value>1658</value>
+    <value>0156</value>
    </elementValue>
   </weatherElement>
   <parameter>
@@ -5286,47 +5104,47 @@
   </parameter>
  </location>
  <location>
-  <lat>24.2563</lat>
-  <lon>120.7123</lon>
-  <locationName>豐原</locationName>
-  <stationId>C0F9M0</stationId>
+  <lat>23.8587</lat>
+  <lon>120.5804</lon>
+  <locationName>田中</locationName>
+  <stationId>C0G850</stationId>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
   <weatherElement>
    <elementName>ELEV</elementName>
    <elementValue>
-    <value>230.0</value>
+    <value>62.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDIR</elementName>
    <elementValue>
-    <value>2.0</value>
+    <value>118.0</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>WDSD</elementName>
    <elementValue>
-    <value>1.5</value>
+    <value>0.5</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>TEMP</elementName>
    <elementValue>
-    <value>28.7</value>
+    <value>21.8</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>HUMD</elementName>
    <elementValue>
-    <value>0.73</value>
+    <value>0.87</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
    <elementName>PRES</elementName>
    <elementValue>
-    <value>984.6</value>
+    <value>1007.4</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -5344,7 +5162,98 @@
   <weatherElement>
    <elementName>WS15M</elementName>
    <elementValue>
-    <value>3.1</value>
+    <value>1.1</value>
+   </elementValue>
+  </weatherElement>
+  <weatherElement>
+   <elementName>WD15M</elementName>
+   <elementValue>
+    <value>109</value>
+   </elementValue>
+  </weatherElement>
+  <weatherElement>
+   <elementName>WS15T</elementName>
+   <elementValue>
+    <value>0152</value>
+   </elementValue>
+  </weatherElement>
+  <parameter>
+   <parameterName>CITY</parameterName>
+   <parameterValue>彰化縣</parameterValue>
+  </parameter>
+  <parameter>
+   <parameterName>CITY_SN</parameterName>
+   <parameterValue>14</parameterValue>
+  </parameter>
+  <parameter>
+   <parameterName>TOWN</parameterName>
+   <parameterValue>田中鎮</parameterValue>
+  </parameter>
+  <parameter>
+   <parameterName>TOWN_SN</parameterName>
+   <parameterValue>170</parameterValue>
+  </parameter>
+ </location>
+ <location>
+  <lat>24.2563</lat>
+  <lon>120.7123</lon>
+  <locationName>豐原</locationName>
+  <stationId>C0F9M0</stationId>
+  <time>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
+  </time>
+  <weatherElement>
+   <elementName>ELEV</elementName>
+   <elementValue>
+    <value>230.0</value>
+   </elementValue>
+  </weatherElement>
+  <weatherElement>
+   <elementName>WDIR</elementName>
+   <elementValue>
+    <value>45.0</value>
+   </elementValue>
+  </weatherElement>
+  <weatherElement>
+   <elementName>WDSD</elementName>
+   <elementValue>
+    <value>0.8</value>
+   </elementValue>
+  </weatherElement>
+  <weatherElement>
+   <elementName>TEMP</elementName>
+   <elementValue>
+    <value>21.5</value>
+   </elementValue>
+  </weatherElement>
+  <weatherElement>
+   <elementName>HUMD</elementName>
+   <elementValue>
+    <value>0.82</value>
+   </elementValue>
+  </weatherElement>
+  <weatherElement>
+   <elementName>PRES</elementName>
+   <elementValue>
+    <value>987.9</value>
+   </elementValue>
+  </weatherElement>
+  <weatherElement>
+   <elementName>SUN</elementName>
+   <elementValue>
+    <value>-99.0</value>
+   </elementValue>
+  </weatherElement>
+  <weatherElement>
+   <elementName>H_24R</elementName>
+   <elementValue>
+    <value>0.0</value>
+   </elementValue>
+  </weatherElement>
+  <weatherElement>
+   <elementName>WS15M</elementName>
+   <elementValue>
+    <value>1.5</value>
    </elementValue>
   </weatherElement>
   <weatherElement>
@@ -5356,7 +5265,7 @@
   <weatherElement>
    <elementName>WS15T</elementName>
    <elementValue>
-    <value>1650</value>
+    <value>0152</value>
    </elementValue>
   </weatherElement>
   <parameter>

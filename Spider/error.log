@@ -23,3 +23,10 @@ Error: Cannot find module 'crawler'
     at Module.load (module.js:356:32)
     at Function.Module._load (module.js:312:12)
     at Function.Module.runMain (module.js:497:10)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: read ECONNRESET
+    at errnoException (net.js:904:11)
+    at TCP.onread (net.js:558:19)

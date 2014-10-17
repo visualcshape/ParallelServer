@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fifowml version="1.0">
     <head>
-        <updated>2014-09-25T15:20:45+08:00</updated>
+        <updated>2014-10-17T21:28:23+08:00</updated>
         <sender>cwb.gov.tw</sender>
     </head>
     
@@ -10,77 +10,35 @@
             <title lang="zh-TW">大雨特報</title>
             <title lang="en">Heavy Rain Advisory</title>
             <status>new</status>
-            <issue-time>2014-09-25T15:10:00+08:00</issue-time>
-            <valid-time start="2014-09-25T15:12:00+08:00" end="2014-09-25T21:00:00+08:00" />
+            <issue-time>2014-10-17T21:20:00+08:00</issue-time>
+            <valid-time start="2014-10-17T21:22:00+08:00" end="2014-10-18T11:00:00+08:00" />
         </bulletin-information>
         <content>
             <text lang="zh-TW">
-            對流雲系發展旺盛影響，今（２５）日東北部地區、北部、中南部及東部山區有局部大雨發生的機率，請注意瞬間大雨、雷擊、強陣風及溪水暴漲。
+            對流雲系發展旺盛，今（１７）日晚間至明（１８）日宜蘭及花蓮地區有局部大雨發生的機率，請注意。
             </text>
             <text lang="en">
-            1. Keelung North Coast-New Taipei City Mountain Area-
-Taoyuan County Mountain Area-
-Hsinchu County Mountain Area-
-Miaoli County Mountain Area-
-Taichung City Mountain Area-
-Nantou County Mountain Area-
-Yunlin County Mountain Area-
-Chiayi County Mountain Area-Tainan City Mountain Area-
-Kaohsiung City Mountain Area-
-Pingtung County Mountain Area-Yilan County-
-Hualien County Mountain Area-
+            1. Yilan County-Hualien County-
 
-...Heavy Rain Advisory in effect from late this
- afternoon (09/25) through this evening (09/25)...
+...Heavy Rain Advisory in effect from tonight (10/17)
+ through Saturday morning (10/18)...
 
 
 
 
 ------ Summary of Warning Areas ------
 [Heavy Rain Advisory areas]
-Keelung North Coast-New Taipei City Mountain Area-
-Taoyuan County Mountain Area-
-Hsinchu County Mountain Area-
-Miaoli County Mountain Area-
-Taichung City Mountain Area-
-Nantou County Mountain Area-
-Yunlin County Mountain Area-
-Chiayi County Mountain Area-Tainan City Mountain Area-
-Kaohsiung City Mountain Area-
-Pingtung County Mountain Area-Yilan County-
-Hualien County Mountain Area-
+Yilan County-Hualien County-
 
 
 
 ---- Observed Cumulative Rainfall ----
 
 * Stations with 24H accumulated rainfall above 50mm
-  2014/09/24 15:00 PM ~ 2014/09/25 15:00 PM
+  2014/10/16 21:10 PM ~ 2014/10/17 21:10 PM
     
-     -Extremely Heavy Rain (130mm):
-      Yunlin County Gukeng Township: 189.0 mm
-    
-     -Heavy Rain (50mm):
-      Hsinchu County Jianshi Township: 129.0 mm, 
-      Taichung City Taiping District: 103.0 mm, 
-      Taitung County Taimali Township: 102.0 mm, 
-      Chiayi County Zhuqi Township: 100.0 mm, 
-      New Taipei City Xindian District: 87.0 mm, 
-      Taoyuan County Fuxing Township: 86.0 mm, 
-      Yunlin County Linnei Township: 85.0 mm, 
-      New Taipei City Sanxia District: 84.0 mm, 
-      Taichung City Xinshe District: 82.5 mm, 
-      Kaohsiung City Namaxia District: 82.0 mm, 
-      Nantou County Zhongliao Township: 80.5 mm, 
-      Nantou County Guoxing Township: 70.0 mm, 
-      New Taipei City Wulai District: 69.5 mm, 
-      Chiayi County Fanlu Township: 65.5 mm, 
-      Hualien County Wanrong Township: 63.5 mm, 
-      Yilan County Datong Township: 61.0 mm, 
-      Nantou County Zhushan Township: 60.5 mm, 
-      Nantou County Ren'ai Township: 59.0 mm, 
-      Yilan County Yuanshan Township: 55.5 mm, 
-      Nantou County Caotun Township: 51.5 mm
+    There is no station with accumulated rainfall above
+     50mm observed.
             </text>
         </content>
         <hazard-conditions>
@@ -93,86 +51,14 @@ Hualien County Mountain Area-
                 <affected-areas>
     
                     <location type="area">
-                        <name lang="zh-TW">基隆北海岸</name>
-                        <name lang="en">Keelung North Coast</name>
-                        
-                    </location>
-    
-                    <location type="area">
-                        <name lang="zh-TW">新北市山區</name>
-                        <name lang="en">New Taipei City Mountain Area</name>
-                        
-                    </location>
-    
-                    <location type="area">
-                        <name lang="zh-TW">桃園縣山區</name>
-                        <name lang="en">Taoyuan County Mountain Area</name>
-                        
-                    </location>
-    
-                    <location type="area">
-                        <name lang="zh-TW">新竹縣山區</name>
-                        <name lang="en">Hsinchu County Mountain Area</name>
-                        
-                    </location>
-    
-                    <location type="area">
-                        <name lang="zh-TW">苗栗縣山區</name>
-                        <name lang="en">Miaoli County Mountain Area</name>
-                        
-                    </location>
-    
-                    <location type="area">
-                        <name lang="zh-TW">臺中市山區</name>
-                        <name lang="en">Taichung City Mountain Area</name>
-                        
-                    </location>
-    
-                    <location type="area">
-                        <name lang="zh-TW">南投縣山區</name>
-                        <name lang="en">Nantou County Mountain Area</name>
-                        
-                    </location>
-    
-                    <location type="area">
-                        <name lang="zh-TW">雲林縣山區</name>
-                        <name lang="en">Yunlin County Mountain Area</name>
-                        
-                    </location>
-    
-                    <location type="area">
-                        <name lang="zh-TW">嘉義縣山區</name>
-                        <name lang="en">Chiayi County Mountain Area</name>
-                        
-                    </location>
-    
-                    <location type="area">
-                        <name lang="zh-TW">臺南市山區</name>
-                        <name lang="en">Tainan City Mountain Area</name>
-                        
-                    </location>
-    
-                    <location type="area">
-                        <name lang="zh-TW">高雄市山區</name>
-                        <name lang="en">Kaohsiung City Mountain Area</name>
-                        
-                    </location>
-    
-                    <location type="area">
-                        <name lang="zh-TW">屏東縣山區</name>
-                        <name lang="en">Pingtung County Mountain Area</name>
-                        
-                    </location>
-    
-                    <location type="area">
                         <name lang="zh-TW">宜蘭縣</name>
                         <name lang="en">Yilan County</name>
                         
                     </location>
     
                     <location type="area">
-                        <name lang="zh-TW">花蓮縣山區</name>
-                        <name lang="en">Hualien County Mountain Area</name>
+                        <name lang="zh-TW">花蓮縣</name>
+                        <name lang="en">Hualien County</name>
                         
                     </location>
     

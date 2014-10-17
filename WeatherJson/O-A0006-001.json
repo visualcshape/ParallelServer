@@ -4,13 +4,13 @@
             "xmlns": "urn:cwb:gov:tw:cwbcommon:0.1"
         },
         "identifier": [
-            "ce20cd8e-2df6-47bc-89f7-63f1601d056a"
+            "bb5cb15e-46ec-4717-8008-50600099e5db"
         ],
         "sender": [
             "weather@cwb.gov.tw"
         ],
         "sent": [
-            "2014-09-05T01:25:21+08:00"
+            "2014-10-08T09:09:38+08:00"
         ],
         "status": [
             "Actual"
@@ -3273,6 +3273,42 @@
                                             {
                                                 "value": [
                                                     "284"
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "dataTime": [
+                                            "2014-07"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "273"
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "dataTime": [
+                                            "2014-08"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "270"
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "dataTime": [
+                                            "2014-09"
+                                        ],
+                                        "elementValue": [
+                                            {
+                                                "value": [
+                                                    "271"
                                                 ]
                                             }
                                         ]

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
- <identifier>2e733b5f-125f-4a9f-ab52-34aa222b2f27</identifier>
+ <identifier>5af3e413-f4bc-49ca-93fa-9b8f5574b5c3</identifier>
  <sender>weather@cwb.gov.tw</sender>
- <sent>2014-09-25T14:30:01+08:00</sent>
+ <sent>2014-10-17T14:30:02+08:00</sent>
  <status>Actual</status>
  <msgType>Issue</msgType>
  <dataid>CWB_A0005</dataid>
@@ -10,87 +10,87 @@
   <weatherElement>
    <elementName>氣象站每日紫外線指數最大值</elementName>
    <time>
-    <dataTime>2014/09/25</dataTime>
+    <dataTime>2014/10/17</dataTime>
    </time>
    <location>
     <locationCode>467440</locationCode>
-    <value>7.3815</value>
+    <value>6.4688</value>
    </location>
    <location>
     <locationCode>467550</locationCode>
-    <value>8.4899</value>
+    <value>10.8900</value>
    </location>
    <location>
     <locationCode>467570</locationCode>
-    <value>6.5338</value>
+    <value>6.6976</value>
    </location>
    <location>
     <locationCode>467080</locationCode>
-    <value>8.9309</value>
+    <value>6.0800</value>
    </location>
    <location>
     <locationCode>466990</locationCode>
-    <value>9.5364</value>
+    <value>7.1659</value>
    </location>
    <location>
     <locationCode>467050</locationCode>
-    <value>8.6426</value>
+    <value>7.6700</value>
    </location>
    <location>
     <locationCode>467990</locationCode>
-    <value>3.0606</value>
+    <value>5.1497</value>
    </location>
    <location>
     <locationCode>467610</locationCode>
-    <value>8.5763</value>
+    <value>7.2477</value>
    </location>
    <location>
     <locationCode>466920</locationCode>
-    <value>8.1793</value>
+    <value>3.9675</value>
    </location>
    <location>
     <locationCode>467650</locationCode>
-    <value>6.3552</value>
+    <value>6.2856</value>
    </location>
    <location>
     <locationCode>467350</locationCode>
-    <value>8.0528</value>
+    <value>5.9981</value>
    </location>
    <location>
     <locationCode>467410</locationCode>
-    <value>7.6791</value>
+    <value>5.7669</value>
    </location>
    <location>
     <locationCode>467110</locationCode>
-    <value>6.9142</value>
+    <value>5.9395</value>
    </location>
    <location>
     <locationCode>466910</locationCode>
-    <value>3.8931</value>
+    <value>1.2000</value>
    </location>
    <location>
     <locationCode>467620</locationCode>
-    <value>10.8620</value>
+    <value>7.6666</value>
    </location>
    <location>
     <locationCode>467660</locationCode>
-    <value>9.9045</value>
+    <value>7.9058</value>
    </location>
    <location>
     <locationCode>467590</locationCode>
-    <value>8.3355</value>
+    <value>7.0984</value>
    </location>
    <location>
     <locationCode>466940</locationCode>
-    <value>8.9274</value>
+    <value>3.1252</value>
    </location>
    <location>
     <locationCode>467490</locationCode>
-    <value>6.2103</value>
+    <value>5.3889</value>
    </location>
    <location>
     <locationCode>467480</locationCode>
-    <value>9.7449</value>
+    <value>6.1798</value>
    </location>
   </weatherElement>
  </dataset>

@@ -6,7 +6,7 @@
         "head": [
             {
                 "updated": [
-                    "2014-09-25T15:20:45+08:00"
+                    "2014-10-17T21:28:23+08:00"
                 ],
                 "sender": [
                     "cwb.gov.tw"
@@ -38,13 +38,13 @@
                             "new"
                         ],
                         "issue-time": [
-                            "2014-09-25T15:10:00+08:00"
+                            "2014-10-17T21:20:00+08:00"
                         ],
                         "valid-time": [
                             {
                                 "$": {
-                                    "start": "2014-09-25T15:12:00+08:00",
-                                    "end": "2014-09-25T21:00:00+08:00"
+                                    "start": "2014-10-17T21:22:00+08:00",
+                                    "end": "2014-10-18T11:00:00+08:00"
                                 }
                             }
                         ]
@@ -54,13 +54,13 @@
                     {
                         "text": [
                             {
-                                "_": "\n            對流雲系發展旺盛影響，今（２５）日東北部地區、北部、中南部及東部山區有局部大雨發生的機率，請注意瞬間大雨、雷擊、強陣風及溪水暴漲。\n            ",
+                                "_": "\n            對流雲系發展旺盛，今（１７）日晚間至明（１８）日宜蘭及花蓮地區有局部大雨發生的機率，請注意。\n            ",
                                 "$": {
                                     "lang": "zh-TW"
                                 }
                             },
                             {
-                                "_": "\n            1. Keelung North Coast-New Taipei City Mountain Area-\nTaoyuan County Mountain Area-\nHsinchu County Mountain Area-\nMiaoli County Mountain Area-\nTaichung City Mountain Area-\nNantou County Mountain Area-\nYunlin County Mountain Area-\nChiayi County Mountain Area-Tainan City Mountain Area-\nKaohsiung City Mountain Area-\nPingtung County Mountain Area-Yilan County-\nHualien County Mountain Area-\n\n...Heavy Rain Advisory in effect from late this\n afternoon (09/25) through this evening (09/25)...\n\n\n\n\n------ Summary of Warning Areas ------\n[Heavy Rain Advisory areas]\nKeelung North Coast-New Taipei City Mountain Area-\nTaoyuan County Mountain Area-\nHsinchu County Mountain Area-\nMiaoli County Mountain Area-\nTaichung City Mountain Area-\nNantou County Mountain Area-\nYunlin County Mountain Area-\nChiayi County Mountain Area-Tainan City Mountain Area-\nKaohsiung City Mountain Area-\nPingtung County Mountain Area-Yilan County-\nHualien County Mountain Area-\n\n\n\n---- Observed Cumulative Rainfall ----\n\n* Stations with 24H accumulated rainfall above 50mm\n  2014/09/24 15:00 PM ~ 2014/09/25 15:00 PM\n    \n     -Extremely Heavy Rain (130mm):\n      Yunlin County Gukeng Township: 189.0 mm\n    \n     -Heavy Rain (50mm):\n      Hsinchu County Jianshi Township: 129.0 mm, \n      Taichung City Taiping District: 103.0 mm, \n      Taitung County Taimali Township: 102.0 mm, \n      Chiayi County Zhuqi Township: 100.0 mm, \n      New Taipei City Xindian District: 87.0 mm, \n      Taoyuan County Fuxing Township: 86.0 mm, \n      Yunlin County Linnei Township: 85.0 mm, \n      New Taipei City Sanxia District: 84.0 mm, \n      Taichung City Xinshe District: 82.5 mm, \n      Kaohsiung City Namaxia District: 82.0 mm, \n      Nantou County Zhongliao Township: 80.5 mm, \n      Nantou County Guoxing Township: 70.0 mm, \n      New Taipei City Wulai District: 69.5 mm, \n      Chiayi County Fanlu Township: 65.5 mm, \n      Hualien County Wanrong Township: 63.5 mm, \n      Yilan County Datong Township: 61.0 mm, \n      Nantou County Zhushan Township: 60.5 mm, \n      Nantou County Ren'ai Township: 59.0 mm, \n      Yilan County Yuanshan Township: 55.5 mm, \n      Nantou County Caotun Township: 51.5 mm\n            ",
+                                "_": "\n            1. Yilan County-Hualien County-\n\n...Heavy Rain Advisory in effect from tonight (10/17)\n through Saturday morning (10/18)...\n\n\n\n\n------ Summary of Warning Areas ------\n[Heavy Rain Advisory areas]\nYilan County-Hualien County-\n\n\n\n---- Observed Cumulative Rainfall ----\n\n* Stations with 24H accumulated rainfall above 50mm\n  2014/10/16 21:10 PM ~ 2014/10/17 21:10 PM\n    \n    There is no station with accumulated rainfall above\n     50mm observed.\n            ",
                                 "$": {
                                     "lang": "en"
                                 }
@@ -109,234 +109,6 @@
                                                 },
                                                 "name": [
                                                     {
-                                                        "_": "基隆北海岸",
-                                                        "$": {
-                                                            "lang": "zh-TW"
-                                                        }
-                                                    },
-                                                    {
-                                                        "_": "Keelung North Coast",
-                                                        "$": {
-                                                            "lang": "en"
-                                                        }
-                                                    }
-                                                ]
-                                            },
-                                            {
-                                                "$": {
-                                                    "type": "area"
-                                                },
-                                                "name": [
-                                                    {
-                                                        "_": "新北市山區",
-                                                        "$": {
-                                                            "lang": "zh-TW"
-                                                        }
-                                                    },
-                                                    {
-                                                        "_": "New Taipei City Mountain Area",
-                                                        "$": {
-                                                            "lang": "en"
-                                                        }
-                                                    }
-                                                ]
-                                            },
-                                            {
-                                                "$": {
-                                                    "type": "area"
-                                                },
-                                                "name": [
-                                                    {
-                                                        "_": "桃園縣山區",
-                                                        "$": {
-                                                            "lang": "zh-TW"
-                                                        }
-                                                    },
-                                                    {
-                                                        "_": "Taoyuan County Mountain Area",
-                                                        "$": {
-                                                            "lang": "en"
-                                                        }
-                                                    }
-                                                ]
-                                            },
-                                            {
-                                                "$": {
-                                                    "type": "area"
-                                                },
-                                                "name": [
-                                                    {
-                                                        "_": "新竹縣山區",
-                                                        "$": {
-                                                            "lang": "zh-TW"
-                                                        }
-                                                    },
-                                                    {
-                                                        "_": "Hsinchu County Mountain Area",
-                                                        "$": {
-                                                            "lang": "en"
-                                                        }
-                                                    }
-                                                ]
-                                            },
-                                            {
-                                                "$": {
-                                                    "type": "area"
-                                                },
-                                                "name": [
-                                                    {
-                                                        "_": "苗栗縣山區",
-                                                        "$": {
-                                                            "lang": "zh-TW"
-                                                        }
-                                                    },
-                                                    {
-                                                        "_": "Miaoli County Mountain Area",
-                                                        "$": {
-                                                            "lang": "en"
-                                                        }
-                                                    }
-                                                ]
-                                            },
-                                            {
-                                                "$": {
-                                                    "type": "area"
-                                                },
-                                                "name": [
-                                                    {
-                                                        "_": "臺中市山區",
-                                                        "$": {
-                                                            "lang": "zh-TW"
-                                                        }
-                                                    },
-                                                    {
-                                                        "_": "Taichung City Mountain Area",
-                                                        "$": {
-                                                            "lang": "en"
-                                                        }
-                                                    }
-                                                ]
-                                            },
-                                            {
-                                                "$": {
-                                                    "type": "area"
-                                                },
-                                                "name": [
-                                                    {
-                                                        "_": "南投縣山區",
-                                                        "$": {
-                                                            "lang": "zh-TW"
-                                                        }
-                                                    },
-                                                    {
-                                                        "_": "Nantou County Mountain Area",
-                                                        "$": {
-                                                            "lang": "en"
-                                                        }
-                                                    }
-                                                ]
-                                            },
-                                            {
-                                                "$": {
-                                                    "type": "area"
-                                                },
-                                                "name": [
-                                                    {
-                                                        "_": "雲林縣山區",
-                                                        "$": {
-                                                            "lang": "zh-TW"
-                                                        }
-                                                    },
-                                                    {
-                                                        "_": "Yunlin County Mountain Area",
-                                                        "$": {
-                                                            "lang": "en"
-                                                        }
-                                                    }
-                                                ]
-                                            },
-                                            {
-                                                "$": {
-                                                    "type": "area"
-                                                },
-                                                "name": [
-                                                    {
-                                                        "_": "嘉義縣山區",
-                                                        "$": {
-                                                            "lang": "zh-TW"
-                                                        }
-                                                    },
-                                                    {
-                                                        "_": "Chiayi County Mountain Area",
-                                                        "$": {
-                                                            "lang": "en"
-                                                        }
-                                                    }
-                                                ]
-                                            },
-                                            {
-                                                "$": {
-                                                    "type": "area"
-                                                },
-                                                "name": [
-                                                    {
-                                                        "_": "臺南市山區",
-                                                        "$": {
-                                                            "lang": "zh-TW"
-                                                        }
-                                                    },
-                                                    {
-                                                        "_": "Tainan City Mountain Area",
-                                                        "$": {
-                                                            "lang": "en"
-                                                        }
-                                                    }
-                                                ]
-                                            },
-                                            {
-                                                "$": {
-                                                    "type": "area"
-                                                },
-                                                "name": [
-                                                    {
-                                                        "_": "高雄市山區",
-                                                        "$": {
-                                                            "lang": "zh-TW"
-                                                        }
-                                                    },
-                                                    {
-                                                        "_": "Kaohsiung City Mountain Area",
-                                                        "$": {
-                                                            "lang": "en"
-                                                        }
-                                                    }
-                                                ]
-                                            },
-                                            {
-                                                "$": {
-                                                    "type": "area"
-                                                },
-                                                "name": [
-                                                    {
-                                                        "_": "屏東縣山區",
-                                                        "$": {
-                                                            "lang": "zh-TW"
-                                                        }
-                                                    },
-                                                    {
-                                                        "_": "Pingtung County Mountain Area",
-                                                        "$": {
-                                                            "lang": "en"
-                                                        }
-                                                    }
-                                                ]
-                                            },
-                                            {
-                                                "$": {
-                                                    "type": "area"
-                                                },
-                                                "name": [
-                                                    {
                                                         "_": "宜蘭縣",
                                                         "$": {
                                                             "lang": "zh-TW"
@@ -356,13 +128,13 @@
                                                 },
                                                 "name": [
                                                     {
-                                                        "_": "花蓮縣山區",
+                                                        "_": "花蓮縣",
                                                         "$": {
                                                             "lang": "zh-TW"
                                                         }
                                                     },
                                                     {
-                                                        "_": "Hualien County Mountain Area",
+                                                        "_": "Hualien County",
                                                         "$": {
                                                             "lang": "en"
                                                         }

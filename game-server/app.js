@@ -49,6 +49,13 @@ app.configure('production|development','connector',function()
        });
 });
 
+//parallelspace
+//nothing to do here now
+app.configure('production|development','parallelSpace',function()
+{
+
+});
+
 //DB configure
 app.configure('development|production',function()
 {

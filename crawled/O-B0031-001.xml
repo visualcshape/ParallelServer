@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
- <identifier>7167fa4c-4370-4aab-83b2-495f40dd5ea6</identifier>
+ <identifier>fbfd4891-8fe7-454d-8ff4-8f0b0424b256</identifier>
  <sender>weather@cwb.gov.tw</sender>
- <sent>2014-09-25T16:26:10+08:00</sent>
+ <sent>2014-10-17T19:35:00+08:00</sent>
  <status>Actual</status>
  <msgType>Issue</msgType>
  <scope>Public</scope>
@@ -25,10 +25,10 @@
   <resource>
    <resourceDesc>全球可見光衛星雲圖</resourceDesc>
    <mimeType>image/jpeg</mimeType>
-   <uri>2014-09-25_1630.GSCO.jpg</uri>
+   <uri>http://opendata.cwb.gov.tw/opendata/MSC/O-B0031-001.jpg</uri>
   </resource>
   <time>
-   <obsTime>2014-09-25T16:30:00+08:00</obsTime>
+   <obsTime>2014-10-17T19:30:00+08:00</obsTime>
   </time>
  </dataset>
 </cwbopendata>

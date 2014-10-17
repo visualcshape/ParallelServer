@@ -4,13 +4,13 @@
             "xmlns": "urn:cwb:gov:tw:cwbcommon:0.1"
         },
         "identifier": [
-            "fdb3f7f5-7bbf-5209-ffc4-37716e561782"
+            "958ee152-7f59-815e-dffb-15e1021f5f49"
         ],
         "sender": [
             "weather@cwb.gov.tw"
         ],
         "sent": [
-            "2014-09-25T15:19:48+08:00"
+            "2014-10-17T15:15:25+08:00"
         ],
         "status": [
             "Actual"
@@ -32,7 +32,7 @@
                             "image/jpeg"
                         ],
                         "uri": [
-                            "2014-0925-12000_A012.jpg"
+                            "http://opendata.cwb.gov.tw/opendata/MFC/F-C0035-007.jpg"
                         ]
                     }
                 ]

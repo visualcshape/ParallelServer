@@ -3,7 +3,7 @@
     {
         "gate":
             [
-                {"id":"gate-server-1","host":"127.0.0.1","port":3100,"clientPort":3150,"frontend":true,"args":"--debug=32000"}
+                {"id":"gate-server-1","host":"127.0.0.1","port":3100,"clientPort":30000,"frontend":true,"args":"--debug=32000"}
             ]
         ,
         "auth":
@@ -13,8 +13,19 @@
         ,
         "connector":
             [
-                {"id":"connector-server-1","host":"192.168.2.102","port":3300,"clientPort":3350,"frontend":true,"args":"--debug=32003"}
+                {"id":"connector-server-1","host":"220.133.209.239","port":30100,"clientPort":30001,"frontend":true,"args":"--debug=32003"}
             ]
+        ,
+        "parallelSpace":
+            [
+                {"id":"parallelSpace-server-1","host":"127.0.0.1","port":3400,"args":"--debug=32004"}
+            ]
+        ,
+        "battle":
+            [
+                {"id":"battle-server-1","host":"127.0.0.1","port":3500,"args":"--debug=32005"}
+            ]
+
     },
     "production":
     {

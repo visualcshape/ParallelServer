@@ -4,13 +4,13 @@
             "xmlns": "urn:cwb:gov:tw:cwbcommon:0.1"
         },
         "identifier": [
-            "9d97aeb4-309c-c535-1892-16d7fbed9466"
+            "e09fe168-c408-2bda-277d-9a79c334c27d"
         ],
         "sender": [
             "weather@cwb.gov.tw"
         ],
         "sent": [
-            "2014-09-25T15:19:49+08:00"
+            "2014-10-17T15:15:25+08:00"
         ],
         "status": [
             "Actual"

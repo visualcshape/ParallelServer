@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
- <identifier>ce20cd8e-2df6-47bc-89f7-63f1601d056a</identifier>
+ <identifier>bb5cb15e-46ec-4717-8008-50600099e5db</identifier>
  <sender>weather@cwb.gov.tw</sender>
- <sent>2014-09-05T01:25:21+08:00</sent>
+ <sent>2014-10-08T09:09:38+08:00</sent>
  <status>Actual</status>
  <msgType>Issue</msgType>
  <dataid>CWB_A0006</dataid>
@@ -1629,6 +1629,24 @@
      <dataTime>2014-06</dataTime>
      <elementValue>
       <value>284</value>
+     </elementValue>
+    </time>
+    <time>
+     <dataTime>2014-07</dataTime>
+     <elementValue>
+      <value>273</value>
+     </elementValue>
+    </time>
+    <time>
+     <dataTime>2014-08</dataTime>
+     <elementValue>
+      <value>270</value>
+     </elementValue>
+    </time>
+    <time>
+     <dataTime>2014-09</dataTime>
+     <elementValue>
+      <value>271</value>
      </elementValue>
     </time>
    </weatherElement>

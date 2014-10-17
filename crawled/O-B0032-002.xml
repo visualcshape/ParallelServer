@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
- <identifier>e48b40d6-097a-4db7-a3d3-ee3222b18ec6</identifier>
+ <identifier>09a1f0dc-cf14-4cb8-a62a-e2e7ea1afebb</identifier>
  <sender>weather@cwb.gov.tw</sender>
- <sent>2014-09-25T17:01:12+08:00</sent>
+ <sent>2014-10-18T02:01:20+08:00</sent>
  <status>Actual</status>
  <msgType>Issue</msgType>
  <scope>Public</scope>
@@ -25,10 +25,10 @@
   <resource>
    <resourceDesc>高解析紅外線彩色衛星雲圖</resourceDesc>
    <mimeType>image/jpeg</mimeType>
-   <uri>http://opendata.cwb.gov.tw/opendata/MSC/O-B0032-002.jpg</uri>
+   <uri>2014-10-18_0200.HS1P.jpg</uri>
   </resource>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
  </dataset>
 </cwbopendata>

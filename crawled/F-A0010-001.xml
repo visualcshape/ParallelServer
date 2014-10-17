@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
- <identifier>4c37dd12-7cb1-43c2-81a8-16436d6a145c</identifier>
+ <identifier>af72bbe4-3fa3-4f8d-b901-9c9e91202455</identifier>
  <sender>weather@cwb.gov.tw</sender>
- <sent>2014-09-24T17:32:47+08:00</sent>
+ <sent>2014-10-17T17:09:28+08:00</sent>
  <status>Actual</status>
  <msgType>Issue</msgType>
  <dataid>CWB_A0010</dataid>

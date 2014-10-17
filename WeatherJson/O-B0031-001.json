@@ -4,13 +4,13 @@
             "xmlns": "urn:cwb:gov:tw:cwbcommon:0.1"
         },
         "identifier": [
-            "7167fa4c-4370-4aab-83b2-495f40dd5ea6"
+            "fbfd4891-8fe7-454d-8ff4-8f0b0424b256"
         ],
         "sender": [
             "weather@cwb.gov.tw"
         ],
         "sent": [
-            "2014-09-25T16:26:10+08:00"
+            "2014-10-17T19:35:00+08:00"
         ],
         "status": [
             "Actual"
@@ -67,14 +67,14 @@
                             "image/jpeg"
                         ],
                         "uri": [
-                            "2014-09-25_1630.GSCO.jpg"
+                            "http://opendata.cwb.gov.tw/opendata/MSC/O-B0031-001.jpg"
                         ]
                     }
                 ],
                 "time": [
                     {
                         "obsTime": [
-                            "2014-09-25T16:30:00+08:00"
+                            "2014-10-17T19:30:00+08:00"
                         ]
                     }
                 ]

@@ -10,10 +10,10 @@
    </version>
   </product>
   <issue-time>
-   2014-09-25T11:00+08:00
+   2014-10-17T23:00+08:00
   </issue-time>
   <updated>
-   2014-09-25T11:16+08:00
+   2014-10-17T22:18+08:00
   </updated>
  </head>
  <data category="forecasts">
@@ -36,547 +36,403 @@
      </reference-point>
      <weather-elements>
       <T>
-       <time at="2014-09-25T12:00+08:00">
+       <time at="2014-10-18T00:00+08:00">
         <value units="C">
-         32
+         23
         </value>
        </time>
-       <time at="2014-09-25T15:00+08:00">
+       <time at="2014-10-18T03:00+08:00">
         <value units="C">
-         32
+         22
         </value>
        </time>
-       <time at="2014-09-25T18:00+08:00">
+       <time at="2014-10-18T06:00+08:00">
         <value units="C">
-         29
+         22
         </value>
        </time>
-       <time at="2014-09-25T21:00+08:00">
+       <time at="2014-10-18T09:00+08:00">
+        <value units="C">
+         25
+        </value>
+       </time>
+       <time at="2014-10-18T12:00+08:00">
         <value units="C">
          28
         </value>
        </time>
-       <time at="2014-09-26T00:00+08:00">
-        <value units="C">
-         27
-        </value>
-       </time>
-       <time at="2014-09-26T03:00+08:00">
-        <value units="C">
-         26
-        </value>
-       </time>
-       <time at="2014-09-26T06:00+08:00">
-        <value units="C">
-         25
-        </value>
-       </time>
-       <time at="2014-09-26T09:00+08:00">
-        <value units="C">
-         30
-        </value>
-       </time>
-       <time at="2014-09-26T12:00+08:00">
-        <value units="C">
-         33
-        </value>
-       </time>
-       <time at="2014-09-26T15:00+08:00">
-        <value units="C">
-         33
-        </value>
-       </time>
-       <time at="2014-09-26T18:00+08:00">
-        <value units="C">
-         30
-        </value>
-       </time>
-       <time at="2014-09-26T21:00+08:00">
+       <time at="2014-10-18T15:00+08:00">
         <value units="C">
          28
         </value>
        </time>
-       <time at="2014-09-27T00:00+08:00">
-        <value units="C">
-         27
-        </value>
-       </time>
-       <time at="2014-09-27T03:00+08:00">
-        <value units="C">
-         26
-        </value>
-       </time>
-       <time at="2014-09-27T06:00+08:00">
+       <time at="2014-10-18T18:00+08:00">
         <value units="C">
          25
         </value>
        </time>
-       <time at="2014-09-27T09:00+08:00">
+       <time at="2014-10-18T21:00+08:00">
+        <value units="C">
+         23
+        </value>
+       </time>
+       <time at="2014-10-19T00:00+08:00">
+        <value units="C">
+         22
+        </value>
+       </time>
+       <time at="2014-10-19T03:00+08:00">
+        <value units="C">
+         22
+        </value>
+       </time>
+       <time at="2014-10-19T06:00+08:00">
+        <value units="C">
+         21
+        </value>
+       </time>
+       <time at="2014-10-19T09:00+08:00">
+        <value units="C">
+         26
+        </value>
+       </time>
+       <time at="2014-10-19T12:00+08:00">
         <value units="C">
          30
         </value>
        </time>
-       <time at="2014-09-27T12:00+08:00">
-        <value units="C">
-         34
-        </value>
-       </time>
-       <time at="2014-09-27T15:00+08:00">
-        <value units="C">
-         34
-        </value>
-       </time>
-       <time at="2014-09-27T18:00+08:00">
-        <value units="C">
-         31
-        </value>
-       </time>
-       <time at="2014-09-27T21:00+08:00">
+       <time at="2014-10-19T15:00+08:00">
         <value units="C">
          29
         </value>
        </time>
-       <time at="2014-09-28T00:00+08:00">
-        <value units="C">
-         27
-        </value>
-       </time>
-       <time at="2014-09-28T03:00+08:00">
+       <time at="2014-10-19T18:00+08:00">
         <value units="C">
          26
         </value>
        </time>
-       <time at="2014-09-28T06:00+08:00">
+       <time at="2014-10-19T21:00+08:00">
+        <value units="C">
+         24
+        </value>
+       </time>
+       <time at="2014-10-20T00:00+08:00">
+        <value units="C">
+         24
+        </value>
+       </time>
+       <time at="2014-10-20T03:00+08:00">
+        <value units="C">
+         23
+        </value>
+       </time>
+       <time at="2014-10-20T06:00+08:00">
+        <value units="C">
+         23
+        </value>
+       </time>
+       <time at="2014-10-20T09:00+08:00">
+        <value units="C">
+         26
+        </value>
+       </time>
+       <time at="2014-10-20T12:00+08:00">
+        <value units="C">
+         28
+        </value>
+       </time>
+       <time at="2014-10-20T15:00+08:00">
+        <value units="C">
+         28
+        </value>
+       </time>
+       <time at="2014-10-20T18:00+08:00">
         <value units="C">
          25
         </value>
        </time>
-       <time at="2014-09-28T09:00+08:00">
+       <time at="2014-10-20T21:00+08:00">
         <value units="C">
-         30
+         24
         </value>
        </time>
-       <time at="2014-09-28T12:00+08:00">
+       <time at="2014-10-21T00:00+08:00">
         <value units="C">
-         34
+         23
         </value>
        </time>
-       <time at="2014-09-28T15:00+08:00">
+       <time at="2014-10-21T03:00+08:00">
         <value units="C">
-         33
+         22
         </value>
        </time>
       </T>
       <Td>
-       <time at="2014-09-25T12:00+08:00">
+       <time at="2014-10-18T00:00+08:00">
         <value units="C">
-         29.0
+         19.0
         </value>
        </time>
-       <time at="2014-09-25T15:00+08:00">
+       <time at="2014-10-18T03:00+08:00">
         <value units="C">
-         29.0
+         19.0
         </value>
        </time>
-       <time at="2014-09-25T18:00+08:00">
+       <time at="2014-10-18T06:00+08:00">
         <value units="C">
-         24.0
+         18.0
         </value>
        </time>
-       <time at="2014-09-25T21:00+08:00">
+       <time at="2014-10-18T09:00+08:00">
         <value units="C">
-         24.0
+         19.0
         </value>
        </time>
-       <time at="2014-09-26T00:00+08:00">
+       <time at="2014-10-18T12:00+08:00">
         <value units="C">
-         24.0
+         19.0
         </value>
        </time>
-       <time at="2014-09-26T03:00+08:00">
+       <time at="2014-10-18T15:00+08:00">
         <value units="C">
-         24.0
+         19.0
         </value>
        </time>
-       <time at="2014-09-26T06:00+08:00">
+       <time at="2014-10-18T18:00+08:00">
         <value units="C">
-         23.0
+         18.0
         </value>
        </time>
-       <time at="2014-09-26T09:00+08:00">
+       <time at="2014-10-18T21:00+08:00">
         <value units="C">
-         25.0
+         19.0
         </value>
        </time>
-       <time at="2014-09-26T12:00+08:00">
+       <time at="2014-10-19T00:00+08:00">
         <value units="C">
-         25.0
+         19.0
         </value>
        </time>
-       <time at="2014-09-26T15:00+08:00">
+       <time at="2014-10-19T03:00+08:00">
         <value units="C">
-         25.0
+         19.0
         </value>
        </time>
-       <time at="2014-09-26T18:00+08:00">
+       <time at="2014-10-19T06:00+08:00">
         <value units="C">
-         25.0
+         17.0
         </value>
        </time>
-       <time at="2014-09-26T21:00+08:00">
+       <time at="2014-10-19T09:00+08:00">
         <value units="C">
-         25.0
+         20.0
         </value>
        </time>
-       <time at="2014-09-27T00:00+08:00">
-        <value units="C">
-         24.0
-        </value>
-       </time>
-       <time at="2014-09-27T03:00+08:00">
-        <value units="C">
-         24.0
-        </value>
-       </time>
-       <time at="2014-09-27T06:00+08:00">
-        <value units="C">
-         24.0
-        </value>
-       </time>
-       <time at="2014-09-27T09:00+08:00">
-        <value units="C">
-         27.0
-        </value>
-       </time>
-       <time at="2014-09-27T12:00+08:00">
-        <value units="C">
-         27.0
-        </value>
-       </time>
-       <time at="2014-09-27T15:00+08:00">
-        <value units="C">
-         25.0
-        </value>
-       </time>
-       <time at="2014-09-27T18:00+08:00">
-        <value units="C">
-         25.0
-        </value>
-       </time>
-       <time at="2014-09-27T21:00+08:00">
-        <value units="C">
-         25.0
-        </value>
-       </time>
-       <time at="2014-09-28T00:00+08:00">
-        <value units="C">
-         25.0
-        </value>
-       </time>
-       <time at="2014-09-28T03:00+08:00">
-        <value units="C">
-         24.0
-        </value>
-       </time>
-       <time at="2014-09-28T06:00+08:00">
+       <time at="2014-10-19T12:00+08:00">
         <value units="C">
          22.0
         </value>
        </time>
-       <time at="2014-09-28T09:00+08:00">
+       <time at="2014-10-19T15:00+08:00">
         <value units="C">
-         25.0
+         23.0
         </value>
        </time>
-       <time at="2014-09-28T12:00+08:00">
+       <time at="2014-10-19T18:00+08:00">
         <value units="C">
-         26.0
+         22.0
         </value>
        </time>
-       <time at="2014-09-28T15:00+08:00">
+       <time at="2014-10-19T21:00+08:00">
         <value units="C">
-         25.0
+         22.0
+        </value>
+       </time>
+       <time at="2014-10-20T00:00+08:00">
+        <value units="C">
+         22.0
+        </value>
+       </time>
+       <time at="2014-10-20T03:00+08:00">
+        <value units="C">
+         21.0
+        </value>
+       </time>
+       <time at="2014-10-20T06:00+08:00">
+        <value units="C">
+         19.0
+        </value>
+       </time>
+       <time at="2014-10-20T09:00+08:00">
+        <value units="C">
+         21.0
+        </value>
+       </time>
+       <time at="2014-10-20T12:00+08:00">
+        <value units="C">
+         23.0
+        </value>
+       </time>
+       <time at="2014-10-20T15:00+08:00">
+        <value units="C">
+         23.0
+        </value>
+       </time>
+       <time at="2014-10-20T18:00+08:00">
+        <value units="C">
+         22.0
+        </value>
+       </time>
+       <time at="2014-10-20T21:00+08:00">
+        <value units="C">
+         22.0
+        </value>
+       </time>
+       <time at="2014-10-21T00:00+08:00">
+        <value units="C">
+         21.0
+        </value>
+       </time>
+       <time at="2014-10-21T03:00+08:00">
+        <value units="C">
+         19.0
         </value>
        </time>
       </Td>
       <RH>
-       <time at="2014-09-25T12:00+08:00">
+       <time at="2014-10-18T00:00+08:00">
         <value units="%">
          80
         </value>
        </time>
-       <time at="2014-09-25T15:00+08:00">
+       <time at="2014-10-18T03:00+08:00">
         <value units="%">
-         80
+         81
         </value>
        </time>
-       <time at="2014-09-25T18:00+08:00">
+       <time at="2014-10-18T06:00+08:00">
         <value units="%">
-         72
+         78
         </value>
        </time>
-       <time at="2014-09-25T21:00+08:00">
+       <time at="2014-10-18T09:00+08:00">
         <value units="%">
-         79
+         67
         </value>
        </time>
-       <time at="2014-09-26T00:00+08:00">
+       <time at="2014-10-18T12:00+08:00">
         <value units="%">
-         83
+         56
         </value>
        </time>
-       <time at="2014-09-26T03:00+08:00">
+       <time at="2014-10-18T15:00+08:00">
         <value units="%">
-         86
+         58
         </value>
        </time>
-       <time at="2014-09-26T06:00+08:00">
+       <time at="2014-10-18T18:00+08:00">
         <value units="%">
-         84
+         68
         </value>
        </time>
-       <time at="2014-09-26T09:00+08:00">
+       <time at="2014-10-18T21:00+08:00">
         <value units="%">
-         73
+         76
         </value>
        </time>
-       <time at="2014-09-26T12:00+08:00">
-        <value units="%">
-         64
-        </value>
-       </time>
-       <time at="2014-09-26T15:00+08:00">
-        <value units="%">
-         62
-        </value>
-       </time>
-       <time at="2014-09-26T18:00+08:00">
-        <value units="%">
-         71
-        </value>
-       </time>
-       <time at="2014-09-26T21:00+08:00">
-        <value units="%">
-         79
-        </value>
-       </time>
-       <time at="2014-09-27T00:00+08:00">
+       <time at="2014-10-19T00:00+08:00">
         <value units="%">
          82
         </value>
        </time>
-       <time at="2014-09-27T03:00+08:00">
+       <time at="2014-10-19T03:00+08:00">
         <value units="%">
-         85
+         83
         </value>
        </time>
-       <time at="2014-09-27T06:00+08:00">
-        <value units="%">
-         86
-        </value>
-       </time>
-       <time at="2014-09-27T09:00+08:00">
-        <value units="%">
-         80
-        </value>
-       </time>
-       <time at="2014-09-27T12:00+08:00">
-        <value units="%">
-         65
-        </value>
-       </time>
-       <time at="2014-09-27T15:00+08:00">
-        <value units="%">
-         59
-        </value>
-       </time>
-       <time at="2014-09-27T18:00+08:00">
-        <value units="%">
-         69
-        </value>
-       </time>
-       <time at="2014-09-27T21:00+08:00">
+       <time at="2014-10-19T06:00+08:00">
         <value units="%">
          79
         </value>
        </time>
-       <time at="2014-09-28T00:00+08:00">
+       <time at="2014-10-19T09:00+08:00">
         <value units="%">
-         84
+         67
         </value>
        </time>
-       <time at="2014-09-28T03:00+08:00">
-        <value units="%">
-         84
-        </value>
-       </time>
-       <time at="2014-09-28T06:00+08:00">
-        <value units="%">
-         80
-        </value>
-       </time>
-       <time at="2014-09-28T09:00+08:00">
-        <value units="%">
-         73
-        </value>
-       </time>
-       <time at="2014-09-28T12:00+08:00">
+       <time at="2014-10-19T12:00+08:00">
         <value units="%">
          63
         </value>
        </time>
-       <time at="2014-09-28T15:00+08:00">
+       <time at="2014-10-19T15:00+08:00">
         <value units="%">
-         61
+         68
+        </value>
+       </time>
+       <time at="2014-10-19T18:00+08:00">
+        <value units="%">
+         77
+        </value>
+       </time>
+       <time at="2014-10-19T21:00+08:00">
+        <value units="%">
+         85
+        </value>
+       </time>
+       <time at="2014-10-20T00:00+08:00">
+        <value units="%">
+         87
+        </value>
+       </time>
+       <time at="2014-10-20T03:00+08:00">
+        <value units="%">
+         86
+        </value>
+       </time>
+       <time at="2014-10-20T06:00+08:00">
+        <value units="%">
+         80
+        </value>
+       </time>
+       <time at="2014-10-20T09:00+08:00">
+        <value units="%">
+         76
+        </value>
+       </time>
+       <time at="2014-10-20T12:00+08:00">
+        <value units="%">
+         74
+        </value>
+       </time>
+       <time at="2014-10-20T15:00+08:00">
+        <value units="%">
+         76
+        </value>
+       </time>
+       <time at="2014-10-20T18:00+08:00">
+        <value units="%">
+         84
+        </value>
+       </time>
+       <time at="2014-10-20T21:00+08:00">
+        <value units="%">
+         89
+        </value>
+       </time>
+       <time at="2014-10-21T00:00+08:00">
+        <value units="%">
+         87
+        </value>
+       </time>
+       <time at="2014-10-21T03:00+08:00">
+        <value units="%">
+         82
         </value>
        </time>
       </RH>
       <Wind>
-       <time at="2014-09-25T12:00+08:00">
-        <value>
-         <dir units="16">
-          S
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          4
-         </speed>
-         <speed notes="units:beaufort">
-          3
-         </speed>
-         <dir>
-          偏南風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-25T15:00+08:00">
-        <value>
-         <dir units="16">
-          SW
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          4
-         </speed>
-         <speed notes="units:beaufort">
-          3
-         </speed>
-         <dir>
-          西南風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-25T18:00+08:00">
-        <value>
-         <dir units="16">
-          E
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          4
-         </speed>
-         <speed notes="units:beaufort">
-          3
-         </speed>
-         <dir>
-          偏東風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-25T21:00+08:00">
-        <value>
-         <dir units="16">
-          NE
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          4
-         </speed>
-         <speed notes="units:beaufort">
-          3
-         </speed>
-         <dir>
-          東北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-26T00:00+08:00">
-        <value>
-         <dir units="16">
-          E
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          4
-         </speed>
-         <speed notes="units:beaufort">
-          3
-         </speed>
-         <dir>
-          偏東風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-26T03:00+08:00">
-        <value>
-         <dir units="16">
-          E
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          3
-         </speed>
-         <speed notes="units:beaufort">
-          2
-         </speed>
-         <dir>
-          偏東風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-26T06:00+08:00">
-        <value>
-         <dir units="16">
-          NE
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          3
-         </speed>
-         <speed notes="units:beaufort">
-          2
-         </speed>
-         <dir>
-          東北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-26T09:00+08:00">
-        <value>
-         <dir units="16">
-          NE
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          6
-         </speed>
-         <speed notes="units:beaufort">
-          4
-         </speed>
-         <dir>
-          東北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-26T12:00+08:00">
+       <time at="2014-10-18T00:00+08:00">
         <value>
          <dir units="16">
           NE
@@ -594,7 +450,7 @@
          </dir>
         </text>
        </time>
-       <time at="2014-09-26T15:00+08:00">
+       <time at="2014-10-18T03:00+08:00">
         <value>
          <dir units="16">
           NE
@@ -612,7 +468,25 @@
          </dir>
         </text>
        </time>
-       <time at="2014-09-26T18:00+08:00">
+       <time at="2014-10-18T06:00+08:00">
+        <value>
+         <dir units="16">
+          NE
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          7
+         </speed>
+         <speed notes="units:beaufort">
+          4
+         </speed>
+         <dir>
+          東北風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-18T09:00+08:00">
         <value>
          <dir units="16">
           NE
@@ -630,10 +504,64 @@
          </dir>
         </text>
        </time>
-       <time at="2014-09-26T21:00+08:00">
+       <time at="2014-10-18T12:00+08:00">
         <value>
          <dir units="16">
           NE
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          9
+         </speed>
+         <speed notes="units:beaufort">
+          5
+         </speed>
+         <dir>
+          東北風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-18T15:00+08:00">
+        <value>
+         <dir units="16">
+          NE
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          8
+         </speed>
+         <speed notes="units:beaufort">
+          5
+         </speed>
+         <dir>
+          東北風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-18T18:00+08:00">
+        <value>
+         <dir units="16">
+          E
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          7
+         </speed>
+         <speed notes="units:beaufort">
+          4
+         </speed>
+         <dir>
+          偏東風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-18T21:00+08:00">
+        <value>
+         <dir units="16">
+          E
          </dir>
         </value>
         <text>
@@ -644,11 +572,65 @@
           4
          </speed>
          <dir>
-          東北風
+          偏東風
          </dir>
         </text>
        </time>
-       <time at="2014-09-27T00:00+08:00">
+       <time at="2014-10-19T00:00+08:00">
+        <value>
+         <dir units="16">
+          E
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          6
+         </speed>
+         <speed notes="units:beaufort">
+          4
+         </speed>
+         <dir>
+          偏東風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-19T03:00+08:00">
+        <value>
+         <dir units="16">
+          E
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          5
+         </speed>
+         <speed notes="units:beaufort">
+          3
+         </speed>
+         <dir>
+          偏東風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-19T06:00+08:00">
+        <value>
+         <dir units="16">
+          E
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          5
+         </speed>
+         <speed notes="units:beaufort">
+          3
+         </speed>
+         <dir>
+          偏東風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-19T09:00+08:00">
         <value>
          <dir units="16">
           NE
@@ -666,7 +648,187 @@
          </dir>
         </text>
        </time>
-       <time at="2014-09-27T03:00+08:00">
+       <time at="2014-10-19T12:00+08:00">
+        <value>
+         <dir units="16">
+          N
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          5
+         </speed>
+         <speed notes="units:beaufort">
+          3
+         </speed>
+         <dir>
+          偏北風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-19T15:00+08:00">
+        <value>
+         <dir units="16">
+          NE
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          5
+         </speed>
+         <speed notes="units:beaufort">
+          3
+         </speed>
+         <dir>
+          東北風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-19T18:00+08:00">
+        <value>
+         <dir units="16">
+          E
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          0
+         </speed>
+         <speed notes="units:beaufort">
+          0
+         </speed>
+         <dir>
+          偏東風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-19T21:00+08:00">
+        <value>
+         <dir units="16">
+          SE
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          0
+         </speed>
+         <speed notes="units:beaufort">
+          0
+         </speed>
+         <dir>
+          東南風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-20T00:00+08:00">
+        <value>
+         <dir units="16">
+          E
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          0
+         </speed>
+         <speed notes="units:beaufort">
+          0
+         </speed>
+         <dir>
+          偏東風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-20T03:00+08:00">
+        <value>
+         <dir units="16">
+          E
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          0
+         </speed>
+         <speed notes="units:beaufort">
+          0
+         </speed>
+         <dir>
+          偏東風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-20T06:00+08:00">
+        <value>
+         <dir units="16">
+          NE
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          0
+         </speed>
+         <speed notes="units:beaufort">
+          0
+         </speed>
+         <dir>
+          東北風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-20T09:00+08:00">
+        <value>
+         <dir units="16">
+          N
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          2
+         </speed>
+         <speed notes="units:beaufort">
+          2
+         </speed>
+         <dir>
+          偏北風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-20T12:00+08:00">
+        <value>
+         <dir units="16">
+          N
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          4
+         </speed>
+         <speed notes="units:beaufort">
+          3
+         </speed>
+         <dir>
+          偏北風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-20T15:00+08:00">
+        <value>
+         <dir units="16">
+          NE
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          2
+         </speed>
+         <speed notes="units:beaufort">
+          2
+         </speed>
+         <dir>
+          東北風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-20T18:00+08:00">
         <value>
          <dir units="16">
           S
@@ -674,411 +836,161 @@
         </value>
         <text>
          <speed notes="units:m/s">
-          1
+          0
          </speed>
          <speed notes="units:beaufort">
-          1
+          0
          </speed>
          <dir>
           偏南風
          </dir>
         </text>
        </time>
-       <time at="2014-09-27T06:00+08:00">
+       <time at="2014-10-20T21:00+08:00">
         <value>
          <dir units="16">
-          SW
+          S
          </dir>
         </value>
         <text>
          <speed notes="units:m/s">
-          2
+          0
          </speed>
          <speed notes="units:beaufort">
-          2
+          0
          </speed>
          <dir>
-          西南風
+          偏南風
          </dir>
         </text>
        </time>
-       <time at="2014-09-27T09:00+08:00">
+       <time at="2014-10-21T00:00+08:00">
         <value>
          <dir units="16">
-          NW
+          S
          </dir>
         </value>
         <text>
          <speed notes="units:m/s">
-          3
+          0
          </speed>
          <speed notes="units:beaufort">
-          2
+          0
          </speed>
          <dir>
-          西北風
+          偏南風
          </dir>
         </text>
        </time>
-       <time at="2014-09-27T12:00+08:00">
+       <time at="2014-10-21T03:00+08:00">
         <value>
          <dir units="16">
-          N
+          E
          </dir>
         </value>
         <text>
          <speed notes="units:m/s">
-          4
+          0
          </speed>
          <speed notes="units:beaufort">
-          3
+          0
          </speed>
          <dir>
-          偏北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-27T15:00+08:00">
-        <value>
-         <dir units="16">
-          NE
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          5
-         </speed>
-         <speed notes="units:beaufort">
-          3
-         </speed>
-         <dir>
-          東北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-27T18:00+08:00">
-        <value>
-         <dir units="16">
-          NE
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          5
-         </speed>
-         <speed notes="units:beaufort">
-          3
-         </speed>
-         <dir>
-          東北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-27T21:00+08:00">
-        <value>
-         <dir units="16">
-          NE
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          4
-         </speed>
-         <speed notes="units:beaufort">
-          3
-         </speed>
-         <dir>
-          東北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-28T00:00+08:00">
-        <value>
-         <dir units="16">
-          NE
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          3
-         </speed>
-         <speed notes="units:beaufort">
-          2
-         </speed>
-         <dir>
-          東北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-28T03:00+08:00">
-        <value>
-         <dir units="16">
-          NE
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          3
-         </speed>
-         <speed notes="units:beaufort">
-          2
-         </speed>
-         <dir>
-          東北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-28T06:00+08:00">
-        <value>
-         <dir units="16">
-          NE
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          5
-         </speed>
-         <speed notes="units:beaufort">
-          3
-         </speed>
-         <dir>
-          東北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-28T09:00+08:00">
-        <value>
-         <dir units="16">
-          N
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          6
-         </speed>
-         <speed notes="units:beaufort">
-          4
-         </speed>
-         <dir>
-          偏北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-28T12:00+08:00">
-        <value>
-         <dir units="16">
-          N
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          6
-         </speed>
-         <speed notes="units:beaufort">
-          4
-         </speed>
-         <dir>
-          偏北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-28T15:00+08:00">
-        <value>
-         <dir units="16">
-          NE
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          6
-         </speed>
-         <speed notes="units:beaufort">
-          4
-         </speed>
-         <dir>
-          東北風
+          偏東風
          </dir>
         </text>
        </time>
       </Wind>
       <CI>
-       <time at="2014-09-25T12:00+08:00">
+       <time at="2014-10-18T00:00+08:00">
         <value>
-         30.4
-        </value>
-        <text>
-         悶熱
-        </text>
-       </time>
-       <time at="2014-09-25T15:00+08:00">
-        <value>
-         30.4
-        </value>
-        <text>
-         悶熱
-        </text>
-       </time>
-       <time at="2014-09-25T18:00+08:00">
-        <value>
-         26.9
+         21.9
         </value>
         <text>
          舒適
         </text>
        </time>
-       <time at="2014-09-25T21:00+08:00">
+       <time at="2014-10-18T03:00+08:00">
         <value>
-         26.4
+         21.3
         </value>
         <text>
          舒適
         </text>
        </time>
-       <time at="2014-09-26T00:00+08:00">
+       <time at="2014-10-18T06:00+08:00">
         <value>
-         25.8
+         21.0
         </value>
         <text>
          舒適
         </text>
        </time>
-       <time at="2014-09-26T03:00+08:00">
+       <time at="2014-10-18T09:00+08:00">
         <value>
-         25.3
+         23.1
         </value>
         <text>
          舒適
         </text>
        </time>
-       <time at="2014-09-26T06:00+08:00">
+       <time at="2014-10-18T12:00+08:00">
         <value>
-         24.3
+         24.8
         </value>
         <text>
          舒適
         </text>
        </time>
-       <time at="2014-09-26T09:00+08:00">
+       <time at="2014-10-18T15:00+08:00">
         <value>
-         27.8
-        </value>
-        <text>
-         悶熱
-        </text>
-       </time>
-       <time at="2014-09-26T12:00+08:00">
-        <value>
-         29.1
-        </value>
-        <text>
-         悶熱
-        </text>
-       </time>
-       <time at="2014-09-26T15:00+08:00">
-        <value>
-         29.1
-        </value>
-        <text>
-         悶熱
-        </text>
-       </time>
-       <time at="2014-09-26T18:00+08:00">
-        <value>
-         27.8
-        </value>
-        <text>
-         悶熱
-        </text>
-       </time>
-       <time at="2014-09-26T21:00+08:00">
-        <value>
-         26.8
+         24.8
         </value>
         <text>
          舒適
         </text>
        </time>
-       <time at="2014-09-27T00:00+08:00">
+       <time at="2014-10-18T18:00+08:00">
         <value>
-         25.8
+         22.9
         </value>
         <text>
          舒適
         </text>
        </time>
-       <time at="2014-09-27T03:00+08:00">
+       <time at="2014-10-18T21:00+08:00">
         <value>
-         25.3
+         21.9
         </value>
         <text>
          舒適
         </text>
        </time>
-       <time at="2014-09-27T06:00+08:00">
+       <time at="2014-10-19T00:00+08:00">
         <value>
-         24.6
+         21.3
         </value>
         <text>
          舒適
         </text>
        </time>
-       <time at="2014-09-27T09:00+08:00">
+       <time at="2014-10-19T03:00+08:00">
         <value>
-         28.6
-        </value>
-        <text>
-         悶熱
-        </text>
-       </time>
-       <time at="2014-09-27T12:00+08:00">
-        <value>
-         30.4
-        </value>
-        <text>
-         悶熱
-        </text>
-       </time>
-       <time at="2014-09-27T15:00+08:00">
-        <value>
-         29.6
-        </value>
-        <text>
-         悶熱
-        </text>
-       </time>
-       <time at="2014-09-27T18:00+08:00">
-        <value>
-         28.2
-        </value>
-        <text>
-         悶熱
-        </text>
-       </time>
-       <time at="2014-09-27T21:00+08:00">
-        <value>
-         27.3
-        </value>
-        <text>
-         悶熱
-        </text>
-       </time>
-       <time at="2014-09-28T00:00+08:00">
-        <value>
-         26.2
+         21.3
         </value>
         <text>
          舒適
         </text>
        </time>
-       <time at="2014-09-28T03:00+08:00">
+       <time at="2014-10-19T06:00+08:00">
         <value>
-         25.3
+         20.1
         </value>
         <text>
          舒適
         </text>
        </time>
-       <time at="2014-09-28T06:00+08:00">
+       <time at="2014-10-19T09:00+08:00">
         <value>
          24.0
         </value>
@@ -1086,81 +998,121 @@
          舒適
         </text>
        </time>
-       <time at="2014-09-28T09:00+08:00">
+       <time at="2014-10-19T12:00+08:00">
         <value>
-         27.8
+         26.7
         </value>
         <text>
-         悶熱
+         舒適
         </text>
        </time>
-       <time at="2014-09-28T12:00+08:00">
+       <time at="2014-10-19T15:00+08:00">
         <value>
-         30.0
+         26.5
         </value>
         <text>
-         悶熱
+         舒適
         </text>
        </time>
-       <time at="2014-09-28T15:00+08:00">
+       <time at="2014-10-19T18:00+08:00">
         <value>
-         29.1
+         24.6
         </value>
         <text>
-         悶熱
+         舒適
+        </text>
+       </time>
+       <time at="2014-10-19T21:00+08:00">
+        <value>
+         23.4
+        </value>
+        <text>
+         舒適
+        </text>
+       </time>
+       <time at="2014-10-20T00:00+08:00">
+        <value>
+         23.4
+        </value>
+        <text>
+         舒適
+        </text>
+       </time>
+       <time at="2014-10-20T03:00+08:00">
+        <value>
+         22.4
+        </value>
+        <text>
+         舒適
+        </text>
+       </time>
+       <time at="2014-10-20T06:00+08:00">
+        <value>
+         21.9
+        </value>
+        <text>
+         舒適
+        </text>
+       </time>
+       <time at="2014-10-20T09:00+08:00">
+        <value>
+         24.3
+        </value>
+        <text>
+         舒適
+        </text>
+       </time>
+       <time at="2014-10-20T12:00+08:00">
+        <value>
+         26.0
+        </value>
+        <text>
+         舒適
+        </text>
+       </time>
+       <time at="2014-10-20T15:00+08:00">
+        <value>
+         26.0
+        </value>
+        <text>
+         舒適
+        </text>
+       </time>
+       <time at="2014-10-20T18:00+08:00">
+        <value>
+         24.0
+        </value>
+        <text>
+         舒適
+        </text>
+       </time>
+       <time at="2014-10-20T21:00+08:00">
+        <value>
+         23.4
+        </value>
+        <text>
+         舒適
+        </text>
+       </time>
+       <time at="2014-10-21T00:00+08:00">
+        <value>
+         22.4
+        </value>
+        <text>
+         舒適
+        </text>
+       </time>
+       <time at="2014-10-21T03:00+08:00">
+        <value>
+         21.3
+        </value>
+        <text>
+         舒適
         </text>
        </time>
       </CI>
       <Wx>
-       <time end="2014-09-25T15:00+08:00" start="2014-09-25T12:00+08:00">
-        <value>
-         36
-        </value>
-        <text>
-         午後短暫雷陣雨
-        </text>
-       </time>
-       <time end="2014-09-25T18:00+08:00" start="2014-09-25T15:00+08:00">
-        <value>
-         36
-        </value>
-        <text>
-         午後短暫雷陣雨
-        </text>
-       </time>
-       <time end="2014-09-25T21:00+08:00" start="2014-09-25T18:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-26T00:00+08:00" start="2014-09-25T21:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-26T03:00+08:00" start="2014-09-26T00:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-26T06:00+08:00" start="2014-09-26T03:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-26T09:00+08:00" start="2014-09-26T06:00+08:00">
+       <time end="2014-10-18T03:00+08:00" start="2014-10-18T00:00+08:00">
         <value>
          01
         </value>
@@ -1168,71 +1120,7 @@
          晴天
         </text>
        </time>
-       <time end="2014-09-26T12:00+08:00" start="2014-09-26T09:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-26T15:00+08:00" start="2014-09-26T12:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-26T18:00+08:00" start="2014-09-26T15:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-26T21:00+08:00" start="2014-09-26T18:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-27T00:00+08:00" start="2014-09-26T21:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-27T03:00+08:00" start="2014-09-27T00:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-27T06:00+08:00" start="2014-09-27T03:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-27T09:00+08:00" start="2014-09-27T06:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-27T12:00+08:00" start="2014-09-27T09:00+08:00">
+       <time end="2014-10-18T06:00+08:00" start="2014-10-18T03:00+08:00">
         <value>
          01
         </value>
@@ -1240,7 +1128,7 @@
          晴天
         </text>
        </time>
-       <time end="2014-09-27T15:00+08:00" start="2014-09-27T12:00+08:00">
+       <time end="2014-10-18T09:00+08:00" start="2014-10-18T06:00+08:00">
         <value>
          01
         </value>
@@ -1248,7 +1136,7 @@
          晴天
         </text>
        </time>
-       <time end="2014-09-27T18:00+08:00" start="2014-09-27T15:00+08:00">
+       <time end="2014-10-18T12:00+08:00" start="2014-10-18T09:00+08:00">
         <value>
          01
         </value>
@@ -1256,31 +1144,7 @@
          晴天
         </text>
        </time>
-       <time end="2014-09-27T21:00+08:00" start="2014-09-27T18:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-28T00:00+08:00" start="2014-09-27T21:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-28T03:00+08:00" start="2014-09-28T00:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-28T06:00+08:00" start="2014-09-28T03:00+08:00">
+       <time end="2014-10-18T15:00+08:00" start="2014-10-18T12:00+08:00">
         <value>
          01
         </value>
@@ -1288,7 +1152,7 @@
          晴天
         </text>
        </time>
-       <time end="2014-09-28T09:00+08:00" start="2014-09-28T06:00+08:00">
+       <time end="2014-10-18T18:00+08:00" start="2014-10-18T15:00+08:00">
         <value>
          01
         </value>
@@ -1296,7 +1160,15 @@
          晴天
         </text>
        </time>
-       <time end="2014-09-28T12:00+08:00" start="2014-09-28T09:00+08:00">
+       <time end="2014-10-18T21:00+08:00" start="2014-10-18T18:00+08:00">
+        <value>
+         01
+        </value>
+        <text>
+         晴天
+        </text>
+       </time>
+       <time end="2014-10-19T00:00+08:00" start="2014-10-18T21:00+08:00">
         <value>
          02
         </value>
@@ -1304,7 +1176,7 @@
          多雲
         </text>
        </time>
-       <time end="2014-09-28T15:00+08:00" start="2014-09-28T12:00+08:00">
+       <time end="2014-10-19T03:00+08:00" start="2014-10-19T00:00+08:00">
         <value>
          02
         </value>
@@ -1312,248 +1184,376 @@
          多雲
         </text>
        </time>
-       <time end="2014-09-28T18:00+08:00" start="2014-09-28T15:00+08:00">
+       <time end="2014-10-19T06:00+08:00" start="2014-10-19T03:00+08:00">
+        <value>
+         01
+        </value>
+        <text>
+         晴天
+        </text>
+       </time>
+       <time end="2014-10-19T09:00+08:00" start="2014-10-19T06:00+08:00">
         <value>
          02
         </value>
         <text>
          多雲
+        </text>
+       </time>
+       <time end="2014-10-19T12:00+08:00" start="2014-10-19T09:00+08:00">
+        <value>
+         01
+        </value>
+        <text>
+         晴天
+        </text>
+       </time>
+       <time end="2014-10-19T15:00+08:00" start="2014-10-19T12:00+08:00">
+        <value>
+         02
+        </value>
+        <text>
+         多雲
+        </text>
+       </time>
+       <time end="2014-10-19T18:00+08:00" start="2014-10-19T15:00+08:00">
+        <value>
+         01
+        </value>
+        <text>
+         晴天
+        </text>
+       </time>
+       <time end="2014-10-19T21:00+08:00" start="2014-10-19T18:00+08:00">
+        <value>
+         01
+        </value>
+        <text>
+         晴天
+        </text>
+       </time>
+       <time end="2014-10-20T00:00+08:00" start="2014-10-19T21:00+08:00">
+        <value>
+         01
+        </value>
+        <text>
+         晴天
+        </text>
+       </time>
+       <time end="2014-10-20T03:00+08:00" start="2014-10-20T00:00+08:00">
+        <value>
+         02
+        </value>
+        <text>
+         多雲
+        </text>
+       </time>
+       <time end="2014-10-20T06:00+08:00" start="2014-10-20T03:00+08:00">
+        <value>
+         01
+        </value>
+        <text>
+         晴天
+        </text>
+       </time>
+       <time end="2014-10-20T09:00+08:00" start="2014-10-20T06:00+08:00">
+        <value>
+         02
+        </value>
+        <text>
+         多雲
+        </text>
+       </time>
+       <time end="2014-10-20T12:00+08:00" start="2014-10-20T09:00+08:00">
+        <value>
+         01
+        </value>
+        <text>
+         晴天
+        </text>
+       </time>
+       <time end="2014-10-20T15:00+08:00" start="2014-10-20T12:00+08:00">
+        <value>
+         02
+        </value>
+        <text>
+         多雲
+        </text>
+       </time>
+       <time end="2014-10-20T18:00+08:00" start="2014-10-20T15:00+08:00">
+        <value>
+         01
+        </value>
+        <text>
+         晴天
+        </text>
+       </time>
+       <time end="2014-10-20T21:00+08:00" start="2014-10-20T18:00+08:00">
+        <value>
+         02
+        </value>
+        <text>
+         多雲
+        </text>
+       </time>
+       <time end="2014-10-21T00:00+08:00" start="2014-10-20T21:00+08:00">
+        <value>
+         01
+        </value>
+        <text>
+         晴天
+        </text>
+       </time>
+       <time end="2014-10-21T03:00+08:00" start="2014-10-21T00:00+08:00">
+        <value>
+         02
+        </value>
+        <text>
+         多雲
+        </text>
+       </time>
+       <time end="2014-10-21T06:00+08:00" start="2014-10-21T03:00+08:00">
+        <value>
+         01
+        </value>
+        <text>
+         晴天
         </text>
        </time>
       </Wx>
       <PoP>
-       <time end="2014-09-25T18:00+08:00" start="2014-09-25T12:00+08:00">
-        <value units="%">
-         30
-        </value>
-       </time>
-       <time end="2014-09-26T06:00+08:00" start="2014-09-25T18:00+08:00">
+       <time end="2014-10-18T06:00+08:00" start="2014-10-18T00:00+08:00">
         <value units="%">
          0
         </value>
        </time>
-       <time end="2014-09-26T18:00+08:00" start="2014-09-26T06:00+08:00">
-        <value units="%">
-         10
-        </value>
-       </time>
-       <time end="2014-09-27T06:00+08:00" start="2014-09-26T18:00+08:00">
+       <time end="2014-10-18T18:00+08:00" start="2014-10-18T06:00+08:00">
         <value units="%">
          0
         </value>
        </time>
-       <time end="2014-09-27T18:00+08:00" start="2014-09-27T06:00+08:00">
-        <value units="%">
-         10
-        </value>
-       </time>
-       <time end="2014-09-28T06:00+08:00" start="2014-09-27T18:00+08:00">
+       <time end="2014-10-19T06:00+08:00" start="2014-10-18T18:00+08:00">
         <value units="%">
          0
         </value>
        </time>
-       <time end="2014-09-28T18:00+08:00" start="2014-09-28T06:00+08:00">
+       <time end="2014-10-19T18:00+08:00" start="2014-10-19T06:00+08:00">
         <value units="%">
-         
+         0
+        </value>
+       </time>
+       <time end="2014-10-20T06:00+08:00" start="2014-10-19T18:00+08:00">
+        <value units="%">
+         0
+        </value>
+       </time>
+       <time end="2014-10-20T18:00+08:00" start="2014-10-20T06:00+08:00">
+        <value units="%">
+         0
+        </value>
+       </time>
+       <time end="2014-10-21T06:00+08:00" start="2014-10-20T18:00+08:00">
+        <value units="%">
+         0
         </value>
        </time>
       </PoP>
       <PoP6h>
-       <time end="2014-09-25T18:00+08:00" start="2014-09-25T12:00+08:00">
-        <value units="%">
-         30
-        </value>
-       </time>
-       <time end="2014-09-26T00:00+08:00" start="2014-09-25T18:00+08:00">
+       <time end="2014-10-18T06:00+08:00" start="2014-10-18T00:00+08:00">
         <value units="%">
          0
         </value>
        </time>
-       <time end="2014-09-26T06:00+08:00" start="2014-09-26T00:00+08:00">
+       <time end="2014-10-18T12:00+08:00" start="2014-10-18T06:00+08:00">
         <value units="%">
          0
         </value>
        </time>
-       <time end="2014-09-26T12:00+08:00" start="2014-09-26T06:00+08:00">
-        <value units="%">
-         10
-        </value>
-       </time>
-       <time end="2014-09-26T18:00+08:00" start="2014-09-26T12:00+08:00">
-        <value units="%">
-         10
-        </value>
-       </time>
-       <time end="2014-09-27T00:00+08:00" start="2014-09-26T18:00+08:00">
+       <time end="2014-10-18T18:00+08:00" start="2014-10-18T12:00+08:00">
         <value units="%">
          0
         </value>
        </time>
-       <time end="2014-09-27T06:00+08:00" start="2014-09-27T00:00+08:00">
+       <time end="2014-10-19T00:00+08:00" start="2014-10-18T18:00+08:00">
         <value units="%">
          0
         </value>
        </time>
-       <time end="2014-09-27T12:00+08:00" start="2014-09-27T06:00+08:00">
-        <value units="%">
-         10
-        </value>
-       </time>
-       <time end="2014-09-27T18:00+08:00" start="2014-09-27T12:00+08:00">
+       <time end="2014-10-19T06:00+08:00" start="2014-10-19T00:00+08:00">
         <value units="%">
          0
         </value>
        </time>
-       <time end="2014-09-28T00:00+08:00" start="2014-09-27T18:00+08:00">
+       <time end="2014-10-19T12:00+08:00" start="2014-10-19T06:00+08:00">
         <value units="%">
          0
         </value>
        </time>
-       <time end="2014-09-28T06:00+08:00" start="2014-09-28T00:00+08:00">
+       <time end="2014-10-19T18:00+08:00" start="2014-10-19T12:00+08:00">
         <value units="%">
          0
         </value>
        </time>
-       <time end="2014-09-28T12:00+08:00" start="2014-09-28T06:00+08:00">
+       <time end="2014-10-20T00:00+08:00" start="2014-10-19T18:00+08:00">
         <value units="%">
-         
+         0
         </value>
        </time>
-       <time end="2014-09-28T18:00+08:00" start="2014-09-28T12:00+08:00">
+       <time end="2014-10-20T06:00+08:00" start="2014-10-20T00:00+08:00">
         <value units="%">
-         
+         0
+        </value>
+       </time>
+       <time end="2014-10-20T12:00+08:00" start="2014-10-20T06:00+08:00">
+        <value units="%">
+         0
+        </value>
+       </time>
+       <time end="2014-10-20T18:00+08:00" start="2014-10-20T12:00+08:00">
+        <value units="%">
+         0
+        </value>
+       </time>
+       <time end="2014-10-21T00:00+08:00" start="2014-10-20T18:00+08:00">
+        <value units="%">
+         0
+        </value>
+       </time>
+       <time end="2014-10-21T06:00+08:00" start="2014-10-21T00:00+08:00">
+        <value units="%">
+         0
         </value>
        </time>
       </PoP6h>
       <WeatherDescription>
-       <time end="2014-09-25T15:00+08:00" start="2014-09-25T12:00+08:00">
+       <time end="2014-10-18T03:00+08:00" start="2014-10-18T00:00+08:00">
         <text>
-         午後短暫雷陣雨。 降雨機率 30%。 溫度攝氏32度。 悶熱。 偏南風 平均風速2至3級(每秒4公尺)。 相對濕度為80%。
+         晴天。 降雨機率 0%。 溫度攝氏23度。 舒適。 東北風 平均風速3至4級(每秒7公尺)。 相對濕度為80%。
         </text>
        </time>
-       <time end="2014-09-25T18:00+08:00" start="2014-09-25T15:00+08:00">
+       <time end="2014-10-18T06:00+08:00" start="2014-10-18T03:00+08:00">
         <text>
-         午後短暫雷陣雨。 降雨機率 30%。 溫度攝氏32度。 悶熱。 西南風 平均風速2至3級(每秒4公尺)。 相對濕度為80%。
+         晴天。 降雨機率 0%。 溫度攝氏22度。 舒適。 東北風 平均風速3至4級(每秒7公尺)。 相對濕度為81%。
         </text>
        </time>
-       <time end="2014-09-25T21:00+08:00" start="2014-09-25T18:00+08:00">
+       <time end="2014-10-18T09:00+08:00" start="2014-10-18T06:00+08:00">
         <text>
-         多雲。 降雨機率 0%。 溫度攝氏29度。 舒適。 偏東風 平均風速2至3級(每秒4公尺)。 相對濕度為72%。
+         晴天。 降雨機率 0%。 溫度攝氏22度。 舒適。 東北風 平均風速3至4級(每秒7公尺)。 相對濕度為78%。
         </text>
        </time>
-       <time end="2014-09-26T00:00+08:00" start="2014-09-25T21:00+08:00">
+       <time end="2014-10-18T12:00+08:00" start="2014-10-18T09:00+08:00">
         <text>
-         多雲。 降雨機率 0%。 溫度攝氏28度。 舒適。 東北風 平均風速2至3級(每秒4公尺)。 相對濕度為79%。
+         晴天。 降雨機率 0%。 溫度攝氏25度。 舒適。 東北風 平均風速4至5級(每秒8公尺)。 相對濕度為67%。
         </text>
        </time>
-       <time end="2014-09-26T03:00+08:00" start="2014-09-26T00:00+08:00">
+       <time end="2014-10-18T15:00+08:00" start="2014-10-18T12:00+08:00">
         <text>
-         多雲。 降雨機率 0%。 溫度攝氏27度。 舒適。 偏東風 平均風速2至3級(每秒4公尺)。 相對濕度為83%。
+         晴天。 降雨機率 0%。 溫度攝氏28度。 舒適。 東北風 平均風速4至5級(每秒9公尺)。 相對濕度為56%。
         </text>
        </time>
-       <time end="2014-09-26T06:00+08:00" start="2014-09-26T03:00+08:00">
+       <time end="2014-10-18T18:00+08:00" start="2014-10-18T15:00+08:00">
         <text>
-         多雲。 降雨機率 0%。 溫度攝氏26度。 舒適。 偏東風 平均風速1至2級(每秒3公尺)。 相對濕度為86%。
+         晴天。 降雨機率 0%。 溫度攝氏28度。 舒適。 東北風 平均風速4至5級(每秒8公尺)。 相對濕度為58%。
         </text>
        </time>
-       <time end="2014-09-26T09:00+08:00" start="2014-09-26T06:00+08:00">
+       <time end="2014-10-18T21:00+08:00" start="2014-10-18T18:00+08:00">
         <text>
-         晴天。 降雨機率 10%。 溫度攝氏25度。 舒適。 東北風 平均風速1至2級(每秒3公尺)。 相對濕度為84%。
+         晴天。 降雨機率 0%。 溫度攝氏25度。 舒適。 偏東風 平均風速3至4級(每秒7公尺)。 相對濕度為68%。
         </text>
        </time>
-       <time end="2014-09-26T12:00+08:00" start="2014-09-26T09:00+08:00">
+       <time end="2014-10-19T00:00+08:00" start="2014-10-18T21:00+08:00">
         <text>
-         多雲。 降雨機率 10%。 溫度攝氏30度。 悶熱。 東北風 平均風速3至4級(每秒6公尺)。 相對濕度為73%。
+         多雲。 降雨機率 0%。 溫度攝氏23度。 舒適。 偏東風 平均風速3至4級(每秒6公尺)。 相對濕度為76%。
         </text>
        </time>
-       <time end="2014-09-26T15:00+08:00" start="2014-09-26T12:00+08:00">
+       <time end="2014-10-19T03:00+08:00" start="2014-10-19T00:00+08:00">
         <text>
-         多雲。 降雨機率 10%。 溫度攝氏33度。 悶熱。 東北風 平均風速3至4級(每秒7公尺)。 相對濕度為64%。
+         多雲。 降雨機率 0%。 溫度攝氏22度。 舒適。 偏東風 平均風速3至4級(每秒6公尺)。 相對濕度為82%。
         </text>
        </time>
-       <time end="2014-09-26T18:00+08:00" start="2014-09-26T15:00+08:00">
+       <time end="2014-10-19T06:00+08:00" start="2014-10-19T03:00+08:00">
         <text>
-         多雲。 降雨機率 10%。 溫度攝氏33度。 悶熱。 東北風 平均風速3至4級(每秒7公尺)。 相對濕度為62%。
+         晴天。 降雨機率 0%。 溫度攝氏22度。 舒適。 偏東風 平均風速2至3級(每秒5公尺)。 相對濕度為83%。
         </text>
        </time>
-       <time end="2014-09-26T21:00+08:00" start="2014-09-26T18:00+08:00">
+       <time end="2014-10-19T09:00+08:00" start="2014-10-19T06:00+08:00">
         <text>
-         多雲。 降雨機率 0%。 溫度攝氏30度。 悶熱。 東北風 平均風速4至5級(每秒8公尺)。 相對濕度為71%。
+         多雲。 降雨機率 0%。 溫度攝氏21度。 舒適。 偏東風 平均風速2至3級(每秒5公尺)。 相對濕度為79%。
         </text>
        </time>
-       <time end="2014-09-27T00:00+08:00" start="2014-09-26T21:00+08:00">
+       <time end="2014-10-19T12:00+08:00" start="2014-10-19T09:00+08:00">
         <text>
-         多雲。 降雨機率 0%。 溫度攝氏28度。 舒適。 東北風 平均風速3至4級(每秒6公尺)。 相對濕度為79%。
+         晴天。 降雨機率 0%。 溫度攝氏26度。 舒適。 東北風 平均風速2至3級(每秒5公尺)。 相對濕度為67%。
         </text>
        </time>
-       <time end="2014-09-27T03:00+08:00" start="2014-09-27T00:00+08:00">
+       <time end="2014-10-19T15:00+08:00" start="2014-10-19T12:00+08:00">
         <text>
-         多雲。 降雨機率 0%。 溫度攝氏27度。 舒適。 東北風 平均風速2至3級(每秒5公尺)。 相對濕度為82%。
+         多雲。 降雨機率 0%。 溫度攝氏30度。 舒適。 偏北風 平均風速2至3級(每秒5公尺)。 相對濕度為63%。
         </text>
        </time>
-       <time end="2014-09-27T06:00+08:00" start="2014-09-27T03:00+08:00">
+       <time end="2014-10-19T18:00+08:00" start="2014-10-19T15:00+08:00">
         <text>
-         多雲。 降雨機率 0%。 溫度攝氏26度。 舒適。 偏南風 平均風速0至1級(每秒1公尺)。 相對濕度為85%。
+         晴天。 降雨機率 0%。 溫度攝氏29度。 舒適。 東北風 平均風速2至3級(每秒5公尺)。 相對濕度為68%。
         </text>
        </time>
-       <time end="2014-09-27T09:00+08:00" start="2014-09-27T06:00+08:00">
+       <time end="2014-10-19T21:00+08:00" start="2014-10-19T18:00+08:00">
         <text>
-         多雲。 降雨機率 10%。 溫度攝氏25度。 舒適。 西南風 平均風速1至2級(每秒2公尺)。 相對濕度為86%。
+         晴天。 降雨機率 0%。 溫度攝氏26度。 舒適。 偏東風 平均風速小於1級(每秒0公尺)。 相對濕度為77%。
         </text>
        </time>
-       <time end="2014-09-27T12:00+08:00" start="2014-09-27T09:00+08:00">
+       <time end="2014-10-20T00:00+08:00" start="2014-10-19T21:00+08:00">
         <text>
-         晴天。 降雨機率 10%。 溫度攝氏30度。 悶熱。 西北風 平均風速1至2級(每秒3公尺)。 相對濕度為80%。
+         晴天。 降雨機率 0%。 溫度攝氏24度。 舒適。 東南風 平均風速小於1級(每秒0公尺)。 相對濕度為85%。
         </text>
        </time>
-       <time end="2014-09-27T15:00+08:00" start="2014-09-27T12:00+08:00">
+       <time end="2014-10-20T03:00+08:00" start="2014-10-20T00:00+08:00">
         <text>
-         晴天。 降雨機率 0%。 溫度攝氏34度。 悶熱。 偏北風 平均風速2至3級(每秒4公尺)。 相對濕度為65%。
+         多雲。 降雨機率 0%。 溫度攝氏24度。 舒適。 偏東風 平均風速小於1級(每秒0公尺)。 相對濕度為87%。
         </text>
        </time>
-       <time end="2014-09-27T18:00+08:00" start="2014-09-27T15:00+08:00">
+       <time end="2014-10-20T06:00+08:00" start="2014-10-20T03:00+08:00">
         <text>
-         晴天。 降雨機率 0%。 溫度攝氏34度。 悶熱。 東北風 平均風速2至3級(每秒5公尺)。 相對濕度為59%。
+         晴天。 降雨機率 0%。 溫度攝氏23度。 舒適。 偏東風 平均風速小於1級(每秒0公尺)。 相對濕度為86%。
         </text>
        </time>
-       <time end="2014-09-27T21:00+08:00" start="2014-09-27T18:00+08:00">
+       <time end="2014-10-20T09:00+08:00" start="2014-10-20T06:00+08:00">
         <text>
-         多雲。 降雨機率 0%。 溫度攝氏31度。 悶熱。 東北風 平均風速2至3級(每秒5公尺)。 相對濕度為69%。
+         多雲。 降雨機率 0%。 溫度攝氏23度。 舒適。 東北風 平均風速小於1級(每秒0公尺)。 相對濕度為80%。
         </text>
        </time>
-       <time end="2014-09-28T00:00+08:00" start="2014-09-27T21:00+08:00">
+       <time end="2014-10-20T12:00+08:00" start="2014-10-20T09:00+08:00">
         <text>
-         多雲。 降雨機率 0%。 溫度攝氏29度。 悶熱。 東北風 平均風速2至3級(每秒4公尺)。 相對濕度為79%。
+         晴天。 降雨機率 0%。 溫度攝氏26度。 舒適。 偏北風 平均風速1至2級(每秒2公尺)。 相對濕度為76%。
         </text>
        </time>
-       <time end="2014-09-28T03:00+08:00" start="2014-09-28T00:00+08:00">
+       <time end="2014-10-20T15:00+08:00" start="2014-10-20T12:00+08:00">
         <text>
-         多雲。 降雨機率 0%。 溫度攝氏27度。 舒適。 東北風 平均風速1至2級(每秒3公尺)。 相對濕度為84%。
+         多雲。 降雨機率 0%。 溫度攝氏28度。 舒適。 偏北風 平均風速2至3級(每秒4公尺)。 相對濕度為74%。
         </text>
        </time>
-       <time end="2014-09-28T06:00+08:00" start="2014-09-28T03:00+08:00">
+       <time end="2014-10-20T18:00+08:00" start="2014-10-20T15:00+08:00">
         <text>
-         晴天。 降雨機率 0%。 溫度攝氏26度。 舒適。 東北風 平均風速1至2級(每秒3公尺)。 相對濕度為84%。
+         晴天。 降雨機率 0%。 溫度攝氏28度。 舒適。 東北風 平均風速1至2級(每秒2公尺)。 相對濕度為76%。
         </text>
        </time>
-       <time end="2014-09-28T09:00+08:00" start="2014-09-28T06:00+08:00">
+       <time end="2014-10-20T21:00+08:00" start="2014-10-20T18:00+08:00">
         <text>
-         晴天。 溫度攝氏25度。 舒適。 東北風 平均風速2至3級(每秒5公尺)。 相對濕度為80%。
+         多雲。 降雨機率 0%。 溫度攝氏25度。 舒適。 偏南風 平均風速小於1級(每秒0公尺)。 相對濕度為84%。
         </text>
        </time>
-       <time end="2014-09-28T12:00+08:00" start="2014-09-28T09:00+08:00">
+       <time end="2014-10-21T00:00+08:00" start="2014-10-20T21:00+08:00">
         <text>
-         多雲。 溫度攝氏30度。 悶熱。 偏北風 平均風速3至4級(每秒6公尺)。 相對濕度為73%。
+         晴天。 降雨機率 0%。 溫度攝氏24度。 舒適。 偏南風 平均風速小於1級(每秒0公尺)。 相對濕度為89%。
         </text>
        </time>
-       <time end="2014-09-28T15:00+08:00" start="2014-09-28T12:00+08:00">
+       <time end="2014-10-21T03:00+08:00" start="2014-10-21T00:00+08:00">
         <text>
-         多雲。 溫度攝氏34度。 悶熱。 偏北風 平均風速3至4級(每秒6公尺)。 相對濕度為63%。
+         多雲。 降雨機率 0%。 溫度攝氏23度。 舒適。 偏南風 平均風速小於1級(每秒0公尺)。 相對濕度為87%。
         </text>
        </time>
-       <time end="2014-09-28T18:00+08:00" start="2014-09-28T15:00+08:00">
+       <time end="2014-10-21T06:00+08:00" start="2014-10-21T03:00+08:00">
         <text>
-         多雲。 溫度攝氏33度。 悶熱。 東北風 平均風速3至4級(每秒6公尺)。 相對濕度為61%。
+         晴天。 降雨機率 0%。 溫度攝氏22度。 舒適。 偏東風 平均風速小於1級(每秒0公尺)。 相對濕度為82%。
         </text>
        </time>
       </WeatherDescription>
@@ -1573,439 +1573,403 @@
      </reference-point>
      <weather-elements>
       <T>
-       <time at="2014-09-25T12:00+08:00">
+       <time at="2014-10-18T00:00+08:00">
         <value units="C">
-         32
+         23
         </value>
        </time>
-       <time at="2014-09-25T15:00+08:00">
+       <time at="2014-10-18T03:00+08:00">
         <value units="C">
-         32
+         22
         </value>
        </time>
-       <time at="2014-09-25T18:00+08:00">
+       <time at="2014-10-18T06:00+08:00">
+        <value units="C">
+         21
+        </value>
+       </time>
+       <time at="2014-10-18T09:00+08:00">
+        <value units="C">
+         26
+        </value>
+       </time>
+       <time at="2014-10-18T12:00+08:00">
         <value units="C">
          29
         </value>
        </time>
-       <time at="2014-09-25T21:00+08:00">
+       <time at="2014-10-18T15:00+08:00">
         <value units="C">
-         27
+         28
         </value>
        </time>
-       <time at="2014-09-26T00:00+08:00">
-        <value units="C">
-         26
-        </value>
-       </time>
-       <time at="2014-09-26T03:00+08:00">
-        <value units="C">
-         25
-        </value>
-       </time>
-       <time at="2014-09-26T06:00+08:00">
+       <time at="2014-10-18T18:00+08:00">
         <value units="C">
          24
         </value>
        </time>
-       <time at="2014-09-26T09:00+08:00">
+       <time at="2014-10-18T21:00+08:00">
         <value units="C">
-         30
+         23
         </value>
        </time>
-       <time at="2014-09-26T12:00+08:00">
+       <time at="2014-10-19T00:00+08:00">
         <value units="C">
-         33
+         22
         </value>
        </time>
-       <time at="2014-09-26T15:00+08:00">
+       <time at="2014-10-19T03:00+08:00">
         <value units="C">
-         33
+         21
         </value>
        </time>
-       <time at="2014-09-26T18:00+08:00">
+       <time at="2014-10-19T06:00+08:00">
         <value units="C">
-         30
+         21
         </value>
        </time>
-       <time at="2014-09-26T21:00+08:00">
-        <value units="C">
-         28
-        </value>
-       </time>
-       <time at="2014-09-27T00:00+08:00">
+       <time at="2014-10-19T09:00+08:00">
         <value units="C">
          27
         </value>
        </time>
-       <time at="2014-09-27T03:00+08:00">
-        <value units="C">
-         26
-        </value>
-       </time>
-       <time at="2014-09-27T06:00+08:00">
-        <value units="C">
-         25
-        </value>
-       </time>
-       <time at="2014-09-27T09:00+08:00">
-        <value units="C">
-         31
-        </value>
-       </time>
-       <time at="2014-09-27T12:00+08:00">
-        <value units="C">
-         34
-        </value>
-       </time>
-       <time at="2014-09-27T15:00+08:00">
-        <value units="C">
-         34
-        </value>
-       </time>
-       <time at="2014-09-27T18:00+08:00">
-        <value units="C">
-         31
-        </value>
-       </time>
-       <time at="2014-09-27T21:00+08:00">
-        <value units="C">
-         28
-        </value>
-       </time>
-       <time at="2014-09-28T00:00+08:00">
-        <value units="C">
-         27
-        </value>
-       </time>
-       <time at="2014-09-28T03:00+08:00">
-        <value units="C">
-         26
-        </value>
-       </time>
-       <time at="2014-09-28T06:00+08:00">
-        <value units="C">
-         25
-        </value>
-       </time>
-       <time at="2014-09-28T09:00+08:00">
+       <time at="2014-10-19T12:00+08:00">
         <value units="C">
          30
         </value>
        </time>
-       <time at="2014-09-28T12:00+08:00">
+       <time at="2014-10-19T15:00+08:00">
         <value units="C">
-         34
+         29
         </value>
        </time>
-       <time at="2014-09-28T15:00+08:00">
+       <time at="2014-10-19T18:00+08:00">
         <value units="C">
-         33
+         26
+        </value>
+       </time>
+       <time at="2014-10-19T21:00+08:00">
+        <value units="C">
+         24
+        </value>
+       </time>
+       <time at="2014-10-20T00:00+08:00">
+        <value units="C">
+         24
+        </value>
+       </time>
+       <time at="2014-10-20T03:00+08:00">
+        <value units="C">
+         23
+        </value>
+       </time>
+       <time at="2014-10-20T06:00+08:00">
+        <value units="C">
+         22
+        </value>
+       </time>
+       <time at="2014-10-20T09:00+08:00">
+        <value units="C">
+         26
+        </value>
+       </time>
+       <time at="2014-10-20T12:00+08:00">
+        <value units="C">
+         29
+        </value>
+       </time>
+       <time at="2014-10-20T15:00+08:00">
+        <value units="C">
+         28
+        </value>
+       </time>
+       <time at="2014-10-20T18:00+08:00">
+        <value units="C">
+         25
+        </value>
+       </time>
+       <time at="2014-10-20T21:00+08:00">
+        <value units="C">
+         23
+        </value>
+       </time>
+       <time at="2014-10-21T00:00+08:00">
+        <value units="C">
+         23
+        </value>
+       </time>
+       <time at="2014-10-21T03:00+08:00">
+        <value units="C">
+         22
         </value>
        </time>
       </T>
       <Td>
-       <time at="2014-09-25T12:00+08:00">
+       <time at="2014-10-18T00:00+08:00">
         <value units="C">
-         29.0
+         19.0
         </value>
        </time>
-       <time at="2014-09-25T15:00+08:00">
+       <time at="2014-10-18T03:00+08:00">
         <value units="C">
-         29.0
+         19.0
         </value>
        </time>
-       <time at="2014-09-25T18:00+08:00">
+       <time at="2014-10-18T06:00+08:00">
         <value units="C">
-         25.0
+         17.0
         </value>
        </time>
-       <time at="2014-09-25T21:00+08:00">
+       <time at="2014-10-18T09:00+08:00">
         <value units="C">
-         24.0
+         19.0
         </value>
        </time>
-       <time at="2014-09-26T00:00+08:00">
+       <time at="2014-10-18T12:00+08:00">
         <value units="C">
-         24.0
+         19.0
         </value>
        </time>
-       <time at="2014-09-26T03:00+08:00">
+       <time at="2014-10-18T15:00+08:00">
         <value units="C">
-         24.0
+         19.0
         </value>
        </time>
-       <time at="2014-09-26T06:00+08:00">
+       <time at="2014-10-18T18:00+08:00">
         <value units="C">
-         23.0
+         18.0
         </value>
        </time>
-       <time at="2014-09-26T09:00+08:00">
+       <time at="2014-10-18T21:00+08:00">
         <value units="C">
-         25.0
+         18.0
         </value>
        </time>
-       <time at="2014-09-26T12:00+08:00">
+       <time at="2014-10-19T00:00+08:00">
         <value units="C">
-         25.0
+         19.0
         </value>
        </time>
-       <time at="2014-09-26T15:00+08:00">
+       <time at="2014-10-19T03:00+08:00">
         <value units="C">
-         25.0
+         18.0
         </value>
        </time>
-       <time at="2014-09-26T18:00+08:00">
+       <time at="2014-10-19T06:00+08:00">
         <value units="C">
-         25.0
+         17.0
         </value>
        </time>
-       <time at="2014-09-26T21:00+08:00">
+       <time at="2014-10-19T09:00+08:00">
         <value units="C">
-         25.0
+         20.0
         </value>
        </time>
-       <time at="2014-09-27T00:00+08:00">
-        <value units="C">
-         25.0
-        </value>
-       </time>
-       <time at="2014-09-27T03:00+08:00">
-        <value units="C">
-         24.0
-        </value>
-       </time>
-       <time at="2014-09-27T06:00+08:00">
-        <value units="C">
-         24.0
-        </value>
-       </time>
-       <time at="2014-09-27T09:00+08:00">
-        <value units="C">
-         28.0
-        </value>
-       </time>
-       <time at="2014-09-27T12:00+08:00">
-        <value units="C">
-         27.0
-        </value>
-       </time>
-       <time at="2014-09-27T15:00+08:00">
-        <value units="C">
-         25.0
-        </value>
-       </time>
-       <time at="2014-09-27T18:00+08:00">
-        <value units="C">
-         25.0
-        </value>
-       </time>
-       <time at="2014-09-27T21:00+08:00">
-        <value units="C">
-         25.0
-        </value>
-       </time>
-       <time at="2014-09-28T00:00+08:00">
-        <value units="C">
-         25.0
-        </value>
-       </time>
-       <time at="2014-09-28T03:00+08:00">
-        <value units="C">
-         24.0
-        </value>
-       </time>
-       <time at="2014-09-28T06:00+08:00">
+       <time at="2014-10-19T12:00+08:00">
         <value units="C">
          22.0
         </value>
        </time>
-       <time at="2014-09-28T09:00+08:00">
+       <time at="2014-10-19T15:00+08:00">
         <value units="C">
-         25.0
+         23.0
         </value>
        </time>
-       <time at="2014-09-28T12:00+08:00">
+       <time at="2014-10-19T18:00+08:00">
         <value units="C">
-         26.0
+         22.0
         </value>
        </time>
-       <time at="2014-09-28T15:00+08:00">
+       <time at="2014-10-19T21:00+08:00">
         <value units="C">
-         25.0
+         21.0
+        </value>
+       </time>
+       <time at="2014-10-20T00:00+08:00">
+        <value units="C">
+         21.0
+        </value>
+       </time>
+       <time at="2014-10-20T03:00+08:00">
+        <value units="C">
+         20.0
+        </value>
+       </time>
+       <time at="2014-10-20T06:00+08:00">
+        <value units="C">
+         19.0
+        </value>
+       </time>
+       <time at="2014-10-20T09:00+08:00">
+        <value units="C">
+         21.0
+        </value>
+       </time>
+       <time at="2014-10-20T12:00+08:00">
+        <value units="C">
+         24.0
+        </value>
+       </time>
+       <time at="2014-10-20T15:00+08:00">
+        <value units="C">
+         24.0
+        </value>
+       </time>
+       <time at="2014-10-20T18:00+08:00">
+        <value units="C">
+         22.0
+        </value>
+       </time>
+       <time at="2014-10-20T21:00+08:00">
+        <value units="C">
+         21.0
+        </value>
+       </time>
+       <time at="2014-10-21T00:00+08:00">
+        <value units="C">
+         20.0
+        </value>
+       </time>
+       <time at="2014-10-21T03:00+08:00">
+        <value units="C">
+         19.0
         </value>
        </time>
       </Td>
       <RH>
-       <time at="2014-09-25T12:00+08:00">
-        <value units="%">
-         80
-        </value>
-       </time>
-       <time at="2014-09-25T15:00+08:00">
-        <value units="%">
-         80
-        </value>
-       </time>
-       <time at="2014-09-25T18:00+08:00">
-        <value units="%">
-         74
-        </value>
-       </time>
-       <time at="2014-09-25T21:00+08:00">
+       <time at="2014-10-18T00:00+08:00">
         <value units="%">
          81
         </value>
        </time>
-       <time at="2014-09-26T00:00+08:00">
-        <value units="%">
-         85
-        </value>
-       </time>
-       <time at="2014-09-26T03:00+08:00">
-        <value units="%">
-         88
-        </value>
-       </time>
-       <time at="2014-09-26T06:00+08:00">
-        <value units="%">
-         86
-        </value>
-       </time>
-       <time at="2014-09-26T09:00+08:00">
-        <value units="%">
-         74
-        </value>
-       </time>
-       <time at="2014-09-26T12:00+08:00">
-        <value units="%">
-         65
-        </value>
-       </time>
-       <time at="2014-09-26T15:00+08:00">
-        <value units="%">
-         63
-        </value>
-       </time>
-       <time at="2014-09-26T18:00+08:00">
-        <value units="%">
-         73
-        </value>
-       </time>
-       <time at="2014-09-26T21:00+08:00">
+       <time at="2014-10-18T03:00+08:00">
         <value units="%">
          81
         </value>
        </time>
-       <time at="2014-09-27T00:00+08:00">
+       <time at="2014-10-18T06:00+08:00">
         <value units="%">
-         85
+         79
         </value>
        </time>
-       <time at="2014-09-27T03:00+08:00">
+       <time at="2014-10-18T09:00+08:00">
         <value units="%">
-         87
+         67
         </value>
        </time>
-       <time at="2014-09-27T06:00+08:00">
+       <time at="2014-10-18T12:00+08:00">
         <value units="%">
-         89
+         56
         </value>
        </time>
-       <time at="2014-09-27T09:00+08:00">
+       <time at="2014-10-18T15:00+08:00">
         <value units="%">
-         82
+         58
         </value>
        </time>
-       <time at="2014-09-27T12:00+08:00">
+       <time at="2014-10-18T18:00+08:00">
+        <value units="%">
+         68
+        </value>
+       </time>
+       <time at="2014-10-18T21:00+08:00">
+        <value units="%">
+         76
+        </value>
+       </time>
+       <time at="2014-10-19T00:00+08:00">
+        <value units="%">
+         81
+        </value>
+       </time>
+       <time at="2014-10-19T03:00+08:00">
+        <value units="%">
+         81
+        </value>
+       </time>
+       <time at="2014-10-19T06:00+08:00">
+        <value units="%">
+         78
+        </value>
+       </time>
+       <time at="2014-10-19T09:00+08:00">
         <value units="%">
          66
         </value>
        </time>
-       <time at="2014-09-27T15:00+08:00">
-        <value units="%">
-         60
-        </value>
-       </time>
-       <time at="2014-09-27T18:00+08:00">
-        <value units="%">
-         70
-        </value>
-       </time>
-       <time at="2014-09-27T21:00+08:00">
-        <value units="%">
-         81
-        </value>
-       </time>
-       <time at="2014-09-28T00:00+08:00">
-        <value units="%">
-         85
-        </value>
-       </time>
-       <time at="2014-09-28T03:00+08:00">
-        <value units="%">
-         86
-        </value>
-       </time>
-       <time at="2014-09-28T06:00+08:00">
-        <value units="%">
-         82
-        </value>
-       </time>
-       <time at="2014-09-28T09:00+08:00">
-        <value units="%">
-         74
-        </value>
-       </time>
-       <time at="2014-09-28T12:00+08:00">
+       <time at="2014-10-19T12:00+08:00">
         <value units="%">
          64
         </value>
        </time>
-       <time at="2014-09-28T15:00+08:00">
+       <time at="2014-10-19T15:00+08:00">
         <value units="%">
-         62
+         69
+        </value>
+       </time>
+       <time at="2014-10-19T18:00+08:00">
+        <value units="%">
+         78
+        </value>
+       </time>
+       <time at="2014-10-19T21:00+08:00">
+        <value units="%">
+         85
+        </value>
+       </time>
+       <time at="2014-10-20T00:00+08:00">
+        <value units="%">
+         87
+        </value>
+       </time>
+       <time at="2014-10-20T03:00+08:00">
+        <value units="%">
+         84
+        </value>
+       </time>
+       <time at="2014-10-20T06:00+08:00">
+        <value units="%">
+         79
+        </value>
+       </time>
+       <time at="2014-10-20T09:00+08:00">
+        <value units="%">
+         75
+        </value>
+       </time>
+       <time at="2014-10-20T12:00+08:00">
+        <value units="%">
+         74
+        </value>
+       </time>
+       <time at="2014-10-20T15:00+08:00">
+        <value units="%">
+         77
+        </value>
+       </time>
+       <time at="2014-10-20T18:00+08:00">
+        <value units="%">
+         84
+        </value>
+       </time>
+       <time at="2014-10-20T21:00+08:00">
+        <value units="%">
+         88
+        </value>
+       </time>
+       <time at="2014-10-21T00:00+08:00">
+        <value units="%">
+         85
+        </value>
+       </time>
+       <time at="2014-10-21T03:00+08:00">
+        <value units="%">
+         81
         </value>
        </time>
       </RH>
       <Wind>
-       <time at="2014-09-25T12:00+08:00">
-        <value>
-         <dir units="16">
-          SE
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          4
-         </speed>
-         <speed notes="units:beaufort">
-          3
-         </speed>
-         <dir>
-          東南風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-25T15:00+08:00">
-        <value>
-         <dir units="16">
-          S
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          4
-         </speed>
-         <speed notes="units:beaufort">
-          3
-         </speed>
-         <dir>
-          偏南風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-25T18:00+08:00">
+       <time at="2014-10-18T00:00+08:00">
         <value>
          <dir units="16">
           NE
@@ -2013,17 +1977,71 @@
         </value>
         <text>
          <speed notes="units:m/s">
+          6
+         </speed>
+         <speed notes="units:beaufort">
+          4
+         </speed>
+         <dir>
+          東北風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-18T03:00+08:00">
+        <value>
+         <dir units="16">
+          NE
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          6
+         </speed>
+         <speed notes="units:beaufort">
+          4
+         </speed>
+         <dir>
+          東北風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-18T06:00+08:00">
+        <value>
+         <dir units="16">
+          NE
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          7
+         </speed>
+         <speed notes="units:beaufort">
+          4
+         </speed>
+         <dir>
+          東北風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-18T09:00+08:00">
+        <value>
+         <dir units="16">
+          NE
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          8
+         </speed>
+         <speed notes="units:beaufort">
           5
          </speed>
-         <speed notes="units:beaufort">
-          3
-         </speed>
          <dir>
           東北風
          </dir>
         </text>
        </time>
-       <time at="2014-09-25T21:00+08:00">
+       <time at="2014-10-18T12:00+08:00">
         <value>
          <dir units="16">
           NE
@@ -2031,17 +2049,17 @@
         </value>
         <text>
          <speed notes="units:m/s">
-          4
+          8
          </speed>
          <speed notes="units:beaufort">
-          3
+          5
          </speed>
          <dir>
           東北風
          </dir>
         </text>
        </time>
-       <time at="2014-09-26T00:00+08:00">
+       <time at="2014-10-18T15:00+08:00">
         <value>
          <dir units="16">
           NE
@@ -2049,17 +2067,17 @@
         </value>
         <text>
          <speed notes="units:m/s">
-          4
+          8
          </speed>
          <speed notes="units:beaufort">
-          3
+          5
          </speed>
          <dir>
           東北風
          </dir>
         </text>
        </time>
-       <time at="2014-09-26T03:00+08:00">
+       <time at="2014-10-18T18:00+08:00">
         <value>
          <dir units="16">
           E
@@ -2067,20 +2085,74 @@
         </value>
         <text>
          <speed notes="units:m/s">
-          3
+          7
          </speed>
          <speed notes="units:beaufort">
-          2
+          4
          </speed>
          <dir>
           偏東風
          </dir>
         </text>
        </time>
-       <time at="2014-09-26T06:00+08:00">
+       <time at="2014-10-18T21:00+08:00">
         <value>
          <dir units="16">
-          NE
+          E
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          6
+         </speed>
+         <speed notes="units:beaufort">
+          4
+         </speed>
+         <dir>
+          偏東風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-19T00:00+08:00">
+        <value>
+         <dir units="16">
+          E
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          5
+         </speed>
+         <speed notes="units:beaufort">
+          3
+         </speed>
+         <dir>
+          偏東風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-19T03:00+08:00">
+        <value>
+         <dir units="16">
+          E
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          5
+         </speed>
+         <speed notes="units:beaufort">
+          3
+         </speed>
+         <dir>
+          偏東風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-19T06:00+08:00">
+        <value>
+         <dir units="16">
+          E
          </dir>
         </value>
         <text>
@@ -2091,101 +2163,11 @@
           3
          </speed>
          <dir>
-          東北風
+          偏東風
          </dir>
         </text>
        </time>
-       <time at="2014-09-26T09:00+08:00">
-        <value>
-         <dir units="16">
-          NE
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          6
-         </speed>
-         <speed notes="units:beaufort">
-          4
-         </speed>
-         <dir>
-          東北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-26T12:00+08:00">
-        <value>
-         <dir units="16">
-          NE
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          7
-         </speed>
-         <speed notes="units:beaufort">
-          4
-         </speed>
-         <dir>
-          東北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-26T15:00+08:00">
-        <value>
-         <dir units="16">
-          NE
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          7
-         </speed>
-         <speed notes="units:beaufort">
-          4
-         </speed>
-         <dir>
-          東北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-26T18:00+08:00">
-        <value>
-         <dir units="16">
-          NE
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          7
-         </speed>
-         <speed notes="units:beaufort">
-          4
-         </speed>
-         <dir>
-          東北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-26T21:00+08:00">
-        <value>
-         <dir units="16">
-          NE
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          6
-         </speed>
-         <speed notes="units:beaufort">
-          4
-         </speed>
-         <dir>
-          東北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-27T00:00+08:00">
+       <time at="2014-10-19T09:00+08:00">
         <value>
          <dir units="16">
           NE
@@ -2203,7 +2185,187 @@
          </dir>
         </text>
        </time>
-       <time at="2014-09-27T03:00+08:00">
+       <time at="2014-10-19T12:00+08:00">
+        <value>
+         <dir units="16">
+          N
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          5
+         </speed>
+         <speed notes="units:beaufort">
+          3
+         </speed>
+         <dir>
+          偏北風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-19T15:00+08:00">
+        <value>
+         <dir units="16">
+          N
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          5
+         </speed>
+         <speed notes="units:beaufort">
+          3
+         </speed>
+         <dir>
+          偏北風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-19T18:00+08:00">
+        <value>
+         <dir units="16">
+          E
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          0
+         </speed>
+         <speed notes="units:beaufort">
+          0
+         </speed>
+         <dir>
+          偏東風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-19T21:00+08:00">
+        <value>
+         <dir units="16">
+          SE
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          0
+         </speed>
+         <speed notes="units:beaufort">
+          0
+         </speed>
+         <dir>
+          東南風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-20T00:00+08:00">
+        <value>
+         <dir units="16">
+          E
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          0
+         </speed>
+         <speed notes="units:beaufort">
+          0
+         </speed>
+         <dir>
+          偏東風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-20T03:00+08:00">
+        <value>
+         <dir units="16">
+          E
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          1
+         </speed>
+         <speed notes="units:beaufort">
+          1
+         </speed>
+         <dir>
+          偏東風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-20T06:00+08:00">
+        <value>
+         <dir units="16">
+          NE
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          0
+         </speed>
+         <speed notes="units:beaufort">
+          0
+         </speed>
+         <dir>
+          東北風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-20T09:00+08:00">
+        <value>
+         <dir units="16">
+          N
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          3
+         </speed>
+         <speed notes="units:beaufort">
+          2
+         </speed>
+         <dir>
+          偏北風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-20T12:00+08:00">
+        <value>
+         <dir units="16">
+          N
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          5
+         </speed>
+         <speed notes="units:beaufort">
+          3
+         </speed>
+         <dir>
+          偏北風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-20T15:00+08:00">
+        <value>
+         <dir units="16">
+          NE
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          2
+         </speed>
+         <speed notes="units:beaufort">
+          2
+         </speed>
+         <dir>
+          東北風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-20T18:00+08:00">
         <value>
          <dir units="16">
           S
@@ -2211,17 +2373,17 @@
         </value>
         <text>
          <speed notes="units:m/s">
-          1
+          2
          </speed>
          <speed notes="units:beaufort">
-          1
+          2
          </speed>
          <dir>
           偏南風
          </dir>
         </text>
        </time>
-       <time at="2014-09-27T06:00+08:00">
+       <time at="2014-10-20T21:00+08:00">
         <value>
          <dir units="16">
           SW
@@ -2229,17 +2391,35 @@
         </value>
         <text>
          <speed notes="units:m/s">
-          2
+          1
          </speed>
          <speed notes="units:beaufort">
-          2
+          1
          </speed>
          <dir>
           西南風
          </dir>
         </text>
        </time>
-       <time at="2014-09-27T09:00+08:00">
+       <time at="2014-10-21T00:00+08:00">
+        <value>
+         <dir units="16">
+          SW
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          0
+         </speed>
+         <speed notes="units:beaufort">
+          0
+         </speed>
+         <dir>
+          西南風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-21T03:00+08:00">
         <value>
          <dir units="16">
           NW
@@ -2247,247 +2427,43 @@
         </value>
         <text>
          <speed notes="units:m/s">
-          3
+          0
          </speed>
          <speed notes="units:beaufort">
-          2
+          0
          </speed>
          <dir>
           西北風
          </dir>
         </text>
        </time>
-       <time at="2014-09-27T12:00+08:00">
-        <value>
-         <dir units="16">
-          N
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          4
-         </speed>
-         <speed notes="units:beaufort">
-          3
-         </speed>
-         <dir>
-          偏北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-27T15:00+08:00">
-        <value>
-         <dir units="16">
-          NE
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          5
-         </speed>
-         <speed notes="units:beaufort">
-          3
-         </speed>
-         <dir>
-          東北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-27T18:00+08:00">
-        <value>
-         <dir units="16">
-          NE
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          5
-         </speed>
-         <speed notes="units:beaufort">
-          3
-         </speed>
-         <dir>
-          東北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-27T21:00+08:00">
-        <value>
-         <dir units="16">
-          NE
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          4
-         </speed>
-         <speed notes="units:beaufort">
-          3
-         </speed>
-         <dir>
-          東北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-28T00:00+08:00">
-        <value>
-         <dir units="16">
-          NE
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          3
-         </speed>
-         <speed notes="units:beaufort">
-          2
-         </speed>
-         <dir>
-          東北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-28T03:00+08:00">
-        <value>
-         <dir units="16">
-          NE
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          3
-         </speed>
-         <speed notes="units:beaufort">
-          2
-         </speed>
-         <dir>
-          東北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-28T06:00+08:00">
-        <value>
-         <dir units="16">
-          NE
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          5
-         </speed>
-         <speed notes="units:beaufort">
-          3
-         </speed>
-         <dir>
-          東北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-28T09:00+08:00">
-        <value>
-         <dir units="16">
-          N
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          6
-         </speed>
-         <speed notes="units:beaufort">
-          4
-         </speed>
-         <dir>
-          偏北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-28T12:00+08:00">
-        <value>
-         <dir units="16">
-          N
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          6
-         </speed>
-         <speed notes="units:beaufort">
-          4
-         </speed>
-         <dir>
-          偏北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-28T15:00+08:00">
-        <value>
-         <dir units="16">
-          NE
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          6
-         </speed>
-         <speed notes="units:beaufort">
-          4
-         </speed>
-         <dir>
-          東北風
-         </dir>
-        </text>
-       </time>
       </Wind>
       <CI>
-       <time at="2014-09-25T12:00+08:00">
+       <time at="2014-10-18T00:00+08:00">
         <value>
-         30.4
-        </value>
-        <text>
-         悶熱
-        </text>
-       </time>
-       <time at="2014-09-25T15:00+08:00">
-        <value>
-         30.4
-        </value>
-        <text>
-         悶熱
-        </text>
-       </time>
-       <time at="2014-09-25T18:00+08:00">
-        <value>
-         27.3
-        </value>
-        <text>
-         悶熱
-        </text>
-       </time>
-       <time at="2014-09-25T21:00+08:00">
-        <value>
-         25.8
+         21.9
         </value>
         <text>
          舒適
         </text>
        </time>
-       <time at="2014-09-26T00:00+08:00">
+       <time at="2014-10-18T03:00+08:00">
         <value>
-         25.3
+         21.3
         </value>
         <text>
          舒適
         </text>
        </time>
-       <time at="2014-09-26T03:00+08:00">
+       <time at="2014-10-18T06:00+08:00">
         <value>
-         24.6
+         20.1
         </value>
         <text>
          舒適
         </text>
        </time>
-       <time at="2014-09-26T06:00+08:00">
+       <time at="2014-10-18T09:00+08:00">
         <value>
          23.7
         </value>
@@ -2495,55 +2471,7 @@
          舒適
         </text>
        </time>
-       <time at="2014-09-26T09:00+08:00">
-        <value>
-         27.8
-        </value>
-        <text>
-         悶熱
-        </text>
-       </time>
-       <time at="2014-09-26T12:00+08:00">
-        <value>
-         29.1
-        </value>
-        <text>
-         悶熱
-        </text>
-       </time>
-       <time at="2014-09-26T15:00+08:00">
-        <value>
-         29.1
-        </value>
-        <text>
-         悶熱
-        </text>
-       </time>
-       <time at="2014-09-26T18:00+08:00">
-        <value>
-         27.8
-        </value>
-        <text>
-         悶熱
-        </text>
-       </time>
-       <time at="2014-09-26T21:00+08:00">
-        <value>
-         26.8
-        </value>
-        <text>
-         舒適
-        </text>
-       </time>
-       <time at="2014-09-27T00:00+08:00">
-        <value>
-         26.2
-        </value>
-        <text>
-         舒適
-        </text>
-       </time>
-       <time at="2014-09-27T03:00+08:00">
+       <time at="2014-10-18T12:00+08:00">
         <value>
          25.3
         </value>
@@ -2551,7 +2479,79 @@
          舒適
         </text>
        </time>
-       <time at="2014-09-27T06:00+08:00">
+       <time at="2014-10-18T15:00+08:00">
+        <value>
+         24.8
+        </value>
+        <text>
+         舒適
+        </text>
+       </time>
+       <time at="2014-10-18T18:00+08:00">
+        <value>
+         22.3
+        </value>
+        <text>
+         舒適
+        </text>
+       </time>
+       <time at="2014-10-18T21:00+08:00">
+        <value>
+         21.7
+        </value>
+        <text>
+         舒適
+        </text>
+       </time>
+       <time at="2014-10-19T00:00+08:00">
+        <value>
+         21.3
+        </value>
+        <text>
+         舒適
+        </text>
+       </time>
+       <time at="2014-10-19T03:00+08:00">
+        <value>
+         20.3
+        </value>
+        <text>
+         舒適
+        </text>
+       </time>
+       <time at="2014-10-19T06:00+08:00">
+        <value>
+         20.1
+        </value>
+        <text>
+         舒適
+        </text>
+       </time>
+       <time at="2014-10-19T09:00+08:00">
+        <value>
+         24.5
+        </value>
+        <text>
+         舒適
+        </text>
+       </time>
+       <time at="2014-10-19T12:00+08:00">
+        <value>
+         26.7
+        </value>
+        <text>
+         舒適
+        </text>
+       </time>
+       <time at="2014-10-19T15:00+08:00">
+        <value>
+         26.5
+        </value>
+        <text>
+         舒適
+        </text>
+       </time>
+       <time at="2014-10-19T18:00+08:00">
         <value>
          24.6
         </value>
@@ -2559,63 +2559,63 @@
          舒適
         </text>
        </time>
-       <time at="2014-09-27T09:00+08:00">
+       <time at="2014-10-19T21:00+08:00">
         <value>
-         29.5
-        </value>
-        <text>
-         悶熱
-        </text>
-       </time>
-       <time at="2014-09-27T12:00+08:00">
-        <value>
-         30.4
-        </value>
-        <text>
-         悶熱
-        </text>
-       </time>
-       <time at="2014-09-27T15:00+08:00">
-        <value>
-         29.6
-        </value>
-        <text>
-         悶熱
-        </text>
-       </time>
-       <time at="2014-09-27T18:00+08:00">
-        <value>
-         28.2
-        </value>
-        <text>
-         悶熱
-        </text>
-       </time>
-       <time at="2014-09-27T21:00+08:00">
-        <value>
-         26.8
+         23.1
         </value>
         <text>
          舒適
         </text>
        </time>
-       <time at="2014-09-28T00:00+08:00">
+       <time at="2014-10-20T00:00+08:00">
         <value>
-         26.2
+         23.1
         </value>
         <text>
          舒適
         </text>
        </time>
-       <time at="2014-09-28T03:00+08:00">
+       <time at="2014-10-20T03:00+08:00">
         <value>
-         25.3
+         22.2
         </value>
         <text>
          舒適
         </text>
        </time>
-       <time at="2014-09-28T06:00+08:00">
+       <time at="2014-10-20T06:00+08:00">
+        <value>
+         21.3
+        </value>
+        <text>
+         舒適
+        </text>
+       </time>
+       <time at="2014-10-20T09:00+08:00">
+        <value>
+         24.3
+        </value>
+        <text>
+         舒適
+        </text>
+       </time>
+       <time at="2014-10-20T12:00+08:00">
+        <value>
+         26.9
+        </value>
+        <text>
+         舒適
+        </text>
+       </time>
+       <time at="2014-10-20T15:00+08:00">
+        <value>
+         26.4
+        </value>
+        <text>
+         舒適
+        </text>
+       </time>
+       <time at="2014-10-20T18:00+08:00">
         <value>
          24.0
         </value>
@@ -2623,153 +2623,33 @@
          舒適
         </text>
        </time>
-       <time at="2014-09-28T09:00+08:00">
+       <time at="2014-10-20T21:00+08:00">
         <value>
-         27.8
+         22.4
         </value>
         <text>
-         悶熱
+         舒適
         </text>
        </time>
-       <time at="2014-09-28T12:00+08:00">
+       <time at="2014-10-21T00:00+08:00">
         <value>
-         30.0
+         22.2
         </value>
         <text>
-         悶熱
+         舒適
         </text>
        </time>
-       <time at="2014-09-28T15:00+08:00">
+       <time at="2014-10-21T03:00+08:00">
         <value>
-         29.1
+         21.3
         </value>
         <text>
-         悶熱
+         舒適
         </text>
        </time>
       </CI>
       <Wx>
-       <time end="2014-09-25T15:00+08:00" start="2014-09-25T12:00+08:00">
-        <value>
-         36
-        </value>
-        <text>
-         午後短暫雷陣雨
-        </text>
-       </time>
-       <time end="2014-09-25T18:00+08:00" start="2014-09-25T15:00+08:00">
-        <value>
-         36
-        </value>
-        <text>
-         午後短暫雷陣雨
-        </text>
-       </time>
-       <time end="2014-09-25T21:00+08:00" start="2014-09-25T18:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-26T00:00+08:00" start="2014-09-25T21:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-26T03:00+08:00" start="2014-09-26T00:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-26T06:00+08:00" start="2014-09-26T03:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-26T09:00+08:00" start="2014-09-26T06:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-26T12:00+08:00" start="2014-09-26T09:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-26T15:00+08:00" start="2014-09-26T12:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-26T18:00+08:00" start="2014-09-26T15:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-26T21:00+08:00" start="2014-09-26T18:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-27T00:00+08:00" start="2014-09-26T21:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-27T03:00+08:00" start="2014-09-27T00:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-27T06:00+08:00" start="2014-09-27T03:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-27T09:00+08:00" start="2014-09-27T06:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-27T12:00+08:00" start="2014-09-27T09:00+08:00">
+       <time end="2014-10-18T03:00+08:00" start="2014-10-18T00:00+08:00">
         <value>
          01
         </value>
@@ -2777,7 +2657,7 @@
          晴天
         </text>
        </time>
-       <time end="2014-09-27T15:00+08:00" start="2014-09-27T12:00+08:00">
+       <time end="2014-10-18T06:00+08:00" start="2014-10-18T03:00+08:00">
         <value>
          01
         </value>
@@ -2785,7 +2665,7 @@
          晴天
         </text>
        </time>
-       <time end="2014-09-27T18:00+08:00" start="2014-09-27T15:00+08:00">
+       <time end="2014-10-18T09:00+08:00" start="2014-10-18T06:00+08:00">
         <value>
          01
         </value>
@@ -2793,31 +2673,7 @@
          晴天
         </text>
        </time>
-       <time end="2014-09-27T21:00+08:00" start="2014-09-27T18:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-28T00:00+08:00" start="2014-09-27T21:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-28T03:00+08:00" start="2014-09-28T00:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-28T06:00+08:00" start="2014-09-28T03:00+08:00">
+       <time end="2014-10-18T12:00+08:00" start="2014-10-18T09:00+08:00">
         <value>
          01
         </value>
@@ -2825,7 +2681,7 @@
          晴天
         </text>
        </time>
-       <time end="2014-09-28T09:00+08:00" start="2014-09-28T06:00+08:00">
+       <time end="2014-10-18T15:00+08:00" start="2014-10-18T12:00+08:00">
         <value>
          01
         </value>
@@ -2833,7 +2689,23 @@
          晴天
         </text>
        </time>
-       <time end="2014-09-28T12:00+08:00" start="2014-09-28T09:00+08:00">
+       <time end="2014-10-18T18:00+08:00" start="2014-10-18T15:00+08:00">
+        <value>
+         01
+        </value>
+        <text>
+         晴天
+        </text>
+       </time>
+       <time end="2014-10-18T21:00+08:00" start="2014-10-18T18:00+08:00">
+        <value>
+         01
+        </value>
+        <text>
+         晴天
+        </text>
+       </time>
+       <time end="2014-10-19T00:00+08:00" start="2014-10-18T21:00+08:00">
         <value>
          02
         </value>
@@ -2841,7 +2713,7 @@
          多雲
         </text>
        </time>
-       <time end="2014-09-28T15:00+08:00" start="2014-09-28T12:00+08:00">
+       <time end="2014-10-19T03:00+08:00" start="2014-10-19T00:00+08:00">
         <value>
          02
         </value>
@@ -2849,248 +2721,376 @@
          多雲
         </text>
        </time>
-       <time end="2014-09-28T18:00+08:00" start="2014-09-28T15:00+08:00">
+       <time end="2014-10-19T06:00+08:00" start="2014-10-19T03:00+08:00">
+        <value>
+         01
+        </value>
+        <text>
+         晴天
+        </text>
+       </time>
+       <time end="2014-10-19T09:00+08:00" start="2014-10-19T06:00+08:00">
         <value>
          02
         </value>
         <text>
          多雲
+        </text>
+       </time>
+       <time end="2014-10-19T12:00+08:00" start="2014-10-19T09:00+08:00">
+        <value>
+         01
+        </value>
+        <text>
+         晴天
+        </text>
+       </time>
+       <time end="2014-10-19T15:00+08:00" start="2014-10-19T12:00+08:00">
+        <value>
+         02
+        </value>
+        <text>
+         多雲
+        </text>
+       </time>
+       <time end="2014-10-19T18:00+08:00" start="2014-10-19T15:00+08:00">
+        <value>
+         01
+        </value>
+        <text>
+         晴天
+        </text>
+       </time>
+       <time end="2014-10-19T21:00+08:00" start="2014-10-19T18:00+08:00">
+        <value>
+         01
+        </value>
+        <text>
+         晴天
+        </text>
+       </time>
+       <time end="2014-10-20T00:00+08:00" start="2014-10-19T21:00+08:00">
+        <value>
+         01
+        </value>
+        <text>
+         晴天
+        </text>
+       </time>
+       <time end="2014-10-20T03:00+08:00" start="2014-10-20T00:00+08:00">
+        <value>
+         02
+        </value>
+        <text>
+         多雲
+        </text>
+       </time>
+       <time end="2014-10-20T06:00+08:00" start="2014-10-20T03:00+08:00">
+        <value>
+         01
+        </value>
+        <text>
+         晴天
+        </text>
+       </time>
+       <time end="2014-10-20T09:00+08:00" start="2014-10-20T06:00+08:00">
+        <value>
+         02
+        </value>
+        <text>
+         多雲
+        </text>
+       </time>
+       <time end="2014-10-20T12:00+08:00" start="2014-10-20T09:00+08:00">
+        <value>
+         01
+        </value>
+        <text>
+         晴天
+        </text>
+       </time>
+       <time end="2014-10-20T15:00+08:00" start="2014-10-20T12:00+08:00">
+        <value>
+         02
+        </value>
+        <text>
+         多雲
+        </text>
+       </time>
+       <time end="2014-10-20T18:00+08:00" start="2014-10-20T15:00+08:00">
+        <value>
+         01
+        </value>
+        <text>
+         晴天
+        </text>
+       </time>
+       <time end="2014-10-20T21:00+08:00" start="2014-10-20T18:00+08:00">
+        <value>
+         02
+        </value>
+        <text>
+         多雲
+        </text>
+       </time>
+       <time end="2014-10-21T00:00+08:00" start="2014-10-20T21:00+08:00">
+        <value>
+         01
+        </value>
+        <text>
+         晴天
+        </text>
+       </time>
+       <time end="2014-10-21T03:00+08:00" start="2014-10-21T00:00+08:00">
+        <value>
+         02
+        </value>
+        <text>
+         多雲
+        </text>
+       </time>
+       <time end="2014-10-21T06:00+08:00" start="2014-10-21T03:00+08:00">
+        <value>
+         01
+        </value>
+        <text>
+         晴天
         </text>
        </time>
       </Wx>
       <PoP>
-       <time end="2014-09-25T18:00+08:00" start="2014-09-25T12:00+08:00">
-        <value units="%">
-         30
-        </value>
-       </time>
-       <time end="2014-09-26T06:00+08:00" start="2014-09-25T18:00+08:00">
+       <time end="2014-10-18T06:00+08:00" start="2014-10-18T00:00+08:00">
         <value units="%">
          0
         </value>
        </time>
-       <time end="2014-09-26T18:00+08:00" start="2014-09-26T06:00+08:00">
-        <value units="%">
-         10
-        </value>
-       </time>
-       <time end="2014-09-27T06:00+08:00" start="2014-09-26T18:00+08:00">
+       <time end="2014-10-18T18:00+08:00" start="2014-10-18T06:00+08:00">
         <value units="%">
          0
         </value>
        </time>
-       <time end="2014-09-27T18:00+08:00" start="2014-09-27T06:00+08:00">
-        <value units="%">
-         10
-        </value>
-       </time>
-       <time end="2014-09-28T06:00+08:00" start="2014-09-27T18:00+08:00">
+       <time end="2014-10-19T06:00+08:00" start="2014-10-18T18:00+08:00">
         <value units="%">
          0
         </value>
        </time>
-       <time end="2014-09-28T18:00+08:00" start="2014-09-28T06:00+08:00">
+       <time end="2014-10-19T18:00+08:00" start="2014-10-19T06:00+08:00">
         <value units="%">
-         
+         0
+        </value>
+       </time>
+       <time end="2014-10-20T06:00+08:00" start="2014-10-19T18:00+08:00">
+        <value units="%">
+         0
+        </value>
+       </time>
+       <time end="2014-10-20T18:00+08:00" start="2014-10-20T06:00+08:00">
+        <value units="%">
+         0
+        </value>
+       </time>
+       <time end="2014-10-21T06:00+08:00" start="2014-10-20T18:00+08:00">
+        <value units="%">
+         0
         </value>
        </time>
       </PoP>
       <PoP6h>
-       <time end="2014-09-25T18:00+08:00" start="2014-09-25T12:00+08:00">
-        <value units="%">
-         30
-        </value>
-       </time>
-       <time end="2014-09-26T00:00+08:00" start="2014-09-25T18:00+08:00">
+       <time end="2014-10-18T06:00+08:00" start="2014-10-18T00:00+08:00">
         <value units="%">
          0
         </value>
        </time>
-       <time end="2014-09-26T06:00+08:00" start="2014-09-26T00:00+08:00">
+       <time end="2014-10-18T12:00+08:00" start="2014-10-18T06:00+08:00">
         <value units="%">
          0
         </value>
        </time>
-       <time end="2014-09-26T12:00+08:00" start="2014-09-26T06:00+08:00">
-        <value units="%">
-         10
-        </value>
-       </time>
-       <time end="2014-09-26T18:00+08:00" start="2014-09-26T12:00+08:00">
-        <value units="%">
-         10
-        </value>
-       </time>
-       <time end="2014-09-27T00:00+08:00" start="2014-09-26T18:00+08:00">
+       <time end="2014-10-18T18:00+08:00" start="2014-10-18T12:00+08:00">
         <value units="%">
          0
         </value>
        </time>
-       <time end="2014-09-27T06:00+08:00" start="2014-09-27T00:00+08:00">
+       <time end="2014-10-19T00:00+08:00" start="2014-10-18T18:00+08:00">
         <value units="%">
          0
         </value>
        </time>
-       <time end="2014-09-27T12:00+08:00" start="2014-09-27T06:00+08:00">
-        <value units="%">
-         10
-        </value>
-       </time>
-       <time end="2014-09-27T18:00+08:00" start="2014-09-27T12:00+08:00">
+       <time end="2014-10-19T06:00+08:00" start="2014-10-19T00:00+08:00">
         <value units="%">
          0
         </value>
        </time>
-       <time end="2014-09-28T00:00+08:00" start="2014-09-27T18:00+08:00">
+       <time end="2014-10-19T12:00+08:00" start="2014-10-19T06:00+08:00">
         <value units="%">
          0
         </value>
        </time>
-       <time end="2014-09-28T06:00+08:00" start="2014-09-28T00:00+08:00">
+       <time end="2014-10-19T18:00+08:00" start="2014-10-19T12:00+08:00">
         <value units="%">
          0
         </value>
        </time>
-       <time end="2014-09-28T12:00+08:00" start="2014-09-28T06:00+08:00">
+       <time end="2014-10-20T00:00+08:00" start="2014-10-19T18:00+08:00">
         <value units="%">
-         
+         0
         </value>
        </time>
-       <time end="2014-09-28T18:00+08:00" start="2014-09-28T12:00+08:00">
+       <time end="2014-10-20T06:00+08:00" start="2014-10-20T00:00+08:00">
         <value units="%">
-         
+         0
+        </value>
+       </time>
+       <time end="2014-10-20T12:00+08:00" start="2014-10-20T06:00+08:00">
+        <value units="%">
+         0
+        </value>
+       </time>
+       <time end="2014-10-20T18:00+08:00" start="2014-10-20T12:00+08:00">
+        <value units="%">
+         0
+        </value>
+       </time>
+       <time end="2014-10-21T00:00+08:00" start="2014-10-20T18:00+08:00">
+        <value units="%">
+         0
+        </value>
+       </time>
+       <time end="2014-10-21T06:00+08:00" start="2014-10-21T00:00+08:00">
+        <value units="%">
+         0
         </value>
        </time>
       </PoP6h>
       <WeatherDescription>
-       <time end="2014-09-25T15:00+08:00" start="2014-09-25T12:00+08:00">
+       <time end="2014-10-18T03:00+08:00" start="2014-10-18T00:00+08:00">
         <text>
-         午後短暫雷陣雨。 降雨機率 30%。 溫度攝氏32度。 悶熱。 東南風 平均風速2至3級(每秒4公尺)。 相對濕度為80%。
+         晴天。 降雨機率 0%。 溫度攝氏23度。 舒適。 東北風 平均風速3至4級(每秒6公尺)。 相對濕度為81%。
         </text>
        </time>
-       <time end="2014-09-25T18:00+08:00" start="2014-09-25T15:00+08:00">
+       <time end="2014-10-18T06:00+08:00" start="2014-10-18T03:00+08:00">
         <text>
-         午後短暫雷陣雨。 降雨機率 30%。 溫度攝氏32度。 悶熱。 偏南風 平均風速2至3級(每秒4公尺)。 相對濕度為80%。
+         晴天。 降雨機率 0%。 溫度攝氏22度。 舒適。 東北風 平均風速3至4級(每秒6公尺)。 相對濕度為81%。
         </text>
        </time>
-       <time end="2014-09-25T21:00+08:00" start="2014-09-25T18:00+08:00">
+       <time end="2014-10-18T09:00+08:00" start="2014-10-18T06:00+08:00">
         <text>
-         多雲。 降雨機率 0%。 溫度攝氏29度。 悶熱。 東北風 平均風速2至3級(每秒5公尺)。 相對濕度為74%。
+         晴天。 降雨機率 0%。 溫度攝氏21度。 舒適。 東北風 平均風速3至4級(每秒7公尺)。 相對濕度為79%。
         </text>
        </time>
-       <time end="2014-09-26T00:00+08:00" start="2014-09-25T21:00+08:00">
+       <time end="2014-10-18T12:00+08:00" start="2014-10-18T09:00+08:00">
         <text>
-         多雲。 降雨機率 0%。 溫度攝氏27度。 舒適。 東北風 平均風速2至3級(每秒4公尺)。 相對濕度為81%。
+         晴天。 降雨機率 0%。 溫度攝氏26度。 舒適。 東北風 平均風速4至5級(每秒8公尺)。 相對濕度為67%。
         </text>
        </time>
-       <time end="2014-09-26T03:00+08:00" start="2014-09-26T00:00+08:00">
+       <time end="2014-10-18T15:00+08:00" start="2014-10-18T12:00+08:00">
         <text>
-         多雲。 降雨機率 0%。 溫度攝氏26度。 舒適。 東北風 平均風速2至3級(每秒4公尺)。 相對濕度為85%。
+         晴天。 降雨機率 0%。 溫度攝氏29度。 舒適。 東北風 平均風速4至5級(每秒8公尺)。 相對濕度為56%。
         </text>
        </time>
-       <time end="2014-09-26T06:00+08:00" start="2014-09-26T03:00+08:00">
+       <time end="2014-10-18T18:00+08:00" start="2014-10-18T15:00+08:00">
         <text>
-         多雲。 降雨機率 0%。 溫度攝氏25度。 舒適。 偏東風 平均風速1至2級(每秒3公尺)。 相對濕度為88%。
+         晴天。 降雨機率 0%。 溫度攝氏28度。 舒適。 東北風 平均風速4至5級(每秒8公尺)。 相對濕度為58%。
         </text>
        </time>
-       <time end="2014-09-26T09:00+08:00" start="2014-09-26T06:00+08:00">
+       <time end="2014-10-18T21:00+08:00" start="2014-10-18T18:00+08:00">
         <text>
-         多雲。 降雨機率 10%。 溫度攝氏24度。 舒適。 東北風 平均風速2至3級(每秒4公尺)。 相對濕度為86%。
+         晴天。 降雨機率 0%。 溫度攝氏24度。 舒適。 偏東風 平均風速3至4級(每秒7公尺)。 相對濕度為68%。
         </text>
        </time>
-       <time end="2014-09-26T12:00+08:00" start="2014-09-26T09:00+08:00">
+       <time end="2014-10-19T00:00+08:00" start="2014-10-18T21:00+08:00">
         <text>
-         多雲。 降雨機率 10%。 溫度攝氏30度。 悶熱。 東北風 平均風速3至4級(每秒6公尺)。 相對濕度為74%。
+         多雲。 降雨機率 0%。 溫度攝氏23度。 舒適。 偏東風 平均風速3至4級(每秒6公尺)。 相對濕度為76%。
         </text>
        </time>
-       <time end="2014-09-26T15:00+08:00" start="2014-09-26T12:00+08:00">
+       <time end="2014-10-19T03:00+08:00" start="2014-10-19T00:00+08:00">
         <text>
-         多雲。 降雨機率 10%。 溫度攝氏33度。 悶熱。 東北風 平均風速3至4級(每秒7公尺)。 相對濕度為65%。
+         多雲。 降雨機率 0%。 溫度攝氏22度。 舒適。 偏東風 平均風速2至3級(每秒5公尺)。 相對濕度為81%。
         </text>
        </time>
-       <time end="2014-09-26T18:00+08:00" start="2014-09-26T15:00+08:00">
+       <time end="2014-10-19T06:00+08:00" start="2014-10-19T03:00+08:00">
         <text>
-         多雲。 降雨機率 10%。 溫度攝氏33度。 悶熱。 東北風 平均風速3至4級(每秒7公尺)。 相對濕度為63%。
+         晴天。 降雨機率 0%。 溫度攝氏21度。 舒適。 偏東風 平均風速2至3級(每秒5公尺)。 相對濕度為81%。
         </text>
        </time>
-       <time end="2014-09-26T21:00+08:00" start="2014-09-26T18:00+08:00">
+       <time end="2014-10-19T09:00+08:00" start="2014-10-19T06:00+08:00">
         <text>
-         多雲。 降雨機率 0%。 溫度攝氏30度。 悶熱。 東北風 平均風速3至4級(每秒7公尺)。 相對濕度為73%。
+         多雲。 降雨機率 0%。 溫度攝氏21度。 舒適。 偏東風 平均風速2至3級(每秒4公尺)。 相對濕度為78%。
         </text>
        </time>
-       <time end="2014-09-27T00:00+08:00" start="2014-09-26T21:00+08:00">
+       <time end="2014-10-19T12:00+08:00" start="2014-10-19T09:00+08:00">
         <text>
-         多雲。 降雨機率 0%。 溫度攝氏28度。 舒適。 東北風 平均風速3至4級(每秒6公尺)。 相對濕度為81%。
+         晴天。 降雨機率 0%。 溫度攝氏27度。 舒適。 東北風 平均風速2至3級(每秒5公尺)。 相對濕度為66%。
         </text>
        </time>
-       <time end="2014-09-27T03:00+08:00" start="2014-09-27T00:00+08:00">
+       <time end="2014-10-19T15:00+08:00" start="2014-10-19T12:00+08:00">
         <text>
-         多雲。 降雨機率 0%。 溫度攝氏27度。 舒適。 東北風 平均風速2至3級(每秒5公尺)。 相對濕度為85%。
+         多雲。 降雨機率 0%。 溫度攝氏30度。 舒適。 偏北風 平均風速2至3級(每秒5公尺)。 相對濕度為64%。
         </text>
        </time>
-       <time end="2014-09-27T06:00+08:00" start="2014-09-27T03:00+08:00">
+       <time end="2014-10-19T18:00+08:00" start="2014-10-19T15:00+08:00">
         <text>
-         多雲。 降雨機率 0%。 溫度攝氏26度。 舒適。 偏南風 平均風速0至1級(每秒1公尺)。 相對濕度為87%。
+         晴天。 降雨機率 0%。 溫度攝氏29度。 舒適。 偏北風 平均風速2至3級(每秒5公尺)。 相對濕度為69%。
         </text>
        </time>
-       <time end="2014-09-27T09:00+08:00" start="2014-09-27T06:00+08:00">
+       <time end="2014-10-19T21:00+08:00" start="2014-10-19T18:00+08:00">
         <text>
-         多雲。 降雨機率 10%。 溫度攝氏25度。 舒適。 西南風 平均風速1至2級(每秒2公尺)。 相對濕度為89%。
+         晴天。 降雨機率 0%。 溫度攝氏26度。 舒適。 偏東風 平均風速小於1級(每秒0公尺)。 相對濕度為78%。
         </text>
        </time>
-       <time end="2014-09-27T12:00+08:00" start="2014-09-27T09:00+08:00">
+       <time end="2014-10-20T00:00+08:00" start="2014-10-19T21:00+08:00">
         <text>
-         晴天。 降雨機率 10%。 溫度攝氏31度。 悶熱。 西北風 平均風速1至2級(每秒3公尺)。 相對濕度為82%。
+         晴天。 降雨機率 0%。 溫度攝氏24度。 舒適。 東南風 平均風速小於1級(每秒0公尺)。 相對濕度為85%。
         </text>
        </time>
-       <time end="2014-09-27T15:00+08:00" start="2014-09-27T12:00+08:00">
+       <time end="2014-10-20T03:00+08:00" start="2014-10-20T00:00+08:00">
         <text>
-         晴天。 降雨機率 0%。 溫度攝氏34度。 悶熱。 偏北風 平均風速2至3級(每秒4公尺)。 相對濕度為66%。
+         多雲。 降雨機率 0%。 溫度攝氏24度。 舒適。 偏東風 平均風速小於1級(每秒0公尺)。 相對濕度為87%。
         </text>
        </time>
-       <time end="2014-09-27T18:00+08:00" start="2014-09-27T15:00+08:00">
+       <time end="2014-10-20T06:00+08:00" start="2014-10-20T03:00+08:00">
         <text>
-         晴天。 降雨機率 0%。 溫度攝氏34度。 悶熱。 東北風 平均風速2至3級(每秒5公尺)。 相對濕度為60%。
+         晴天。 降雨機率 0%。 溫度攝氏23度。 舒適。 偏東風 平均風速0至1級(每秒1公尺)。 相對濕度為84%。
         </text>
        </time>
-       <time end="2014-09-27T21:00+08:00" start="2014-09-27T18:00+08:00">
+       <time end="2014-10-20T09:00+08:00" start="2014-10-20T06:00+08:00">
         <text>
-         多雲。 降雨機率 0%。 溫度攝氏31度。 悶熱。 東北風 平均風速2至3級(每秒5公尺)。 相對濕度為70%。
+         多雲。 降雨機率 0%。 溫度攝氏22度。 舒適。 東北風 平均風速小於1級(每秒0公尺)。 相對濕度為79%。
         </text>
        </time>
-       <time end="2014-09-28T00:00+08:00" start="2014-09-27T21:00+08:00">
+       <time end="2014-10-20T12:00+08:00" start="2014-10-20T09:00+08:00">
         <text>
-         多雲。 降雨機率 0%。 溫度攝氏28度。 舒適。 東北風 平均風速2至3級(每秒4公尺)。 相對濕度為81%。
+         晴天。 降雨機率 0%。 溫度攝氏26度。 舒適。 偏北風 平均風速1至2級(每秒3公尺)。 相對濕度為75%。
         </text>
        </time>
-       <time end="2014-09-28T03:00+08:00" start="2014-09-28T00:00+08:00">
+       <time end="2014-10-20T15:00+08:00" start="2014-10-20T12:00+08:00">
         <text>
-         多雲。 降雨機率 0%。 溫度攝氏27度。 舒適。 東北風 平均風速1至2級(每秒3公尺)。 相對濕度為85%。
+         多雲。 降雨機率 0%。 溫度攝氏29度。 舒適。 偏北風 平均風速2至3級(每秒5公尺)。 相對濕度為74%。
         </text>
        </time>
-       <time end="2014-09-28T06:00+08:00" start="2014-09-28T03:00+08:00">
+       <time end="2014-10-20T18:00+08:00" start="2014-10-20T15:00+08:00">
         <text>
-         晴天。 降雨機率 0%。 溫度攝氏26度。 舒適。 東北風 平均風速1至2級(每秒3公尺)。 相對濕度為86%。
+         晴天。 降雨機率 0%。 溫度攝氏28度。 舒適。 東北風 平均風速1至2級(每秒2公尺)。 相對濕度為77%。
         </text>
        </time>
-       <time end="2014-09-28T09:00+08:00" start="2014-09-28T06:00+08:00">
+       <time end="2014-10-20T21:00+08:00" start="2014-10-20T18:00+08:00">
         <text>
-         晴天。 溫度攝氏25度。 舒適。 東北風 平均風速2至3級(每秒5公尺)。 相對濕度為82%。
+         多雲。 降雨機率 0%。 溫度攝氏25度。 舒適。 偏南風 平均風速1至2級(每秒2公尺)。 相對濕度為84%。
         </text>
        </time>
-       <time end="2014-09-28T12:00+08:00" start="2014-09-28T09:00+08:00">
+       <time end="2014-10-21T00:00+08:00" start="2014-10-20T21:00+08:00">
         <text>
-         多雲。 溫度攝氏30度。 悶熱。 偏北風 平均風速3至4級(每秒6公尺)。 相對濕度為74%。
+         晴天。 降雨機率 0%。 溫度攝氏23度。 舒適。 西南風 平均風速0至1級(每秒1公尺)。 相對濕度為88%。
         </text>
        </time>
-       <time end="2014-09-28T15:00+08:00" start="2014-09-28T12:00+08:00">
+       <time end="2014-10-21T03:00+08:00" start="2014-10-21T00:00+08:00">
         <text>
-         多雲。 溫度攝氏34度。 悶熱。 偏北風 平均風速3至4級(每秒6公尺)。 相對濕度為64%。
+         多雲。 降雨機率 0%。 溫度攝氏23度。 舒適。 西南風 平均風速小於1級(每秒0公尺)。 相對濕度為85%。
         </text>
        </time>
-       <time end="2014-09-28T18:00+08:00" start="2014-09-28T15:00+08:00">
+       <time end="2014-10-21T06:00+08:00" start="2014-10-21T03:00+08:00">
         <text>
-         多雲。 溫度攝氏33度。 悶熱。 東北風 平均風速3至4級(每秒6公尺)。 相對濕度為62%。
+         晴天。 降雨機率 0%。 溫度攝氏22度。 舒適。 西北風 平均風速小於1級(每秒0公尺)。 相對濕度為81%。
         </text>
        </time>
       </WeatherDescription>
@@ -3110,529 +3110,403 @@
      </reference-point>
      <weather-elements>
       <T>
-       <time at="2014-09-25T12:00+08:00">
+       <time at="2014-10-18T00:00+08:00">
         <value units="C">
-         32
+         23
         </value>
        </time>
-       <time at="2014-09-25T15:00+08:00">
+       <time at="2014-10-18T03:00+08:00">
         <value units="C">
-         32
+         22
         </value>
        </time>
-       <time at="2014-09-25T18:00+08:00">
+       <time at="2014-10-18T06:00+08:00">
+        <value units="C">
+         22
+        </value>
+       </time>
+       <time at="2014-10-18T09:00+08:00">
+        <value units="C">
+         26
+        </value>
+       </time>
+       <time at="2014-10-18T12:00+08:00">
         <value units="C">
          29
         </value>
        </time>
-       <time at="2014-09-25T21:00+08:00">
+       <time at="2014-10-18T15:00+08:00">
         <value units="C">
          28
         </value>
        </time>
-       <time at="2014-09-26T00:00+08:00">
-        <value units="C">
-         27
-        </value>
-       </time>
-       <time at="2014-09-26T03:00+08:00">
-        <value units="C">
-         26
-        </value>
-       </time>
-       <time at="2014-09-26T06:00+08:00">
+       <time at="2014-10-18T18:00+08:00">
         <value units="C">
          25
         </value>
        </time>
-       <time at="2014-09-26T09:00+08:00">
+       <time at="2014-10-18T21:00+08:00">
+        <value units="C">
+         23
+        </value>
+       </time>
+       <time at="2014-10-19T00:00+08:00">
+        <value units="C">
+         23
+        </value>
+       </time>
+       <time at="2014-10-19T03:00+08:00">
+        <value units="C">
+         22
+        </value>
+       </time>
+       <time at="2014-10-19T06:00+08:00">
+        <value units="C">
+         21
+        </value>
+       </time>
+       <time at="2014-10-19T09:00+08:00">
+        <value units="C">
+         27
+        </value>
+       </time>
+       <time at="2014-10-19T12:00+08:00">
         <value units="C">
          30
         </value>
        </time>
-       <time at="2014-09-26T12:00+08:00">
+       <time at="2014-10-19T15:00+08:00">
         <value units="C">
-         33
+         29
         </value>
        </time>
-       <time at="2014-09-26T15:00+08:00">
+       <time at="2014-10-19T18:00+08:00">
         <value units="C">
-         33
+         26
         </value>
        </time>
-       <time at="2014-09-26T18:00+08:00">
+       <time at="2014-10-19T21:00+08:00">
         <value units="C">
-         30
+         24
         </value>
        </time>
-       <time at="2014-09-26T21:00+08:00">
+       <time at="2014-10-20T00:00+08:00">
+        <value units="C">
+         24
+        </value>
+       </time>
+       <time at="2014-10-20T03:00+08:00">
+        <value units="C">
+         23
+        </value>
+       </time>
+       <time at="2014-10-20T06:00+08:00">
+        <value units="C">
+         23
+        </value>
+       </time>
+       <time at="2014-10-20T09:00+08:00">
+        <value units="C">
+         26
+        </value>
+       </time>
+       <time at="2014-10-20T12:00+08:00">
         <value units="C">
          28
         </value>
        </time>
-       <time at="2014-09-27T00:00+08:00">
-        <value units="C">
-         27
-        </value>
-       </time>
-       <time at="2014-09-27T03:00+08:00">
-        <value units="C">
-         26
-        </value>
-       </time>
-       <time at="2014-09-27T06:00+08:00">
-        <value units="C">
-         25
-        </value>
-       </time>
-       <time at="2014-09-27T09:00+08:00">
-        <value units="C">
-         30
-        </value>
-       </time>
-       <time at="2014-09-27T12:00+08:00">
-        <value units="C">
-         34
-        </value>
-       </time>
-       <time at="2014-09-27T15:00+08:00">
-        <value units="C">
-         34
-        </value>
-       </time>
-       <time at="2014-09-27T18:00+08:00">
-        <value units="C">
-         31
-        </value>
-       </time>
-       <time at="2014-09-27T21:00+08:00">
+       <time at="2014-10-20T15:00+08:00">
         <value units="C">
          28
         </value>
        </time>
-       <time at="2014-09-28T00:00+08:00">
-        <value units="C">
-         27
-        </value>
-       </time>
-       <time at="2014-09-28T03:00+08:00">
-        <value units="C">
-         26
-        </value>
-       </time>
-       <time at="2014-09-28T06:00+08:00">
+       <time at="2014-10-20T18:00+08:00">
         <value units="C">
          25
         </value>
        </time>
-       <time at="2014-09-28T09:00+08:00">
+       <time at="2014-10-20T21:00+08:00">
         <value units="C">
-         30
+         24
         </value>
        </time>
-       <time at="2014-09-28T12:00+08:00">
+       <time at="2014-10-21T00:00+08:00">
         <value units="C">
-         34
+         23
         </value>
        </time>
-       <time at="2014-09-28T15:00+08:00">
+       <time at="2014-10-21T03:00+08:00">
         <value units="C">
-         33
+         23
         </value>
        </time>
       </T>
       <Td>
-       <time at="2014-09-25T12:00+08:00">
+       <time at="2014-10-18T00:00+08:00">
         <value units="C">
-         29.0
+         19.0
         </value>
        </time>
-       <time at="2014-09-25T15:00+08:00">
+       <time at="2014-10-18T03:00+08:00">
         <value units="C">
-         29.0
+         19.0
         </value>
        </time>
-       <time at="2014-09-25T18:00+08:00">
+       <time at="2014-10-18T06:00+08:00">
         <value units="C">
-         24.0
+         18.0
         </value>
        </time>
-       <time at="2014-09-25T21:00+08:00">
+       <time at="2014-10-18T09:00+08:00">
         <value units="C">
-         24.0
+         19.0
         </value>
        </time>
-       <time at="2014-09-26T00:00+08:00">
+       <time at="2014-10-18T12:00+08:00">
         <value units="C">
-         24.0
+         19.0
         </value>
        </time>
-       <time at="2014-09-26T03:00+08:00">
+       <time at="2014-10-18T15:00+08:00">
         <value units="C">
-         24.0
+         19.0
         </value>
        </time>
-       <time at="2014-09-26T06:00+08:00">
+       <time at="2014-10-18T18:00+08:00">
         <value units="C">
-         23.0
+         18.0
         </value>
        </time>
-       <time at="2014-09-26T09:00+08:00">
+       <time at="2014-10-18T21:00+08:00">
         <value units="C">
-         25.0
+         19.0
         </value>
        </time>
-       <time at="2014-09-26T12:00+08:00">
+       <time at="2014-10-19T00:00+08:00">
         <value units="C">
-         25.0
+         20.0
         </value>
        </time>
-       <time at="2014-09-26T15:00+08:00">
+       <time at="2014-10-19T03:00+08:00">
         <value units="C">
-         24.0
+         19.0
         </value>
        </time>
-       <time at="2014-09-26T18:00+08:00">
+       <time at="2014-10-19T06:00+08:00">
         <value units="C">
-         24.0
+         17.0
         </value>
        </time>
-       <time at="2014-09-26T21:00+08:00">
+       <time at="2014-10-19T09:00+08:00">
         <value units="C">
-         24.0
+         20.0
         </value>
        </time>
-       <time at="2014-09-27T00:00+08:00">
+       <time at="2014-10-19T12:00+08:00">
         <value units="C">
-         24.0
+         21.0
         </value>
        </time>
-       <time at="2014-09-27T03:00+08:00">
-        <value units="C">
-         24.0
-        </value>
-       </time>
-       <time at="2014-09-27T06:00+08:00">
-        <value units="C">
-         24.0
-        </value>
-       </time>
-       <time at="2014-09-27T09:00+08:00">
-        <value units="C">
-         27.0
-        </value>
-       </time>
-       <time at="2014-09-27T12:00+08:00">
-        <value units="C">
-         26.0
-        </value>
-       </time>
-       <time at="2014-09-27T15:00+08:00">
-        <value units="C">
-         25.0
-        </value>
-       </time>
-       <time at="2014-09-27T18:00+08:00">
-        <value units="C">
-         24.0
-        </value>
-       </time>
-       <time at="2014-09-27T21:00+08:00">
-        <value units="C">
-         25.0
-        </value>
-       </time>
-       <time at="2014-09-28T00:00+08:00">
-        <value units="C">
-         25.0
-        </value>
-       </time>
-       <time at="2014-09-28T03:00+08:00">
-        <value units="C">
-         24.0
-        </value>
-       </time>
-       <time at="2014-09-28T06:00+08:00">
+       <time at="2014-10-19T15:00+08:00">
         <value units="C">
          22.0
         </value>
        </time>
-       <time at="2014-09-28T09:00+08:00">
+       <time at="2014-10-19T18:00+08:00">
         <value units="C">
-         25.0
+         21.0
         </value>
        </time>
-       <time at="2014-09-28T12:00+08:00">
+       <time at="2014-10-19T21:00+08:00">
         <value units="C">
-         26.0
+         21.0
         </value>
        </time>
-       <time at="2014-09-28T15:00+08:00">
+       <time at="2014-10-20T00:00+08:00">
         <value units="C">
-         25.0
+         21.0
+        </value>
+       </time>
+       <time at="2014-10-20T03:00+08:00">
+        <value units="C">
+         20.0
+        </value>
+       </time>
+       <time at="2014-10-20T06:00+08:00">
+        <value units="C">
+         19.0
+        </value>
+       </time>
+       <time at="2014-10-20T09:00+08:00">
+        <value units="C">
+         21.0
+        </value>
+       </time>
+       <time at="2014-10-20T12:00+08:00">
+        <value units="C">
+         23.0
+        </value>
+       </time>
+       <time at="2014-10-20T15:00+08:00">
+        <value units="C">
+         23.0
+        </value>
+       </time>
+       <time at="2014-10-20T18:00+08:00">
+        <value units="C">
+         22.0
+        </value>
+       </time>
+       <time at="2014-10-20T21:00+08:00">
+        <value units="C">
+         22.0
+        </value>
+       </time>
+       <time at="2014-10-21T00:00+08:00">
+        <value units="C">
+         21.0
+        </value>
+       </time>
+       <time at="2014-10-21T03:00+08:00">
+        <value units="C">
+         19.0
         </value>
        </time>
       </Td>
       <RH>
-       <time at="2014-09-25T12:00+08:00">
+       <time at="2014-10-18T00:00+08:00">
         <value units="%">
          80
         </value>
        </time>
-       <time at="2014-09-25T15:00+08:00">
+       <time at="2014-10-18T03:00+08:00">
         <value units="%">
-         80
+         81
         </value>
        </time>
-       <time at="2014-09-25T18:00+08:00">
-        <value units="%">
-         71
-        </value>
-       </time>
-       <time at="2014-09-25T21:00+08:00">
+       <time at="2014-10-18T06:00+08:00">
         <value units="%">
          79
         </value>
        </time>
-       <time at="2014-09-26T00:00+08:00">
+       <time at="2014-10-18T09:00+08:00">
         <value units="%">
-         83
+         67
         </value>
        </time>
-       <time at="2014-09-26T03:00+08:00">
+       <time at="2014-10-18T12:00+08:00">
         <value units="%">
-         85
+         55
         </value>
        </time>
-       <time at="2014-09-26T06:00+08:00">
-        <value units="%">
-         84
-        </value>
-       </time>
-       <time at="2014-09-26T09:00+08:00">
-        <value units="%">
-         73
-        </value>
-       </time>
-       <time at="2014-09-26T12:00+08:00">
-        <value units="%">
-         63
-        </value>
-       </time>
-       <time at="2014-09-26T15:00+08:00">
-        <value units="%">
-         61
-        </value>
-       </time>
-       <time at="2014-09-26T18:00+08:00">
-        <value units="%">
-         70
-        </value>
-       </time>
-       <time at="2014-09-26T21:00+08:00">
-        <value units="%">
-         78
-        </value>
-       </time>
-       <time at="2014-09-27T00:00+08:00">
-        <value units="%">
-         82
-        </value>
-       </time>
-       <time at="2014-09-27T03:00+08:00">
-        <value units="%">
-         84
-        </value>
-       </time>
-       <time at="2014-09-27T06:00+08:00">
-        <value units="%">
-         85
-        </value>
-       </time>
-       <time at="2014-09-27T09:00+08:00">
-        <value units="%">
-         79
-        </value>
-       </time>
-       <time at="2014-09-27T12:00+08:00">
-        <value units="%">
-         64
-        </value>
-       </time>
-       <time at="2014-09-27T15:00+08:00">
+       <time at="2014-10-18T15:00+08:00">
         <value units="%">
          58
         </value>
        </time>
-       <time at="2014-09-27T18:00+08:00">
+       <time at="2014-10-18T18:00+08:00">
         <value units="%">
          68
         </value>
        </time>
-       <time at="2014-09-27T21:00+08:00">
+       <time at="2014-10-18T21:00+08:00">
         <value units="%">
-         78
+         77
         </value>
        </time>
-       <time at="2014-09-28T00:00+08:00">
+       <time at="2014-10-19T00:00+08:00">
         <value units="%">
          83
         </value>
        </time>
-       <time at="2014-09-28T03:00+08:00">
+       <time at="2014-10-19T03:00+08:00">
+        <value units="%">
+         83
+        </value>
+       </time>
+       <time at="2014-10-19T06:00+08:00">
+        <value units="%">
+         78
+        </value>
+       </time>
+       <time at="2014-10-19T09:00+08:00">
+        <value units="%">
+         65
+        </value>
+       </time>
+       <time at="2014-10-19T12:00+08:00">
+        <value units="%">
+         61
+        </value>
+       </time>
+       <time at="2014-10-19T15:00+08:00">
+        <value units="%">
+         66
+        </value>
+       </time>
+       <time at="2014-10-19T18:00+08:00">
+        <value units="%">
+         76
+        </value>
+       </time>
+       <time at="2014-10-19T21:00+08:00">
         <value units="%">
          84
         </value>
        </time>
-       <time at="2014-09-28T06:00+08:00">
+       <time at="2014-10-20T00:00+08:00">
         <value units="%">
-         79
+         87
         </value>
        </time>
-       <time at="2014-09-28T09:00+08:00">
+       <time at="2014-10-20T03:00+08:00">
+        <value units="%">
+         85
+        </value>
+       </time>
+       <time at="2014-10-20T06:00+08:00">
+        <value units="%">
+         80
+        </value>
+       </time>
+       <time at="2014-10-20T09:00+08:00">
+        <value units="%">
+         75
+        </value>
+       </time>
+       <time at="2014-10-20T12:00+08:00">
         <value units="%">
          72
         </value>
        </time>
-       <time at="2014-09-28T12:00+08:00">
+       <time at="2014-10-20T15:00+08:00">
         <value units="%">
-         62
+         74
         </value>
        </time>
-       <time at="2014-09-28T15:00+08:00">
+       <time at="2014-10-20T18:00+08:00">
         <value units="%">
-         60
+         84
+        </value>
+       </time>
+       <time at="2014-10-20T21:00+08:00">
+        <value units="%">
+         89
+        </value>
+       </time>
+       <time at="2014-10-21T00:00+08:00">
+        <value units="%">
+         87
+        </value>
+       </time>
+       <time at="2014-10-21T03:00+08:00">
+        <value units="%">
+         82
         </value>
        </time>
       </RH>
       <Wind>
-       <time at="2014-09-25T12:00+08:00">
-        <value>
-         <dir units="16">
-          S
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          3
-         </speed>
-         <speed notes="units:beaufort">
-          2
-         </speed>
-         <dir>
-          偏南風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-25T15:00+08:00">
-        <value>
-         <dir units="16">
-          SW
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          4
-         </speed>
-         <speed notes="units:beaufort">
-          3
-         </speed>
-         <dir>
-          西南風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-25T18:00+08:00">
-        <value>
-         <dir units="16">
-          E
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          4
-         </speed>
-         <speed notes="units:beaufort">
-          3
-         </speed>
-         <dir>
-          偏東風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-25T21:00+08:00">
-        <value>
-         <dir units="16">
-          NE
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          4
-         </speed>
-         <speed notes="units:beaufort">
-          3
-         </speed>
-         <dir>
-          東北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-26T00:00+08:00">
-        <value>
-         <dir units="16">
-          E
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          3
-         </speed>
-         <speed notes="units:beaufort">
-          2
-         </speed>
-         <dir>
-          偏東風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-26T03:00+08:00">
-        <value>
-         <dir units="16">
-          E
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          3
-         </speed>
-         <speed notes="units:beaufort">
-          2
-         </speed>
-         <dir>
-          偏東風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-26T06:00+08:00">
-        <value>
-         <dir units="16">
-          NE
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          3
-         </speed>
-         <speed notes="units:beaufort">
-          2
-         </speed>
-         <dir>
-          東北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-26T09:00+08:00">
+       <time at="2014-10-18T00:00+08:00">
         <value>
          <dir units="16">
           NE
@@ -3650,61 +3524,7 @@
          </dir>
         </text>
        </time>
-       <time at="2014-09-26T12:00+08:00">
-        <value>
-         <dir units="16">
-          NE
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          7
-         </speed>
-         <speed notes="units:beaufort">
-          4
-         </speed>
-         <dir>
-          東北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-26T15:00+08:00">
-        <value>
-         <dir units="16">
-          NE
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          7
-         </speed>
-         <speed notes="units:beaufort">
-          4
-         </speed>
-         <dir>
-          東北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-26T18:00+08:00">
-        <value>
-         <dir units="16">
-          NE
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          7
-         </speed>
-         <speed notes="units:beaufort">
-          4
-         </speed>
-         <dir>
-          東北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-26T21:00+08:00">
+       <time at="2014-10-18T03:00+08:00">
         <value>
          <dir units="16">
           NE
@@ -3722,7 +3542,169 @@
          </dir>
         </text>
        </time>
-       <time at="2014-09-27T00:00+08:00">
+       <time at="2014-10-18T06:00+08:00">
+        <value>
+         <dir units="16">
+          NE
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          7
+         </speed>
+         <speed notes="units:beaufort">
+          4
+         </speed>
+         <dir>
+          東北風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-18T09:00+08:00">
+        <value>
+         <dir units="16">
+          NE
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          8
+         </speed>
+         <speed notes="units:beaufort">
+          5
+         </speed>
+         <dir>
+          東北風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-18T12:00+08:00">
+        <value>
+         <dir units="16">
+          NE
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          8
+         </speed>
+         <speed notes="units:beaufort">
+          5
+         </speed>
+         <dir>
+          東北風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-18T15:00+08:00">
+        <value>
+         <dir units="16">
+          NE
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          8
+         </speed>
+         <speed notes="units:beaufort">
+          5
+         </speed>
+         <dir>
+          東北風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-18T18:00+08:00">
+        <value>
+         <dir units="16">
+          E
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          7
+         </speed>
+         <speed notes="units:beaufort">
+          4
+         </speed>
+         <dir>
+          偏東風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-18T21:00+08:00">
+        <value>
+         <dir units="16">
+          E
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          6
+         </speed>
+         <speed notes="units:beaufort">
+          4
+         </speed>
+         <dir>
+          偏東風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-19T00:00+08:00">
+        <value>
+         <dir units="16">
+          E
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          5
+         </speed>
+         <speed notes="units:beaufort">
+          3
+         </speed>
+         <dir>
+          偏東風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-19T03:00+08:00">
+        <value>
+         <dir units="16">
+          E
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          5
+         </speed>
+         <speed notes="units:beaufort">
+          3
+         </speed>
+         <dir>
+          偏東風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-19T06:00+08:00">
+        <value>
+         <dir units="16">
+          E
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          4
+         </speed>
+         <speed notes="units:beaufort">
+          3
+         </speed>
+         <dir>
+          偏東風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-19T09:00+08:00">
         <value>
          <dir units="16">
           NE
@@ -3740,61 +3722,7 @@
          </dir>
         </text>
        </time>
-       <time at="2014-09-27T03:00+08:00">
-        <value>
-         <dir units="16">
-          S
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          1
-         </speed>
-         <speed notes="units:beaufort">
-          1
-         </speed>
-         <dir>
-          偏南風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-27T06:00+08:00">
-        <value>
-         <dir units="16">
-          SW
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          2
-         </speed>
-         <speed notes="units:beaufort">
-          2
-         </speed>
-         <dir>
-          西南風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-27T09:00+08:00">
-        <value>
-         <dir units="16">
-          NW
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          3
-         </speed>
-         <speed notes="units:beaufort">
-          2
-         </speed>
-         <dir>
-          西北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-27T12:00+08:00">
+       <time at="2014-10-19T12:00+08:00">
         <value>
          <dir units="16">
           N
@@ -3802,7 +3730,7 @@
         </value>
         <text>
          <speed notes="units:m/s">
-          4
+          5
          </speed>
          <speed notes="units:beaufort">
           3
@@ -3812,97 +3740,7 @@
          </dir>
         </text>
        </time>
-       <time at="2014-09-27T15:00+08:00">
-        <value>
-         <dir units="16">
-          NE
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          4
-         </speed>
-         <speed notes="units:beaufort">
-          3
-         </speed>
-         <dir>
-          東北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-27T18:00+08:00">
-        <value>
-         <dir units="16">
-          NE
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          4
-         </speed>
-         <speed notes="units:beaufort">
-          3
-         </speed>
-         <dir>
-          東北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-27T21:00+08:00">
-        <value>
-         <dir units="16">
-          NE
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          4
-         </speed>
-         <speed notes="units:beaufort">
-          3
-         </speed>
-         <dir>
-          東北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-28T00:00+08:00">
-        <value>
-         <dir units="16">
-          NE
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          3
-         </speed>
-         <speed notes="units:beaufort">
-          2
-         </speed>
-         <dir>
-          東北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-28T03:00+08:00">
-        <value>
-         <dir units="16">
-          NE
-         </dir>
-        </value>
-        <text>
-         <speed notes="units:m/s">
-          2
-         </speed>
-         <speed notes="units:beaufort">
-          2
-         </speed>
-         <dir>
-          東北風
-         </dir>
-        </text>
-       </time>
-       <time at="2014-09-28T06:00+08:00">
+       <time at="2014-10-19T15:00+08:00">
         <value>
          <dir units="16">
           NE
@@ -3920,43 +3758,79 @@
          </dir>
         </text>
        </time>
-       <time at="2014-09-28T09:00+08:00">
+       <time at="2014-10-19T18:00+08:00">
         <value>
          <dir units="16">
-          N
+          SE
          </dir>
         </value>
         <text>
          <speed notes="units:m/s">
-          6
+          0
          </speed>
          <speed notes="units:beaufort">
-          4
+          0
          </speed>
          <dir>
-          偏北風
+          東南風
          </dir>
         </text>
        </time>
-       <time at="2014-09-28T12:00+08:00">
+       <time at="2014-10-19T21:00+08:00">
         <value>
          <dir units="16">
-          N
+          SE
          </dir>
         </value>
         <text>
          <speed notes="units:m/s">
-          6
+          0
          </speed>
          <speed notes="units:beaufort">
-          4
+          0
          </speed>
          <dir>
-          偏北風
+          東南風
          </dir>
         </text>
        </time>
-       <time at="2014-09-28T15:00+08:00">
+       <time at="2014-10-20T00:00+08:00">
+        <value>
+         <dir units="16">
+          E
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          0
+         </speed>
+         <speed notes="units:beaufort">
+          0
+         </speed>
+         <dir>
+          偏東風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-20T03:00+08:00">
+        <value>
+         <dir units="16">
+          E
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          0
+         </speed>
+         <speed notes="units:beaufort">
+          0
+         </speed>
+         <dir>
+          偏東風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-20T06:00+08:00">
         <value>
          <dir units="16">
           NE
@@ -3964,59 +3838,177 @@
         </value>
         <text>
          <speed notes="units:m/s">
-          6
+          0
          </speed>
          <speed notes="units:beaufort">
-          4
+          0
          </speed>
          <dir>
           東北風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-20T09:00+08:00">
+        <value>
+         <dir units="16">
+          N
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          2
+         </speed>
+         <speed notes="units:beaufort">
+          2
+         </speed>
+         <dir>
+          偏北風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-20T12:00+08:00">
+        <value>
+         <dir units="16">
+          N
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          4
+         </speed>
+         <speed notes="units:beaufort">
+          3
+         </speed>
+         <dir>
+          偏北風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-20T15:00+08:00">
+        <value>
+         <dir units="16">
+          E
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          0
+         </speed>
+         <speed notes="units:beaufort">
+          0
+         </speed>
+         <dir>
+          偏東風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-20T18:00+08:00">
+        <value>
+         <dir units="16">
+          S
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          0
+         </speed>
+         <speed notes="units:beaufort">
+          0
+         </speed>
+         <dir>
+          偏南風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-20T21:00+08:00">
+        <value>
+         <dir units="16">
+          S
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          0
+         </speed>
+         <speed notes="units:beaufort">
+          0
+         </speed>
+         <dir>
+          偏南風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-21T00:00+08:00">
+        <value>
+         <dir units="16">
+          S
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          0
+         </speed>
+         <speed notes="units:beaufort">
+          0
+         </speed>
+         <dir>
+          偏南風
+         </dir>
+        </text>
+       </time>
+       <time at="2014-10-21T03:00+08:00">
+        <value>
+         <dir units="16">
+          E
+         </dir>
+        </value>
+        <text>
+         <speed notes="units:m/s">
+          0
+         </speed>
+         <speed notes="units:beaufort">
+          0
+         </speed>
+         <dir>
+          偏東風
          </dir>
         </text>
        </time>
       </Wind>
       <CI>
-       <time at="2014-09-25T12:00+08:00">
+       <time at="2014-10-18T00:00+08:00">
         <value>
-         30.4
-        </value>
-        <text>
-         悶熱
-        </text>
-       </time>
-       <time at="2014-09-25T15:00+08:00">
-        <value>
-         30.4
-        </value>
-        <text>
-         悶熱
-        </text>
-       </time>
-       <time at="2014-09-25T18:00+08:00">
-        <value>
-         26.9
+         21.9
         </value>
         <text>
          舒適
         </text>
        </time>
-       <time at="2014-09-25T21:00+08:00">
+       <time at="2014-10-18T03:00+08:00">
         <value>
-         26.4
+         21.3
         </value>
         <text>
          舒適
         </text>
        </time>
-       <time at="2014-09-26T00:00+08:00">
+       <time at="2014-10-18T06:00+08:00">
         <value>
-         25.8
+         21.0
         </value>
         <text>
          舒適
         </text>
        </time>
-       <time at="2014-09-26T03:00+08:00">
+       <time at="2014-10-18T09:00+08:00">
+        <value>
+         23.7
+        </value>
+        <text>
+         舒適
+        </text>
+       </time>
+       <time at="2014-10-18T12:00+08:00">
         <value>
          25.3
         </value>
@@ -4024,47 +4016,63 @@
          舒適
         </text>
        </time>
-       <time at="2014-09-26T06:00+08:00">
+       <time at="2014-10-18T15:00+08:00">
         <value>
-         24.3
+         24.8
         </value>
         <text>
          舒適
         </text>
        </time>
-       <time at="2014-09-26T09:00+08:00">
+       <time at="2014-10-18T18:00+08:00">
         <value>
-         27.8
+         22.9
         </value>
         <text>
-         悶熱
+         舒適
         </text>
        </time>
-       <time at="2014-09-26T12:00+08:00">
+       <time at="2014-10-18T21:00+08:00">
         <value>
-         29.1
+         21.9
         </value>
         <text>
-         悶熱
+         舒適
         </text>
        </time>
-       <time at="2014-09-26T15:00+08:00">
+       <time at="2014-10-19T00:00+08:00">
         <value>
-         28.7
+         22.2
         </value>
         <text>
-         悶熱
+         舒適
         </text>
        </time>
-       <time at="2014-09-26T18:00+08:00">
+       <time at="2014-10-19T03:00+08:00">
         <value>
-         27.4
+         21.3
         </value>
         <text>
-         悶熱
+         舒適
         </text>
        </time>
-       <time at="2014-09-26T21:00+08:00">
+       <time at="2014-10-19T06:00+08:00">
+        <value>
+         20.1
+        </value>
+        <text>
+         舒適
+        </text>
+       </time>
+       <time at="2014-10-19T09:00+08:00">
+        <value>
+         24.5
+        </value>
+        <text>
+         舒適
+        </text>
+       </time>
+       <time at="2014-10-19T12:00+08:00">
         <value>
          26.4
         </value>
@@ -4072,71 +4080,7 @@
          舒適
         </text>
        </time>
-       <time at="2014-09-27T00:00+08:00">
-        <value>
-         25.8
-        </value>
-        <text>
-         舒適
-        </text>
-       </time>
-       <time at="2014-09-27T03:00+08:00">
-        <value>
-         25.3
-        </value>
-        <text>
-         舒適
-        </text>
-       </time>
-       <time at="2014-09-27T06:00+08:00">
-        <value>
-         24.6
-        </value>
-        <text>
-         舒適
-        </text>
-       </time>
-       <time at="2014-09-27T09:00+08:00">
-        <value>
-         28.6
-        </value>
-        <text>
-         悶熱
-        </text>
-       </time>
-       <time at="2014-09-27T12:00+08:00">
-        <value>
-         30.0
-        </value>
-        <text>
-         悶熱
-        </text>
-       </time>
-       <time at="2014-09-27T15:00+08:00">
-        <value>
-         29.6
-        </value>
-        <text>
-         悶熱
-        </text>
-       </time>
-       <time at="2014-09-27T18:00+08:00">
-        <value>
-         27.9
-        </value>
-        <text>
-         悶熱
-        </text>
-       </time>
-       <time at="2014-09-27T21:00+08:00">
-        <value>
-         26.8
-        </value>
-        <text>
-         舒適
-        </text>
-       </time>
-       <time at="2014-09-28T00:00+08:00">
+       <time at="2014-10-19T15:00+08:00">
         <value>
          26.2
         </value>
@@ -4144,15 +4088,71 @@
          舒適
         </text>
        </time>
-       <time at="2014-09-28T03:00+08:00">
+       <time at="2014-10-19T18:00+08:00">
         <value>
-         25.3
+         24.3
         </value>
         <text>
          舒適
         </text>
        </time>
-       <time at="2014-09-28T06:00+08:00">
+       <time at="2014-10-19T21:00+08:00">
+        <value>
+         23.1
+        </value>
+        <text>
+         舒適
+        </text>
+       </time>
+       <time at="2014-10-20T00:00+08:00">
+        <value>
+         23.1
+        </value>
+        <text>
+         舒適
+        </text>
+       </time>
+       <time at="2014-10-20T03:00+08:00">
+        <value>
+         22.2
+        </value>
+        <text>
+         舒適
+        </text>
+       </time>
+       <time at="2014-10-20T06:00+08:00">
+        <value>
+         21.9
+        </value>
+        <text>
+         舒適
+        </text>
+       </time>
+       <time at="2014-10-20T09:00+08:00">
+        <value>
+         24.3
+        </value>
+        <text>
+         舒適
+        </text>
+       </time>
+       <time at="2014-10-20T12:00+08:00">
+        <value>
+         26.0
+        </value>
+        <text>
+         舒適
+        </text>
+       </time>
+       <time at="2014-10-20T15:00+08:00">
+        <value>
+         26.0
+        </value>
+        <text>
+         舒適
+        </text>
+       </time>
+       <time at="2014-10-20T18:00+08:00">
         <value>
          24.0
         </value>
@@ -4160,81 +4160,33 @@
          舒適
         </text>
        </time>
-       <time at="2014-09-28T09:00+08:00">
+       <time at="2014-10-20T21:00+08:00">
         <value>
-         27.8
+         23.4
         </value>
         <text>
-         悶熱
+         舒適
         </text>
        </time>
-       <time at="2014-09-28T12:00+08:00">
+       <time at="2014-10-21T00:00+08:00">
         <value>
-         30.0
+         22.4
         </value>
         <text>
-         悶熱
+         舒適
         </text>
        </time>
-       <time at="2014-09-28T15:00+08:00">
+       <time at="2014-10-21T03:00+08:00">
         <value>
-         29.1
+         21.9
         </value>
         <text>
-         悶熱
+         舒適
         </text>
        </time>
       </CI>
       <Wx>
-       <time end="2014-09-25T15:00+08:00" start="2014-09-25T12:00+08:00">
-        <value>
-         36
-        </value>
-        <text>
-         午後短暫雷陣雨
-        </text>
-       </time>
-       <time end="2014-09-25T18:00+08:00" start="2014-09-25T15:00+08:00">
-        <value>
-         36
-        </value>
-        <text>
-         午後短暫雷陣雨
-        </text>
-       </time>
-       <time end="2014-09-25T21:00+08:00" start="2014-09-25T18:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-26T00:00+08:00" start="2014-09-25T21:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-26T03:00+08:00" start="2014-09-26T00:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-26T06:00+08:00" start="2014-09-26T03:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-26T09:00+08:00" start="2014-09-26T06:00+08:00">
+       <time end="2014-10-18T03:00+08:00" start="2014-10-18T00:00+08:00">
         <value>
          01
         </value>
@@ -4242,71 +4194,7 @@
          晴天
         </text>
        </time>
-       <time end="2014-09-26T12:00+08:00" start="2014-09-26T09:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-26T15:00+08:00" start="2014-09-26T12:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-26T18:00+08:00" start="2014-09-26T15:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-26T21:00+08:00" start="2014-09-26T18:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-27T00:00+08:00" start="2014-09-26T21:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-27T03:00+08:00" start="2014-09-27T00:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-27T06:00+08:00" start="2014-09-27T03:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-27T09:00+08:00" start="2014-09-27T06:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-27T12:00+08:00" start="2014-09-27T09:00+08:00">
+       <time end="2014-10-18T06:00+08:00" start="2014-10-18T03:00+08:00">
         <value>
          01
         </value>
@@ -4314,7 +4202,7 @@
          晴天
         </text>
        </time>
-       <time end="2014-09-27T15:00+08:00" start="2014-09-27T12:00+08:00">
+       <time end="2014-10-18T09:00+08:00" start="2014-10-18T06:00+08:00">
         <value>
          01
         </value>
@@ -4322,7 +4210,7 @@
          晴天
         </text>
        </time>
-       <time end="2014-09-27T18:00+08:00" start="2014-09-27T15:00+08:00">
+       <time end="2014-10-18T12:00+08:00" start="2014-10-18T09:00+08:00">
         <value>
          01
         </value>
@@ -4330,31 +4218,7 @@
          晴天
         </text>
        </time>
-       <time end="2014-09-27T21:00+08:00" start="2014-09-27T18:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-28T00:00+08:00" start="2014-09-27T21:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-28T03:00+08:00" start="2014-09-28T00:00+08:00">
-        <value>
-         02
-        </value>
-        <text>
-         多雲
-        </text>
-       </time>
-       <time end="2014-09-28T06:00+08:00" start="2014-09-28T03:00+08:00">
+       <time end="2014-10-18T15:00+08:00" start="2014-10-18T12:00+08:00">
         <value>
          01
         </value>
@@ -4362,7 +4226,7 @@
          晴天
         </text>
        </time>
-       <time end="2014-09-28T09:00+08:00" start="2014-09-28T06:00+08:00">
+       <time end="2014-10-18T18:00+08:00" start="2014-10-18T15:00+08:00">
         <value>
          01
         </value>
@@ -4370,7 +4234,15 @@
          晴天
         </text>
        </time>
-       <time end="2014-09-28T12:00+08:00" start="2014-09-28T09:00+08:00">
+       <time end="2014-10-18T21:00+08:00" start="2014-10-18T18:00+08:00">
+        <value>
+         01
+        </value>
+        <text>
+         晴天
+        </text>
+       </time>
+       <time end="2014-10-19T00:00+08:00" start="2014-10-18T21:00+08:00">
         <value>
          02
         </value>
@@ -4378,7 +4250,7 @@
          多雲
         </text>
        </time>
-       <time end="2014-09-28T15:00+08:00" start="2014-09-28T12:00+08:00">
+       <time end="2014-10-19T03:00+08:00" start="2014-10-19T00:00+08:00">
         <value>
          02
         </value>
@@ -4386,248 +4258,376 @@
          多雲
         </text>
        </time>
-       <time end="2014-09-28T18:00+08:00" start="2014-09-28T15:00+08:00">
+       <time end="2014-10-19T06:00+08:00" start="2014-10-19T03:00+08:00">
+        <value>
+         01
+        </value>
+        <text>
+         晴天
+        </text>
+       </time>
+       <time end="2014-10-19T09:00+08:00" start="2014-10-19T06:00+08:00">
         <value>
          02
         </value>
         <text>
          多雲
+        </text>
+       </time>
+       <time end="2014-10-19T12:00+08:00" start="2014-10-19T09:00+08:00">
+        <value>
+         01
+        </value>
+        <text>
+         晴天
+        </text>
+       </time>
+       <time end="2014-10-19T15:00+08:00" start="2014-10-19T12:00+08:00">
+        <value>
+         02
+        </value>
+        <text>
+         多雲
+        </text>
+       </time>
+       <time end="2014-10-19T18:00+08:00" start="2014-10-19T15:00+08:00">
+        <value>
+         01
+        </value>
+        <text>
+         晴天
+        </text>
+       </time>
+       <time end="2014-10-19T21:00+08:00" start="2014-10-19T18:00+08:00">
+        <value>
+         01
+        </value>
+        <text>
+         晴天
+        </text>
+       </time>
+       <time end="2014-10-20T00:00+08:00" start="2014-10-19T21:00+08:00">
+        <value>
+         01
+        </value>
+        <text>
+         晴天
+        </text>
+       </time>
+       <time end="2014-10-20T03:00+08:00" start="2014-10-20T00:00+08:00">
+        <value>
+         02
+        </value>
+        <text>
+         多雲
+        </text>
+       </time>
+       <time end="2014-10-20T06:00+08:00" start="2014-10-20T03:00+08:00">
+        <value>
+         01
+        </value>
+        <text>
+         晴天
+        </text>
+       </time>
+       <time end="2014-10-20T09:00+08:00" start="2014-10-20T06:00+08:00">
+        <value>
+         02
+        </value>
+        <text>
+         多雲
+        </text>
+       </time>
+       <time end="2014-10-20T12:00+08:00" start="2014-10-20T09:00+08:00">
+        <value>
+         01
+        </value>
+        <text>
+         晴天
+        </text>
+       </time>
+       <time end="2014-10-20T15:00+08:00" start="2014-10-20T12:00+08:00">
+        <value>
+         02
+        </value>
+        <text>
+         多雲
+        </text>
+       </time>
+       <time end="2014-10-20T18:00+08:00" start="2014-10-20T15:00+08:00">
+        <value>
+         01
+        </value>
+        <text>
+         晴天
+        </text>
+       </time>
+       <time end="2014-10-20T21:00+08:00" start="2014-10-20T18:00+08:00">
+        <value>
+         02
+        </value>
+        <text>
+         多雲
+        </text>
+       </time>
+       <time end="2014-10-21T00:00+08:00" start="2014-10-20T21:00+08:00">
+        <value>
+         01
+        </value>
+        <text>
+         晴天
+        </text>
+       </time>
+       <time end="2014-10-21T03:00+08:00" start="2014-10-21T00:00+08:00">
+        <value>
+         02
+        </value>
+        <text>
+         多雲
+        </text>
+       </time>
+       <time end="2014-10-21T06:00+08:00" start="2014-10-21T03:00+08:00">
+        <value>
+         01
+        </value>
+        <text>
+         晴天
         </text>
        </time>
       </Wx>
       <PoP>
-       <time end="2014-09-25T18:00+08:00" start="2014-09-25T12:00+08:00">
-        <value units="%">
-         30
-        </value>
-       </time>
-       <time end="2014-09-26T06:00+08:00" start="2014-09-25T18:00+08:00">
+       <time end="2014-10-18T06:00+08:00" start="2014-10-18T00:00+08:00">
         <value units="%">
          0
         </value>
        </time>
-       <time end="2014-09-26T18:00+08:00" start="2014-09-26T06:00+08:00">
-        <value units="%">
-         10
-        </value>
-       </time>
-       <time end="2014-09-27T06:00+08:00" start="2014-09-26T18:00+08:00">
+       <time end="2014-10-18T18:00+08:00" start="2014-10-18T06:00+08:00">
         <value units="%">
          0
         </value>
        </time>
-       <time end="2014-09-27T18:00+08:00" start="2014-09-27T06:00+08:00">
-        <value units="%">
-         10
-        </value>
-       </time>
-       <time end="2014-09-28T06:00+08:00" start="2014-09-27T18:00+08:00">
+       <time end="2014-10-19T06:00+08:00" start="2014-10-18T18:00+08:00">
         <value units="%">
          0
         </value>
        </time>
-       <time end="2014-09-28T18:00+08:00" start="2014-09-28T06:00+08:00">
+       <time end="2014-10-19T18:00+08:00" start="2014-10-19T06:00+08:00">
         <value units="%">
-         
+         0
+        </value>
+       </time>
+       <time end="2014-10-20T06:00+08:00" start="2014-10-19T18:00+08:00">
+        <value units="%">
+         0
+        </value>
+       </time>
+       <time end="2014-10-20T18:00+08:00" start="2014-10-20T06:00+08:00">
+        <value units="%">
+         0
+        </value>
+       </time>
+       <time end="2014-10-21T06:00+08:00" start="2014-10-20T18:00+08:00">
+        <value units="%">
+         0
         </value>
        </time>
       </PoP>
       <PoP6h>
-       <time end="2014-09-25T18:00+08:00" start="2014-09-25T12:00+08:00">
-        <value units="%">
-         30
-        </value>
-       </time>
-       <time end="2014-09-26T00:00+08:00" start="2014-09-25T18:00+08:00">
+       <time end="2014-10-18T06:00+08:00" start="2014-10-18T00:00+08:00">
         <value units="%">
          0
         </value>
        </time>
-       <time end="2014-09-26T06:00+08:00" start="2014-09-26T00:00+08:00">
+       <time end="2014-10-18T12:00+08:00" start="2014-10-18T06:00+08:00">
         <value units="%">
          0
         </value>
        </time>
-       <time end="2014-09-26T12:00+08:00" start="2014-09-26T06:00+08:00">
-        <value units="%">
-         10
-        </value>
-       </time>
-       <time end="2014-09-26T18:00+08:00" start="2014-09-26T12:00+08:00">
-        <value units="%">
-         10
-        </value>
-       </time>
-       <time end="2014-09-27T00:00+08:00" start="2014-09-26T18:00+08:00">
+       <time end="2014-10-18T18:00+08:00" start="2014-10-18T12:00+08:00">
         <value units="%">
          0
         </value>
        </time>
-       <time end="2014-09-27T06:00+08:00" start="2014-09-27T00:00+08:00">
+       <time end="2014-10-19T00:00+08:00" start="2014-10-18T18:00+08:00">
         <value units="%">
          0
         </value>
        </time>
-       <time end="2014-09-27T12:00+08:00" start="2014-09-27T06:00+08:00">
-        <value units="%">
-         10
-        </value>
-       </time>
-       <time end="2014-09-27T18:00+08:00" start="2014-09-27T12:00+08:00">
+       <time end="2014-10-19T06:00+08:00" start="2014-10-19T00:00+08:00">
         <value units="%">
          0
         </value>
        </time>
-       <time end="2014-09-28T00:00+08:00" start="2014-09-27T18:00+08:00">
+       <time end="2014-10-19T12:00+08:00" start="2014-10-19T06:00+08:00">
         <value units="%">
          0
         </value>
        </time>
-       <time end="2014-09-28T06:00+08:00" start="2014-09-28T00:00+08:00">
+       <time end="2014-10-19T18:00+08:00" start="2014-10-19T12:00+08:00">
         <value units="%">
          0
         </value>
        </time>
-       <time end="2014-09-28T12:00+08:00" start="2014-09-28T06:00+08:00">
+       <time end="2014-10-20T00:00+08:00" start="2014-10-19T18:00+08:00">
         <value units="%">
-         
+         0
         </value>
        </time>
-       <time end="2014-09-28T18:00+08:00" start="2014-09-28T12:00+08:00">
+       <time end="2014-10-20T06:00+08:00" start="2014-10-20T00:00+08:00">
         <value units="%">
-         
+         0
+        </value>
+       </time>
+       <time end="2014-10-20T12:00+08:00" start="2014-10-20T06:00+08:00">
+        <value units="%">
+         0
+        </value>
+       </time>
+       <time end="2014-10-20T18:00+08:00" start="2014-10-20T12:00+08:00">
+        <value units="%">
+         0
+        </value>
+       </time>
+       <time end="2014-10-21T00:00+08:00" start="2014-10-20T18:00+08:00">
+        <value units="%">
+         0
+        </value>
+       </time>
+       <time end="2014-10-21T06:00+08:00" start="2014-10-21T00:00+08:00">
+        <value units="%">
+         0
         </value>
        </time>
       </PoP6h>
       <WeatherDescription>
-       <time end="2014-09-25T15:00+08:00" start="2014-09-25T12:00+08:00">
+       <time end="2014-10-18T03:00+08:00" start="2014-10-18T00:00+08:00">
         <text>
-         午後短暫雷陣雨。 降雨機率 30%。 溫度攝氏32度。 悶熱。 偏南風 平均風速1至2級(每秒3公尺)。 相對濕度為80%。
+         晴天。 降雨機率 0%。 溫度攝氏23度。 舒適。 東北風 平均風速3至4級(每秒6公尺)。 相對濕度為80%。
         </text>
        </time>
-       <time end="2014-09-25T18:00+08:00" start="2014-09-25T15:00+08:00">
+       <time end="2014-10-18T06:00+08:00" start="2014-10-18T03:00+08:00">
         <text>
-         午後短暫雷陣雨。 降雨機率 30%。 溫度攝氏32度。 悶熱。 西南風 平均風速2至3級(每秒4公尺)。 相對濕度為80%。
+         晴天。 降雨機率 0%。 溫度攝氏22度。 舒適。 東北風 平均風速3至4級(每秒6公尺)。 相對濕度為81%。
         </text>
        </time>
-       <time end="2014-09-25T21:00+08:00" start="2014-09-25T18:00+08:00">
+       <time end="2014-10-18T09:00+08:00" start="2014-10-18T06:00+08:00">
         <text>
-         多雲。 降雨機率 0%。 溫度攝氏29度。 舒適。 偏東風 平均風速2至3級(每秒4公尺)。 相對濕度為71%。
+         晴天。 降雨機率 0%。 溫度攝氏22度。 舒適。 東北風 平均風速3至4級(每秒7公尺)。 相對濕度為79%。
         </text>
        </time>
-       <time end="2014-09-26T00:00+08:00" start="2014-09-25T21:00+08:00">
+       <time end="2014-10-18T12:00+08:00" start="2014-10-18T09:00+08:00">
         <text>
-         多雲。 降雨機率 0%。 溫度攝氏28度。 舒適。 東北風 平均風速2至3級(每秒4公尺)。 相對濕度為79%。
+         晴天。 降雨機率 0%。 溫度攝氏26度。 舒適。 東北風 平均風速4至5級(每秒8公尺)。 相對濕度為67%。
         </text>
        </time>
-       <time end="2014-09-26T03:00+08:00" start="2014-09-26T00:00+08:00">
+       <time end="2014-10-18T15:00+08:00" start="2014-10-18T12:00+08:00">
         <text>
-         多雲。 降雨機率 0%。 溫度攝氏27度。 舒適。 偏東風 平均風速1至2級(每秒3公尺)。 相對濕度為83%。
+         晴天。 降雨機率 0%。 溫度攝氏29度。 舒適。 東北風 平均風速4至5級(每秒8公尺)。 相對濕度為55%。
         </text>
        </time>
-       <time end="2014-09-26T06:00+08:00" start="2014-09-26T03:00+08:00">
+       <time end="2014-10-18T18:00+08:00" start="2014-10-18T15:00+08:00">
         <text>
-         多雲。 降雨機率 0%。 溫度攝氏26度。 舒適。 偏東風 平均風速1至2級(每秒3公尺)。 相對濕度為85%。
+         晴天。 降雨機率 0%。 溫度攝氏28度。 舒適。 東北風 平均風速4至5級(每秒8公尺)。 相對濕度為58%。
         </text>
        </time>
-       <time end="2014-09-26T09:00+08:00" start="2014-09-26T06:00+08:00">
+       <time end="2014-10-18T21:00+08:00" start="2014-10-18T18:00+08:00">
         <text>
-         晴天。 降雨機率 10%。 溫度攝氏25度。 舒適。 東北風 平均風速1至2級(每秒3公尺)。 相對濕度為84%。
+         晴天。 降雨機率 0%。 溫度攝氏25度。 舒適。 偏東風 平均風速3至4級(每秒7公尺)。 相對濕度為68%。
         </text>
        </time>
-       <time end="2014-09-26T12:00+08:00" start="2014-09-26T09:00+08:00">
+       <time end="2014-10-19T00:00+08:00" start="2014-10-18T21:00+08:00">
         <text>
-         多雲。 降雨機率 10%。 溫度攝氏30度。 悶熱。 東北風 平均風速3至4級(每秒6公尺)。 相對濕度為73%。
+         多雲。 降雨機率 0%。 溫度攝氏23度。 舒適。 偏東風 平均風速3至4級(每秒6公尺)。 相對濕度為77%。
         </text>
        </time>
-       <time end="2014-09-26T15:00+08:00" start="2014-09-26T12:00+08:00">
+       <time end="2014-10-19T03:00+08:00" start="2014-10-19T00:00+08:00">
         <text>
-         多雲。 降雨機率 10%。 溫度攝氏33度。 悶熱。 東北風 平均風速3至4級(每秒7公尺)。 相對濕度為63%。
+         多雲。 降雨機率 0%。 溫度攝氏23度。 舒適。 偏東風 平均風速2至3級(每秒5公尺)。 相對濕度為83%。
         </text>
        </time>
-       <time end="2014-09-26T18:00+08:00" start="2014-09-26T15:00+08:00">
+       <time end="2014-10-19T06:00+08:00" start="2014-10-19T03:00+08:00">
         <text>
-         多雲。 降雨機率 10%。 溫度攝氏33度。 悶熱。 東北風 平均風速3至4級(每秒7公尺)。 相對濕度為61%。
+         晴天。 降雨機率 0%。 溫度攝氏22度。 舒適。 偏東風 平均風速2至3級(每秒5公尺)。 相對濕度為83%。
         </text>
        </time>
-       <time end="2014-09-26T21:00+08:00" start="2014-09-26T18:00+08:00">
+       <time end="2014-10-19T09:00+08:00" start="2014-10-19T06:00+08:00">
         <text>
-         多雲。 降雨機率 0%。 溫度攝氏30度。 悶熱。 東北風 平均風速3至4級(每秒7公尺)。 相對濕度為70%。
+         多雲。 降雨機率 0%。 溫度攝氏21度。 舒適。 偏東風 平均風速2至3級(每秒4公尺)。 相對濕度為78%。
         </text>
        </time>
-       <time end="2014-09-27T00:00+08:00" start="2014-09-26T21:00+08:00">
+       <time end="2014-10-19T12:00+08:00" start="2014-10-19T09:00+08:00">
         <text>
-         多雲。 降雨機率 0%。 溫度攝氏28度。 舒適。 東北風 平均風速3至4級(每秒6公尺)。 相對濕度為78%。
+         晴天。 降雨機率 0%。 溫度攝氏27度。 舒適。 東北風 平均風速2至3級(每秒5公尺)。 相對濕度為65%。
         </text>
        </time>
-       <time end="2014-09-27T03:00+08:00" start="2014-09-27T00:00+08:00">
+       <time end="2014-10-19T15:00+08:00" start="2014-10-19T12:00+08:00">
         <text>
-         多雲。 降雨機率 0%。 溫度攝氏27度。 舒適。 東北風 平均風速2至3級(每秒5公尺)。 相對濕度為82%。
+         多雲。 降雨機率 0%。 溫度攝氏30度。 舒適。 偏北風 平均風速2至3級(每秒5公尺)。 相對濕度為61%。
         </text>
        </time>
-       <time end="2014-09-27T06:00+08:00" start="2014-09-27T03:00+08:00">
+       <time end="2014-10-19T18:00+08:00" start="2014-10-19T15:00+08:00">
         <text>
-         多雲。 降雨機率 0%。 溫度攝氏26度。 舒適。 偏南風 平均風速0至1級(每秒1公尺)。 相對濕度為84%。
+         晴天。 降雨機率 0%。 溫度攝氏29度。 舒適。 東北風 平均風速2至3級(每秒5公尺)。 相對濕度為66%。
         </text>
        </time>
-       <time end="2014-09-27T09:00+08:00" start="2014-09-27T06:00+08:00">
+       <time end="2014-10-19T21:00+08:00" start="2014-10-19T18:00+08:00">
         <text>
-         多雲。 降雨機率 10%。 溫度攝氏25度。 舒適。 西南風 平均風速1至2級(每秒2公尺)。 相對濕度為85%。
+         晴天。 降雨機率 0%。 溫度攝氏26度。 舒適。 東南風 平均風速小於1級(每秒0公尺)。 相對濕度為76%。
         </text>
        </time>
-       <time end="2014-09-27T12:00+08:00" start="2014-09-27T09:00+08:00">
+       <time end="2014-10-20T00:00+08:00" start="2014-10-19T21:00+08:00">
         <text>
-         晴天。 降雨機率 10%。 溫度攝氏30度。 悶熱。 西北風 平均風速1至2級(每秒3公尺)。 相對濕度為79%。
+         晴天。 降雨機率 0%。 溫度攝氏24度。 舒適。 東南風 平均風速小於1級(每秒0公尺)。 相對濕度為84%。
         </text>
        </time>
-       <time end="2014-09-27T15:00+08:00" start="2014-09-27T12:00+08:00">
+       <time end="2014-10-20T03:00+08:00" start="2014-10-20T00:00+08:00">
         <text>
-         晴天。 降雨機率 0%。 溫度攝氏34度。 悶熱。 偏北風 平均風速2至3級(每秒4公尺)。 相對濕度為64%。
+         多雲。 降雨機率 0%。 溫度攝氏24度。 舒適。 偏東風 平均風速小於1級(每秒0公尺)。 相對濕度為87%。
         </text>
        </time>
-       <time end="2014-09-27T18:00+08:00" start="2014-09-27T15:00+08:00">
+       <time end="2014-10-20T06:00+08:00" start="2014-10-20T03:00+08:00">
         <text>
-         晴天。 降雨機率 0%。 溫度攝氏34度。 悶熱。 東北風 平均風速2至3級(每秒4公尺)。 相對濕度為58%。
+         晴天。 降雨機率 0%。 溫度攝氏23度。 舒適。 偏東風 平均風速小於1級(每秒0公尺)。 相對濕度為85%。
         </text>
        </time>
-       <time end="2014-09-27T21:00+08:00" start="2014-09-27T18:00+08:00">
+       <time end="2014-10-20T09:00+08:00" start="2014-10-20T06:00+08:00">
         <text>
-         多雲。 降雨機率 0%。 溫度攝氏31度。 悶熱。 東北風 平均風速2至3級(每秒4公尺)。 相對濕度為68%。
+         多雲。 降雨機率 0%。 溫度攝氏23度。 舒適。 東北風 平均風速小於1級(每秒0公尺)。 相對濕度為80%。
         </text>
        </time>
-       <time end="2014-09-28T00:00+08:00" start="2014-09-27T21:00+08:00">
+       <time end="2014-10-20T12:00+08:00" start="2014-10-20T09:00+08:00">
         <text>
-         多雲。 降雨機率 0%。 溫度攝氏28度。 舒適。 東北風 平均風速2至3級(每秒4公尺)。 相對濕度為78%。
+         晴天。 降雨機率 0%。 溫度攝氏26度。 舒適。 偏北風 平均風速1至2級(每秒2公尺)。 相對濕度為75%。
         </text>
        </time>
-       <time end="2014-09-28T03:00+08:00" start="2014-09-28T00:00+08:00">
+       <time end="2014-10-20T15:00+08:00" start="2014-10-20T12:00+08:00">
         <text>
-         多雲。 降雨機率 0%。 溫度攝氏27度。 舒適。 東北風 平均風速1至2級(每秒3公尺)。 相對濕度為83%。
+         多雲。 降雨機率 0%。 溫度攝氏28度。 舒適。 偏北風 平均風速2至3級(每秒4公尺)。 相對濕度為72%。
         </text>
        </time>
-       <time end="2014-09-28T06:00+08:00" start="2014-09-28T03:00+08:00">
+       <time end="2014-10-20T18:00+08:00" start="2014-10-20T15:00+08:00">
         <text>
-         晴天。 降雨機率 0%。 溫度攝氏26度。 舒適。 東北風 平均風速1至2級(每秒2公尺)。 相對濕度為84%。
+         晴天。 降雨機率 0%。 溫度攝氏28度。 舒適。 偏東風 平均風速小於1級(每秒0公尺)。 相對濕度為74%。
         </text>
        </time>
-       <time end="2014-09-28T09:00+08:00" start="2014-09-28T06:00+08:00">
+       <time end="2014-10-20T21:00+08:00" start="2014-10-20T18:00+08:00">
         <text>
-         晴天。 溫度攝氏25度。 舒適。 東北風 平均風速2至3級(每秒5公尺)。 相對濕度為79%。
+         多雲。 降雨機率 0%。 溫度攝氏25度。 舒適。 偏南風 平均風速小於1級(每秒0公尺)。 相對濕度為84%。
         </text>
        </time>
-       <time end="2014-09-28T12:00+08:00" start="2014-09-28T09:00+08:00">
+       <time end="2014-10-21T00:00+08:00" start="2014-10-20T21:00+08:00">
         <text>
-         多雲。 溫度攝氏30度。 悶熱。 偏北風 平均風速3至4級(每秒6公尺)。 相對濕度為72%。
+         晴天。 降雨機率 0%。 溫度攝氏24度。 舒適。 偏南風 平均風速小於1級(每秒0公尺)。 相對濕度為89%。
         </text>
        </time>
-       <time end="2014-09-28T15:00+08:00" start="2014-09-28T12:00+08:00">
+       <time end="2014-10-21T03:00+08:00" start="2014-10-21T00:00+08:00">
         <text>
-         多雲。 溫度攝氏34度。 悶熱。 偏北風 平均風速3至4級(每秒6公尺)。 相對濕度為62%。
+         多雲。 降雨機率 0%。 溫度攝氏23度。 舒適。 偏南風 平均風速小於1級(每秒0公尺)。 相對濕度為87%。
         </text>
        </time>
-       <time end="2014-09-28T18:00+08:00" start="2014-09-28T15:00+08:00">
+       <time end="2014-10-21T06:00+08:00" start="2014-10-21T03:00+08:00">
         <text>
-         多雲。 溫度攝氏33度。 悶熱。 東北風 平均風速3至4級(每秒6公尺)。 相對濕度為60%。
+         晴天。 降雨機率 0%。 溫度攝氏23度。 舒適。 偏東風 平均風速小於1級(每秒0公尺)。 相對濕度為82%。
         </text>
        </time>
       </WeatherDescription>

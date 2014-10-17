@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
- <identifier>a2e91853-7628-42d6-82c0-a3da80cc31a0</identifier>
+ <identifier>f9f60bf1-5d33-4770-b8fe-94fa85ee0774</identifier>
  <sender>weather@cwb.gov.tw</sender>
- <sent>2014-09-25T17:01:10+08:00</sent>
+ <sent>2014-10-18T02:01:18+08:00</sent>
  <status>Actual</status>
  <msgType>Issue</msgType>
  <scope>Public</scope>
@@ -28,7 +28,7 @@
    <uri>http://opendata.cwb.gov.tw/opendata/MSC/O-B0029-002.jpg</uri>
   </resource>
   <time>
-   <obsTime>2014-09-25T17:00:00+08:00</obsTime>
+   <obsTime>2014-10-18T02:00:00+08:00</obsTime>
   </time>
  </dataset>
 </cwbopendata>

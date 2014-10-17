@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
- <identifier>bf2704a6-77ad-4caa-bd79-b304cfdfa673</identifier>
+ <identifier>c6713392-f783-4dc4-a204-fff0ae866379</identifier>
  <sender>weather@cwb.gov.tw</sender>
- <sent>2014-09-25T15:56:27+08:00</sent>
+ <sent>2014-10-17T15:27:37+08:00</sent>
  <status>Actual</status>
  <msgType>Issue</msgType>
  <scope>Public</scope>
@@ -20367,31 +20367,31 @@
     </time>
     <time>
      <dataTime>2014-9-25</dataTime>
-     <value/>
+     <value>4.3</value>
     </time>
     <time>
      <dataTime>2014-9-26</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-27</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-28</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-29</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-30</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <parameter>
      <parameterName>平均值 Mean</parameterName>
-     <parameterValue>5.4</parameterValue>
+     <parameterValue>5.2</parameterValue>
     </parameter>
     <parameter>
      <parameterName>最高值 Max</parameterName>
@@ -20399,11 +20399,11 @@
     </parameter>
     <parameter>
      <parameterName>最低值 Min</parameterName>
-     <parameterValue>4.4</parameterValue>
+     <parameterValue>4.3</parameterValue>
     </parameter>
     <parameter>
      <parameterName>採樣數  Sap</parameterName>
-     <parameterValue>5</parameterValue>
+     <parameterValue>6</parameterValue>
     </parameter>
    </location>
    <location>
@@ -20506,27 +20506,27 @@
     </time>
     <time>
      <dataTime>2014-9-25</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-26</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-27</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-28</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-29</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-30</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <parameter>
      <parameterName>平均值 Mean</parameterName>
@@ -20645,27 +20645,27 @@
     </time>
     <time>
      <dataTime>2014-9-25</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-26</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-27</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-28</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-29</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-30</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <parameter>
      <parameterName>平均值 Mean</parameterName>
@@ -20784,27 +20784,27 @@
     </time>
     <time>
      <dataTime>2014-9-25</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-26</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-27</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-28</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-29</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-30</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <parameter>
      <parameterName>平均值 Mean</parameterName>
@@ -20923,27 +20923,27 @@
     </time>
     <time>
      <dataTime>2014-9-25</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-26</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-27</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-28</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-29</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-30</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <parameter>
      <parameterName>平均值 Mean</parameterName>
@@ -21062,27 +21062,27 @@
     </time>
     <time>
      <dataTime>2014-9-25</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-26</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-27</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-28</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-29</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-30</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <parameter>
      <parameterName>平均值 Mean</parameterName>
@@ -21201,27 +21201,27 @@
     </time>
     <time>
      <dataTime>2014-9-25</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-26</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-27</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-28</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-29</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-30</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <parameter>
      <parameterName>平均值 Mean</parameterName>
@@ -21324,47 +21324,47 @@
     </time>
     <time>
      <dataTime>2014-9-21</dataTime>
-     <value/>
+     <value>6.1</value>
     </time>
     <time>
      <dataTime>2014-9-22</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-23</dataTime>
-     <value/>
+     <value>5.7</value>
     </time>
     <time>
      <dataTime>2014-9-24</dataTime>
-     <value/>
+     <value>5.4</value>
     </time>
     <time>
      <dataTime>2014-9-25</dataTime>
-     <value/>
+     <value>5.8</value>
     </time>
     <time>
      <dataTime>2014-9-26</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-27</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-28</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-29</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-30</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <parameter>
      <parameterName>平均值 Mean</parameterName>
-     <parameterValue>5.6</parameterValue>
+     <parameterValue>5.7</parameterValue>
     </parameter>
     <parameter>
      <parameterName>最高值 Max</parameterName>
@@ -21376,7 +21376,7 @@
     </parameter>
     <parameter>
      <parameterName>採樣數  Sap</parameterName>
-     <parameterValue>8</parameterValue>
+     <parameterValue>12</parameterValue>
     </parameter>
    </location>
    <location>
@@ -21479,27 +21479,27 @@
     </time>
     <time>
      <dataTime>2014-9-25</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-26</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-27</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-28</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-29</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-30</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <parameter>
      <parameterName>平均值 Mean</parameterName>
@@ -21618,27 +21618,27 @@
     </time>
     <time>
      <dataTime>2014-9-25</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-26</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-27</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-28</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-29</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-30</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <parameter>
      <parameterName>平均值 Mean</parameterName>
@@ -21757,31 +21757,31 @@
     </time>
     <time>
      <dataTime>2014-9-25</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-26</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-27</dataTime>
-     <value/>
+     <value>4.3</value>
     </time>
     <time>
      <dataTime>2014-9-28</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-29</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-30</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <parameter>
      <parameterName>平均值 Mean</parameterName>
-     <parameterValue>5.6</parameterValue>
+     <parameterValue>5.5</parameterValue>
     </parameter>
     <parameter>
      <parameterName>最高值 Max</parameterName>
@@ -21789,11 +21789,11 @@
     </parameter>
     <parameter>
      <parameterName>最低值 Min</parameterName>
-     <parameterValue>4.6</parameterValue>
+     <parameterValue>4.3</parameterValue>
     </parameter>
     <parameter>
      <parameterName>採樣數  Sap</parameterName>
-     <parameterValue>7</parameterValue>
+     <parameterValue>8</parameterValue>
     </parameter>
    </location>
    <location>
@@ -21896,31 +21896,31 @@
     </time>
     <time>
      <dataTime>2014-9-25</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-26</dataTime>
-     <value/>
+     <value>4.9</value>
     </time>
     <time>
      <dataTime>2014-9-27</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-28</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-29</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-30</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <parameter>
      <parameterName>平均值 Mean</parameterName>
-     <parameterValue>6.2</parameterValue>
+     <parameterValue>6.0</parameterValue>
     </parameter>
     <parameter>
      <parameterName>最高值 Max</parameterName>
@@ -21928,11 +21928,11 @@
     </parameter>
     <parameter>
      <parameterName>最低值 Min</parameterName>
-     <parameterValue>5.9</parameterValue>
+     <parameterValue>4.9</parameterValue>
     </parameter>
     <parameter>
      <parameterName>採樣數  Sap</parameterName>
-     <parameterValue>6</parameterValue>
+     <parameterValue>7</parameterValue>
     </parameter>
    </location>
    <location>
@@ -22035,27 +22035,27 @@
     </time>
     <time>
      <dataTime>2014-9-25</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-26</dataTime>
-     <value/>
+     <value>5.7</value>
     </time>
     <time>
      <dataTime>2014-9-27</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-28</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-29</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-30</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <parameter>
      <parameterName>平均值 Mean</parameterName>
@@ -22071,7 +22071,7 @@
     </parameter>
     <parameter>
      <parameterName>採樣數  Sap</parameterName>
-     <parameterValue>6</parameterValue>
+     <parameterValue>7</parameterValue>
     </parameter>
    </location>
    <location>
@@ -22174,27 +22174,27 @@
     </time>
     <time>
      <dataTime>2014-9-25</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-26</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-27</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-28</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-29</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-30</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <parameter>
      <parameterName>平均值 Mean</parameterName>
@@ -22313,31 +22313,31 @@
     </time>
     <time>
      <dataTime>2014-9-25</dataTime>
-     <value/>
+     <value>4.6</value>
     </time>
     <time>
      <dataTime>2014-9-26</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-27</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-28</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-29</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-30</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <parameter>
      <parameterName>平均值 Mean</parameterName>
-     <parameterValue>5.2</parameterValue>
+     <parameterValue>5.1</parameterValue>
     </parameter>
     <parameter>
      <parameterName>最高值 Max</parameterName>
@@ -22349,7 +22349,7 @@
     </parameter>
     <parameter>
      <parameterName>採樣數  Sap</parameterName>
-     <parameterValue>7</parameterValue>
+     <parameterValue>8</parameterValue>
     </parameter>
    </location>
    <location>
@@ -22452,39 +22452,39 @@
     </time>
     <time>
      <dataTime>2014-9-25</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-26</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-27</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-28</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-29</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-30</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <parameter>
      <parameterName>平均值 Mean</parameterName>
-     <parameterValue> </parameterValue>
+     <parameterValue>-</parameterValue>
     </parameter>
     <parameter>
      <parameterName>最高值 Max</parameterName>
-     <parameterValue>0.0</parameterValue>
+     <parameterValue>-</parameterValue>
     </parameter>
     <parameter>
      <parameterName>最低值 Min</parameterName>
-     <parameterValue>0.0</parameterValue>
+     <parameterValue>-</parameterValue>
     </parameter>
     <parameter>
      <parameterName>採樣數  Sap</parameterName>
@@ -22591,27 +22591,27 @@
     </time>
     <time>
      <dataTime>2014-9-25</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-26</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-27</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-28</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-29</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-30</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <parameter>
      <parameterName>平均值 Mean</parameterName>
@@ -22730,27 +22730,27 @@
     </time>
     <time>
      <dataTime>2014-9-25</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-26</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-27</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-28</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-29</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-9-30</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <parameter>
      <parameterName>平均值 Mean</parameterName>
@@ -22776,67 +22776,67 @@
     <locationName>基隆</locationName>
     <time>
      <dataTime>2014-10-1</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-2</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-3</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-4</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-5</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-6</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-7</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-8</dataTime>
-     <value/>
+     <value>4.1</value>
     </time>
     <time>
      <dataTime>2014-10-9</dataTime>
-     <value/>
+     <value>4.3</value>
     </time>
     <time>
      <dataTime>2014-10-10</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-11</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-12</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-13</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-14</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-15</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-16</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-17</dataTime>
@@ -22900,86 +22900,86 @@
     </time>
     <parameter>
      <parameterName>平均值 Mean</parameterName>
-     <parameterValue> </parameterValue>
+     <parameterValue>4.2</parameterValue>
     </parameter>
     <parameter>
      <parameterName>最高值 Max</parameterName>
-     <parameterValue>0.0</parameterValue>
+     <parameterValue>4.3</parameterValue>
     </parameter>
     <parameter>
      <parameterName>最低值 Min</parameterName>
-     <parameterValue>0.0</parameterValue>
+     <parameterValue>4.1</parameterValue>
     </parameter>
     <parameter>
      <parameterName>採樣數  Sap</parameterName>
-     <parameterValue>0</parameterValue>
+     <parameterValue>2</parameterValue>
     </parameter>
    </location>
    <location>
     <locationName>鞍部</locationName>
     <time>
      <dataTime>2014-10-1</dataTime>
-     <value/>
+     <value>4.2</value>
     </time>
     <time>
      <dataTime>2014-10-2</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-3</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-4</dataTime>
-     <value/>
+     <value>4.1</value>
     </time>
     <time>
      <dataTime>2014-10-5</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-6</dataTime>
-     <value/>
+     <value>3.8</value>
     </time>
     <time>
      <dataTime>2014-10-7</dataTime>
-     <value/>
+     <value>4.2</value>
     </time>
     <time>
      <dataTime>2014-10-8</dataTime>
-     <value/>
+     <value>4.1</value>
     </time>
     <time>
      <dataTime>2014-10-9</dataTime>
-     <value/>
+     <value>4.6</value>
     </time>
     <time>
      <dataTime>2014-10-10</dataTime>
-     <value/>
+     <value>4.3</value>
     </time>
     <time>
      <dataTime>2014-10-11</dataTime>
-     <value/>
+     <value>3.9</value>
     </time>
     <time>
      <dataTime>2014-10-12</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-13</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-14</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-15</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-16</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-17</dataTime>
@@ -23043,86 +23043,86 @@
     </time>
     <parameter>
      <parameterName>平均值 Mean</parameterName>
-     <parameterValue> </parameterValue>
+     <parameterValue>4.2</parameterValue>
     </parameter>
     <parameter>
      <parameterName>最高值 Max</parameterName>
-     <parameterValue>0.0</parameterValue>
+     <parameterValue>4.6</parameterValue>
     </parameter>
     <parameter>
      <parameterName>最低值 Min</parameterName>
-     <parameterValue>0.0</parameterValue>
+     <parameterValue>3.8</parameterValue>
     </parameter>
     <parameter>
      <parameterName>採樣數  Sap</parameterName>
-     <parameterValue>0</parameterValue>
+     <parameterValue>8</parameterValue>
     </parameter>
    </location>
    <location>
     <locationName>臺北</locationName>
     <time>
      <dataTime>2014-10-1</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-2</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-3</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-4</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-5</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-6</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-7</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-8</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-9</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-10</dataTime>
-     <value/>
+     <value>4.6</value>
     </time>
     <time>
      <dataTime>2014-10-11</dataTime>
-     <value/>
+     <value>3.8</value>
     </time>
     <time>
      <dataTime>2014-10-12</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-13</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-14</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-15</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-16</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-17</dataTime>
@@ -23186,86 +23186,86 @@
     </time>
     <parameter>
      <parameterName>平均值 Mean</parameterName>
-     <parameterValue> </parameterValue>
+     <parameterValue>4.2</parameterValue>
     </parameter>
     <parameter>
      <parameterName>最高值 Max</parameterName>
-     <parameterValue>0.0</parameterValue>
+     <parameterValue>4.6</parameterValue>
     </parameter>
     <parameter>
      <parameterName>最低值 Min</parameterName>
-     <parameterValue>0.0</parameterValue>
+     <parameterValue>3.8</parameterValue>
     </parameter>
     <parameter>
      <parameterName>採樣數  Sap</parameterName>
-     <parameterValue>0</parameterValue>
+     <parameterValue>2</parameterValue>
     </parameter>
    </location>
    <location>
     <locationName>新竹</locationName>
     <time>
      <dataTime>2014-10-1</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-2</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-3</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-4</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-5</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-6</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-7</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-8</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-9</dataTime>
-     <value/>
+     <value>5.3</value>
     </time>
     <time>
      <dataTime>2014-10-10</dataTime>
-     <value/>
+     <value>5.5</value>
     </time>
     <time>
      <dataTime>2014-10-11</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-12</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-13</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-14</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-15</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-16</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-17</dataTime>
@@ -23329,86 +23329,86 @@
     </time>
     <parameter>
      <parameterName>平均值 Mean</parameterName>
-     <parameterValue> </parameterValue>
+     <parameterValue>5.4</parameterValue>
     </parameter>
     <parameter>
      <parameterName>最高值 Max</parameterName>
-     <parameterValue>0.0</parameterValue>
+     <parameterValue>5.5</parameterValue>
     </parameter>
     <parameter>
      <parameterName>最低值 Min</parameterName>
-     <parameterValue>0.0</parameterValue>
+     <parameterValue>5.3</parameterValue>
     </parameter>
     <parameter>
      <parameterName>採樣數  Sap</parameterName>
-     <parameterValue>0</parameterValue>
+     <parameterValue>2</parameterValue>
     </parameter>
    </location>
    <location>
     <locationName>臺中</locationName>
     <time>
      <dataTime>2014-10-1</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-2</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-3</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-4</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-5</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-6</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-7</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-8</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-9</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-10</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-11</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-12</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-13</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-14</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-15</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-16</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-17</dataTime>
@@ -23491,67 +23491,67 @@
     <locationName>日月潭</locationName>
     <time>
      <dataTime>2014-10-1</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-2</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-3</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-4</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-5</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-6</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-7</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-8</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-9</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-10</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-11</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-12</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-13</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-14</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-15</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-16</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-17</dataTime>
@@ -23634,67 +23634,67 @@
     <locationName>嘉義</locationName>
     <time>
      <dataTime>2014-10-1</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-2</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-3</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-4</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-5</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-6</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-7</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-8</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-9</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-10</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-11</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-12</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-13</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-14</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-15</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-16</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-17</dataTime>
@@ -23777,67 +23777,67 @@
     <locationName>阿里山</locationName>
     <time>
      <dataTime>2014-10-1</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-2</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-3</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-4</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-5</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-6</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-7</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-8</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-9</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-10</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-11</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-12</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-13</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-14</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-15</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-16</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-17</dataTime>
@@ -23920,67 +23920,67 @@
     <locationName>臺南</locationName>
     <time>
      <dataTime>2014-10-1</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-2</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-3</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-4</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-5</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-6</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-7</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-8</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-9</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-10</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-11</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-12</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-13</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-14</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-15</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-16</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-17</dataTime>
@@ -24063,67 +24063,67 @@
     <locationName>高雄</locationName>
     <time>
      <dataTime>2014-10-1</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-2</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-3</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-4</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-5</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-6</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-7</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-8</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-9</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-10</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-11</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-12</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-13</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-14</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-15</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-16</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-17</dataTime>
@@ -24206,67 +24206,67 @@
     <locationName>恆春</locationName>
     <time>
      <dataTime>2014-10-1</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-2</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-3</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-4</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-5</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-6</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-7</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-8</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-9</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-10</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-11</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-12</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-13</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-14</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-15</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-16</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-17</dataTime>
@@ -24349,67 +24349,67 @@
     <locationName>臺東</locationName>
     <time>
      <dataTime>2014-10-1</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-2</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-3</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-4</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-5</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-6</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-7</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-8</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-9</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-10</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-11</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-12</dataTime>
-     <value/>
+     <value>4.8</value>
     </time>
     <time>
      <dataTime>2014-10-13</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-14</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-15</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-16</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-17</dataTime>
@@ -24473,86 +24473,86 @@
     </time>
     <parameter>
      <parameterName>平均值 Mean</parameterName>
-     <parameterValue> </parameterValue>
+     <parameterValue>4.8</parameterValue>
     </parameter>
     <parameter>
      <parameterName>最高值 Max</parameterName>
-     <parameterValue>0.0</parameterValue>
+     <parameterValue>4.8</parameterValue>
     </parameter>
     <parameter>
      <parameterName>最低值 Min</parameterName>
-     <parameterValue>0.0</parameterValue>
+     <parameterValue>4.8</parameterValue>
     </parameter>
     <parameter>
      <parameterName>採樣數  Sap</parameterName>
-     <parameterValue>0</parameterValue>
+     <parameterValue>1</parameterValue>
     </parameter>
    </location>
    <location>
     <locationName>成功</locationName>
     <time>
      <dataTime>2014-10-1</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-2</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-3</dataTime>
-     <value/>
+     <value>4.0</value>
     </time>
     <time>
      <dataTime>2014-10-4</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-5</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-6</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-7</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-8</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-9</dataTime>
-     <value/>
+     <value>5.5</value>
     </time>
     <time>
      <dataTime>2014-10-10</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-11</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-12</dataTime>
-     <value/>
+     <value>4.8</value>
     </time>
     <time>
      <dataTime>2014-10-13</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-14</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-15</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-16</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-17</dataTime>
@@ -24616,86 +24616,86 @@
     </time>
     <parameter>
      <parameterName>平均值 Mean</parameterName>
-     <parameterValue> </parameterValue>
+     <parameterValue>4.8</parameterValue>
     </parameter>
     <parameter>
      <parameterName>最高值 Max</parameterName>
-     <parameterValue>0.0</parameterValue>
+     <parameterValue>5.5</parameterValue>
     </parameter>
     <parameter>
      <parameterName>最低值 Min</parameterName>
-     <parameterValue>0.0</parameterValue>
+     <parameterValue>4.0</parameterValue>
     </parameter>
     <parameter>
      <parameterName>採樣數  Sap</parameterName>
-     <parameterValue>0</parameterValue>
+     <parameterValue>3</parameterValue>
     </parameter>
    </location>
    <location>
     <locationName>花蓮</locationName>
     <time>
      <dataTime>2014-10-1</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-2</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-3</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-4</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-5</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-6</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-7</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-8</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-9</dataTime>
-     <value/>
+     <value>6.3</value>
     </time>
     <time>
      <dataTime>2014-10-10</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-11</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-12</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-13</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-14</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-15</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-16</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-17</dataTime>
@@ -24759,86 +24759,86 @@
     </time>
     <parameter>
      <parameterName>平均值 Mean</parameterName>
-     <parameterValue> </parameterValue>
+     <parameterValue>6.3</parameterValue>
     </parameter>
     <parameter>
      <parameterName>最高值 Max</parameterName>
-     <parameterValue>0.0</parameterValue>
+     <parameterValue>6.3</parameterValue>
     </parameter>
     <parameter>
      <parameterName>最低值 Min</parameterName>
-     <parameterValue>0.0</parameterValue>
+     <parameterValue>6.3</parameterValue>
     </parameter>
     <parameter>
      <parameterName>採樣數  Sap</parameterName>
-     <parameterValue>0</parameterValue>
+     <parameterValue>1</parameterValue>
     </parameter>
    </location>
    <location>
     <locationName>宜蘭</locationName>
     <time>
      <dataTime>2014-10-1</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-2</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-3</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-4</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-5</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-6</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-7</dataTime>
-     <value/>
+     <value>4.1</value>
     </time>
     <time>
      <dataTime>2014-10-8</dataTime>
-     <value/>
+     <value>3.8</value>
     </time>
     <time>
      <dataTime>2014-10-9</dataTime>
-     <value/>
+     <value>4.5</value>
     </time>
     <time>
      <dataTime>2014-10-10</dataTime>
-     <value/>
+     <value>4.9</value>
     </time>
     <time>
      <dataTime>2014-10-11</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-12</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-13</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-14</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-15</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-16</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-17</dataTime>
@@ -24902,86 +24902,86 @@
     </time>
     <parameter>
      <parameterName>平均值 Mean</parameterName>
-     <parameterValue> </parameterValue>
+     <parameterValue>4.3</parameterValue>
     </parameter>
     <parameter>
      <parameterName>最高值 Max</parameterName>
-     <parameterValue>0.0</parameterValue>
+     <parameterValue>4.9</parameterValue>
     </parameter>
     <parameter>
      <parameterName>最低值 Min</parameterName>
-     <parameterValue>0.0</parameterValue>
+     <parameterValue>3.8</parameterValue>
     </parameter>
     <parameter>
      <parameterName>採樣數  Sap</parameterName>
-     <parameterValue>0</parameterValue>
+     <parameterValue>4</parameterValue>
     </parameter>
    </location>
    <location>
     <locationName>金門</locationName>
     <time>
      <dataTime>2014-10-1</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-2</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-3</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-4</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-5</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-6</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-7</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-8</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-9</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-10</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-11</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-12</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-13</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-14</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-15</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-16</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-17</dataTime>
@@ -25064,67 +25064,67 @@
     <locationName>馬祖</locationName>
     <time>
      <dataTime>2014-10-1</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-2</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-3</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-4</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-5</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-6</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-7</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-8</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-9</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-10</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-11</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-12</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-13</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-14</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-15</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-16</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-17</dataTime>
@@ -25207,67 +25207,67 @@
     <locationName>澎湖</locationName>
     <time>
      <dataTime>2014-10-1</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-2</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-3</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-4</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-5</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-6</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-7</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-8</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-9</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-10</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-11</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-12</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-13</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-14</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-15</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-16</dataTime>
-     <value/>
+     <value>-</value>
     </time>
     <time>
      <dataTime>2014-10-17</dataTime>

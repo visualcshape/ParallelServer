@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1"> 
- <identifier>65aef114-4493-11e4-ab73-2c44fd83e9f8</identifier> 
+ <identifier>a4146056-5627-11e4-8004-2c44fd83e9f8</identifier> 
  <sender>weather@cwb.gov.tw</sender> 
- <sent>2014-09-25T17:07:38+08:00</sent> 
+ <sent>2014-10-18T02:01:38+08:00</sent> 
  <status>Actual</status> 
  <msgType>Issue</msgType> 
  <scope>Public</scope> 
@@ -20,7 +20,7 @@
    </parameterset> 
  </datasetinfo> 
  <time> 
- <obsTime>2014-09-25T17:00:00+08:00</obsTime> 
+ <obsTime>2014-10-18T01:54:00+08:00</obsTime> 
  </time> 
   <resource> 
    <resourceDesc>雷達回波圖</resourceDesc> 

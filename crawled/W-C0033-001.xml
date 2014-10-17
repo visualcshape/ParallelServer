@@ -1,37 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fifowml version="1.1">
     <head>
-        <updated>2014-09-25T15:20:45+08:00</updated>
+        <updated>2014-10-17T21:28:23+08:00</updated>
     </head>
     <data category="alert-bulletins" structure="location-series">
         
         <location id="10017" type="region">
             <name lang="zh-TW">基隆市</name>
             <name lang="en">Keelung City</name>
-            <hazard-conditions>
-    
-                <hazard>
-                    <phenomena lang="en">Heavy Rain</phenomena>
-                    <significance lang="en">advisory</significance>
-                    <phenomena lang="zh-TW">大雨</phenomena>
-                    <significance lang="zh-TW">特報</significance>
-                    <status>new</status>
-                    <valid-time start="2014-09-25T15:12:00+08:00" end="2014-09-25T21:00:00+08:00" />
-                    <hazard-conditions>
-    
-                        <hazard>
-                            <phenomena lang="en">Heavy Rain</phenomena>
-                            <phenomena lang="zh-TW">大雨</phenomena>
-                            <affected-areas>
-                                <location type="area"><name lang="zh-TW">基隆北海岸</name><name lang="en">Keelung North Coast</name></location>
-                                
-                            </affected-areas>
-                        </hazard>
-    
-                    </hazard-conditions>
-                </hazard>
-    
-            </hazard-conditions>
+            
         </location>
         
         <location id="63000" type="region">
@@ -43,62 +20,13 @@
         <location id="65000" type="region">
             <name lang="zh-TW">新北市</name>
             <name lang="en">New Taipei City</name>
-            <hazard-conditions>
-    
-                <hazard>
-                    <phenomena lang="en">Heavy Rain</phenomena>
-                    <significance lang="en">advisory</significance>
-                    <phenomena lang="zh-TW">大雨</phenomena>
-                    <significance lang="zh-TW">特報</significance>
-                    <status>new</status>
-                    <valid-time start="2014-09-25T15:12:00+08:00" end="2014-09-25T21:00:00+08:00" />
-                    <hazard-conditions>
-    
-                        <hazard>
-                            <phenomena lang="en">Heavy Rain</phenomena>
-                            <phenomena lang="zh-TW">大雨</phenomena>
-                            <affected-areas>
-                                <location type="area"><name lang="zh-TW">山區</name><name lang="en">Mountain Area</name></location>
-                                
-                            
-                                <location type="area"><name lang="zh-TW">基隆北海岸</name><name lang="en">Keelung North Coast</name></location>
-                                
-                            </affected-areas>
-                        </hazard>
-    
-                    </hazard-conditions>
-                </hazard>
-    
-            </hazard-conditions>
+            
         </location>
         
         <location id="10003" type="region">
             <name lang="zh-TW">桃園縣</name>
             <name lang="en">Taoyuan County</name>
-            <hazard-conditions>
-    
-                <hazard>
-                    <phenomena lang="en">Heavy Rain</phenomena>
-                    <significance lang="en">advisory</significance>
-                    <phenomena lang="zh-TW">大雨</phenomena>
-                    <significance lang="zh-TW">特報</significance>
-                    <status>new</status>
-                    <valid-time start="2014-09-25T15:12:00+08:00" end="2014-09-25T21:00:00+08:00" />
-                    <hazard-conditions>
-    
-                        <hazard>
-                            <phenomena lang="en">Heavy Rain</phenomena>
-                            <phenomena lang="zh-TW">大雨</phenomena>
-                            <affected-areas>
-                                <location type="area"><name lang="zh-TW">山區</name><name lang="en">Mountain Area</name></location>
-                                
-                            </affected-areas>
-                        </hazard>
-    
-                    </hazard-conditions>
-                </hazard>
-    
-            </hazard-conditions>
+            
         </location>
         
         <location id="10018" type="region">
@@ -110,88 +38,19 @@
         <location id="10004" type="region">
             <name lang="zh-TW">新竹縣</name>
             <name lang="en">Hsinchu County</name>
-            <hazard-conditions>
-    
-                <hazard>
-                    <phenomena lang="en">Heavy Rain</phenomena>
-                    <significance lang="en">advisory</significance>
-                    <phenomena lang="zh-TW">大雨</phenomena>
-                    <significance lang="zh-TW">特報</significance>
-                    <status>new</status>
-                    <valid-time start="2014-09-25T15:12:00+08:00" end="2014-09-25T21:00:00+08:00" />
-                    <hazard-conditions>
-    
-                        <hazard>
-                            <phenomena lang="en">Heavy Rain</phenomena>
-                            <phenomena lang="zh-TW">大雨</phenomena>
-                            <affected-areas>
-                                <location type="area"><name lang="zh-TW">山區</name><name lang="en">Mountain Area</name></location>
-                                
-                            </affected-areas>
-                        </hazard>
-    
-                    </hazard-conditions>
-                </hazard>
-    
-            </hazard-conditions>
+            
         </location>
         
         <location id="10005" type="region">
             <name lang="zh-TW">苗栗縣</name>
             <name lang="en">Miaoli County</name>
-            <hazard-conditions>
-    
-                <hazard>
-                    <phenomena lang="en">Heavy Rain</phenomena>
-                    <significance lang="en">advisory</significance>
-                    <phenomena lang="zh-TW">大雨</phenomena>
-                    <significance lang="zh-TW">特報</significance>
-                    <status>new</status>
-                    <valid-time start="2014-09-25T15:12:00+08:00" end="2014-09-25T21:00:00+08:00" />
-                    <hazard-conditions>
-    
-                        <hazard>
-                            <phenomena lang="en">Heavy Rain</phenomena>
-                            <phenomena lang="zh-TW">大雨</phenomena>
-                            <affected-areas>
-                                <location type="area"><name lang="zh-TW">山區</name><name lang="en">Mountain Area</name></location>
-                                
-                            </affected-areas>
-                        </hazard>
-    
-                    </hazard-conditions>
-                </hazard>
-    
-            </hazard-conditions>
+            
         </location>
         
         <location id="66000" type="region">
             <name lang="zh-TW">臺中市</name>
             <name lang="en">Taichung City</name>
-            <hazard-conditions>
-    
-                <hazard>
-                    <phenomena lang="en">Heavy Rain</phenomena>
-                    <significance lang="en">advisory</significance>
-                    <phenomena lang="zh-TW">大雨</phenomena>
-                    <significance lang="zh-TW">特報</significance>
-                    <status>new</status>
-                    <valid-time start="2014-09-25T15:12:00+08:00" end="2014-09-25T21:00:00+08:00" />
-                    <hazard-conditions>
-    
-                        <hazard>
-                            <phenomena lang="en">Heavy Rain</phenomena>
-                            <phenomena lang="zh-TW">大雨</phenomena>
-                            <affected-areas>
-                                <location type="area"><name lang="zh-TW">山區</name><name lang="en">Mountain Area</name></location>
-                                
-                            </affected-areas>
-                        </hazard>
-    
-                    </hazard-conditions>
-                </hazard>
-    
-            </hazard-conditions>
+            
         </location>
         
         <location id="10007" type="region">
@@ -203,88 +62,19 @@
         <location id="10009" type="region">
             <name lang="zh-TW">雲林縣</name>
             <name lang="en">Yunlin County</name>
-            <hazard-conditions>
-    
-                <hazard>
-                    <phenomena lang="en">Heavy Rain</phenomena>
-                    <significance lang="en">advisory</significance>
-                    <phenomena lang="zh-TW">大雨</phenomena>
-                    <significance lang="zh-TW">特報</significance>
-                    <status>new</status>
-                    <valid-time start="2014-09-25T15:12:00+08:00" end="2014-09-25T21:00:00+08:00" />
-                    <hazard-conditions>
-    
-                        <hazard>
-                            <phenomena lang="en">Heavy Rain</phenomena>
-                            <phenomena lang="zh-TW">大雨</phenomena>
-                            <affected-areas>
-                                <location type="area"><name lang="zh-TW">山區</name><name lang="en">Mountain Area</name></location>
-                                
-                            </affected-areas>
-                        </hazard>
-    
-                    </hazard-conditions>
-                </hazard>
-    
-            </hazard-conditions>
+            
         </location>
         
         <location id="10008" type="region">
             <name lang="zh-TW">南投縣</name>
             <name lang="en">Nantou County</name>
-            <hazard-conditions>
-    
-                <hazard>
-                    <phenomena lang="en">Heavy Rain</phenomena>
-                    <significance lang="en">advisory</significance>
-                    <phenomena lang="zh-TW">大雨</phenomena>
-                    <significance lang="zh-TW">特報</significance>
-                    <status>new</status>
-                    <valid-time start="2014-09-25T15:12:00+08:00" end="2014-09-25T21:00:00+08:00" />
-                    <hazard-conditions>
-    
-                        <hazard>
-                            <phenomena lang="en">Heavy Rain</phenomena>
-                            <phenomena lang="zh-TW">大雨</phenomena>
-                            <affected-areas>
-                                <location type="area"><name lang="zh-TW">山區</name><name lang="en">Mountain Area</name></location>
-                                
-                            </affected-areas>
-                        </hazard>
-    
-                    </hazard-conditions>
-                </hazard>
-    
-            </hazard-conditions>
+            
         </location>
         
         <location id="10010" type="region">
             <name lang="zh-TW">嘉義縣</name>
             <name lang="en">Chiayi County</name>
-            <hazard-conditions>
-    
-                <hazard>
-                    <phenomena lang="en">Heavy Rain</phenomena>
-                    <significance lang="en">advisory</significance>
-                    <phenomena lang="zh-TW">大雨</phenomena>
-                    <significance lang="zh-TW">特報</significance>
-                    <status>new</status>
-                    <valid-time start="2014-09-25T15:12:00+08:00" end="2014-09-25T21:00:00+08:00" />
-                    <hazard-conditions>
-    
-                        <hazard>
-                            <phenomena lang="en">Heavy Rain</phenomena>
-                            <phenomena lang="zh-TW">大雨</phenomena>
-                            <affected-areas>
-                                <location type="area"><name lang="zh-TW">山區</name><name lang="en">Mountain Area</name></location>
-                                
-                            </affected-areas>
-                        </hazard>
-    
-                    </hazard-conditions>
-                </hazard>
-    
-            </hazard-conditions>
+            
         </location>
         
         <location id="10020" type="region">
@@ -296,88 +86,19 @@
         <location id="67000" type="region">
             <name lang="zh-TW">臺南市</name>
             <name lang="en">Tainan City</name>
-            <hazard-conditions>
-    
-                <hazard>
-                    <phenomena lang="en">Heavy Rain</phenomena>
-                    <significance lang="en">advisory</significance>
-                    <phenomena lang="zh-TW">大雨</phenomena>
-                    <significance lang="zh-TW">特報</significance>
-                    <status>new</status>
-                    <valid-time start="2014-09-25T15:12:00+08:00" end="2014-09-25T21:00:00+08:00" />
-                    <hazard-conditions>
-    
-                        <hazard>
-                            <phenomena lang="en">Heavy Rain</phenomena>
-                            <phenomena lang="zh-TW">大雨</phenomena>
-                            <affected-areas>
-                                <location type="area"><name lang="zh-TW">山區</name><name lang="en">Mountain Area</name></location>
-                                
-                            </affected-areas>
-                        </hazard>
-    
-                    </hazard-conditions>
-                </hazard>
-    
-            </hazard-conditions>
+            
         </location>
         
         <location id="64000" type="region">
             <name lang="zh-TW">高雄市</name>
             <name lang="en">Kaohsiung City</name>
-            <hazard-conditions>
-    
-                <hazard>
-                    <phenomena lang="en">Heavy Rain</phenomena>
-                    <significance lang="en">advisory</significance>
-                    <phenomena lang="zh-TW">大雨</phenomena>
-                    <significance lang="zh-TW">特報</significance>
-                    <status>new</status>
-                    <valid-time start="2014-09-25T15:12:00+08:00" end="2014-09-25T21:00:00+08:00" />
-                    <hazard-conditions>
-    
-                        <hazard>
-                            <phenomena lang="en">Heavy Rain</phenomena>
-                            <phenomena lang="zh-TW">大雨</phenomena>
-                            <affected-areas>
-                                <location type="area"><name lang="zh-TW">山區</name><name lang="en">Mountain Area</name></location>
-                                
-                            </affected-areas>
-                        </hazard>
-    
-                    </hazard-conditions>
-                </hazard>
-    
-            </hazard-conditions>
+            
         </location>
         
         <location id="10013" type="region">
             <name lang="zh-TW">屏東縣</name>
             <name lang="en">Pingtung County</name>
-            <hazard-conditions>
-    
-                <hazard>
-                    <phenomena lang="en">Heavy Rain</phenomena>
-                    <significance lang="en">advisory</significance>
-                    <phenomena lang="zh-TW">大雨</phenomena>
-                    <significance lang="zh-TW">特報</significance>
-                    <status>new</status>
-                    <valid-time start="2014-09-25T15:12:00+08:00" end="2014-09-25T21:00:00+08:00" />
-                    <hazard-conditions>
-    
-                        <hazard>
-                            <phenomena lang="en">Heavy Rain</phenomena>
-                            <phenomena lang="zh-TW">大雨</phenomena>
-                            <affected-areas>
-                                <location type="area"><name lang="zh-TW">山區</name><name lang="en">Mountain Area</name></location>
-                                
-                            </affected-areas>
-                        </hazard>
-    
-                    </hazard-conditions>
-                </hazard>
-    
-            </hazard-conditions>
+            
         </location>
         
         <location id="10002" type="region">
@@ -391,7 +112,7 @@
                     <phenomena lang="zh-TW">大雨</phenomena>
                     <significance lang="zh-TW">特報</significance>
                     <status>new</status>
-                    <valid-time start="2014-09-25T15:12:00+08:00" end="2014-09-25T21:00:00+08:00" />
+                    <valid-time start="2014-10-17T21:22:00+08:00" end="2014-10-18T11:00:00+08:00" />
                     <hazard-conditions>
     
                         <hazard>
@@ -423,7 +144,7 @@
                     <phenomena lang="zh-TW">大雨</phenomena>
                     <significance lang="zh-TW">特報</significance>
                     <status>new</status>
-                    <valid-time start="2014-09-25T15:12:00+08:00" end="2014-09-25T21:00:00+08:00" />
+                    <valid-time start="2014-10-17T21:22:00+08:00" end="2014-10-18T11:00:00+08:00" />
                     <hazard-conditions>
     
                         <hazard>
@@ -431,6 +152,9 @@
                             <phenomena lang="zh-TW">大雨</phenomena>
                             <affected-areas>
                                 <location type="area"><name lang="zh-TW">山區</name><name lang="en">Mountain Area</name></location>
+                                
+                            
+                                <location type="area"><name lang="zh-TW">平地</name><name lang="en">Flat Ground</name></location>
                                 
                             </affected-areas>
                         </hazard>
